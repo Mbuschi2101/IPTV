@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-name=""tvg-id="Das Erste"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ard.png"group-title="Film/Serie/Doku":http-user-agent="",Das Erste
 plugin://plugin.video.playlistbee/?name=ARD+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1234%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2F4meIyfc.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdf.png"group-title="Film/Serie/Doku":http-user-agent="",ZDF
+#EXTINF:-1 tvg-name="ZDF.de"tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdf.png"group-title="Film/Serie/Doku":http-user-agent="",ZDF
 plugin://plugin.video.playlistbee/?name=ZDF+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D1236%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FuJPXkHO.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl.png"group-title="Film/Serie/Doku":http-user-agent="",RTL
 plugin://plugin.video.playlistbee/?name=RTL+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1238%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2Fqt8qqNc.png&logos=&epg=&cache=0&uuid=0
