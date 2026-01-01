@@ -3,7 +3,7 @@
 rtsp://192.168.178.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5100,5101,1170,1176,2171,5102,5103,5104,5105,5106,5107,5108,5172
 #EXTINF:-1 tvg-name="ZDF"tvg-id="ZDF"tvg-logo=""group-title="Pÿur":http-user-agent="",ZDF
 rtsp://192.168.178.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,650,6110,6120,6121,6122,6123,6130,6131,6132,6170,6171,6172
-#EXTINF:-1 tvg-name="RTL"tvg-id="RTL"tvg-logo=""group-title="Pÿur":http-user-agent="",RTL
+#EXTINF:-1 tvg-name="RTL"tvg-id="RTL"tvg-logo="rtl.png"group-title="Pÿur":http-user-agent="",RTL
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106,107,108,119
 #EXTINF:-1 tvg-name="SAT.1"tvg-id="SAT.1"tvg-logo=""group-title="Pÿur":http-user-agent="",SAT.1
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106
