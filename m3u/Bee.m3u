@@ -161,41 +161,41 @@ plugin://plugin.video.playlistbee/?name=ORF+3&url=http%3A%2F%2Fz1mag.xyz%3A8080%
 plugin://plugin.video.playlistbee/?name=S1+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D126302%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FIDe2RRW.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport News"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportnews.png"group-title="Sport":http-user-agent="",Sky Sport News
 plugin://plugin.video.playlistbee/?name=SKY+SPORT+NEWS+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D11127%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FKLBnMy7.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn1.png"group-title="Sport":http-user-agent="",DAZN 1
+#EXTINF:-1 tvg-name=""tvg-id="DAZN1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn1.png"group-title="Sport":http-user-agent="",DAZN 1
 plugin://plugin.video.playlistbee/?name=DAZN+SPORT+1&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D597441%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Flogo%2FItaly%2Fdazn1.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn2.png"group-title="Sport":http-user-agent="",DAZN 2
+#EXTINF:-1 tvg-name=""tvg-id="DAZN2.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn2.png"group-title="Sport":http-user-agent="",DAZN 2
 plugin://plugin.video.playlistbee/?name=DAZN+SPORT+2&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A66%26stream%3D993%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Flogo%2FItaly%2Fdazn2.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/DAZNrise.png"group-title="Sport":http-user-agent="",DAZN Rise
+#EXTINF:-1 tvg-name=""tvg-id="DAZN RISE [de]"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/DAZNrise.png"group-title="Sport":http-user-agent="",DAZN Rise
 plugin://plugin.video.playlistbee/?name=DAZN+RISE+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A66%26stream%3D996%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Flogo%2Fgermany%2FDAZNRISE.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga
+#EXTINF:-1 tvg-name=""tvg-id="SkyBundesliga.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga
 plugin://plugin.video.playlistbee/?name=SKY+BUNDESLIGA&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A13%3A56%3Aaa%26stream%3D444877%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fskysportbundesliga.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga1.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 1
+#EXTINF:-1 tvg-name=""tvg-id="SkyBundesliga1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga1.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 1
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga2.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 2
+#EXTINF:-1 tvg-name=""tvg-id="SkyBundesliga2.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga2.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 2
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+2
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga3.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 3
+#EXTINF:-1 tvg-name=""tvg-id="SkyBundesliga3.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga3.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 3
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+3
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga4.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 4
+#EXTINF:-1 tvg-name=""tvg-id="SkyBundesliga4.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga4.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 4
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+4
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga5.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 5
+#EXTINF:-1 tvg-name=""tvg-id="SkyBundesliga5.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga5.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 5
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga6.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 6
+#EXTINF:-1 tvg-name=""tvg-id="SkyBundesliga6.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga6.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 6
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+6
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga7.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 7
+#EXTINF:-1 tvg-name=""tvg-id="SkyBundesliga7.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga7.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 7
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+7
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga8.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 8
+#EXTINF:-1 tvg-name=""tvg-id="SkyBundesliga8.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga8.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 8
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga9.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 9
+#EXTINF:-1 tvg-name=""tvg-id="SkyBundesliga9.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga9.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 9
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+9
-#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria1.png"group-title="Sport":http-user-agent="",Sky Sport Austria 1
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 1 HD"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria1.png"group-title="Sport":http-user-agent="",Sky Sport Austria 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+1+%28MATCH+TIME%29
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria2.png"group-title="Sport":http-user-agent="",Sky Sport Austria 2
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 2 HD"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria2.png"group-title="Sport":http-user-agent="",Sky Sport Austria 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+2+%28MATCH+TIME%29
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria3.png"group-title="Sport":http-user-agent="",Sky Sport Austria 3
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 3 HD"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria3.png"group-title="Sport":http-user-agent="",Sky Sport Austria 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+3+%28MATCH+TIME%29
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria4.png"group-title="Sport":http-user-agent="",Sky Sport Austria 4
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 4 HD"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria4.png"group-title="Sport":http-user-agent="",Sky Sport Austria 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+4+%28MATCH+TIME%29
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria5.png"group-title="Sport":http-user-agent="",Sky Sport Austria 5
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 5 HD"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria5.png"group-title="Sport":http-user-agent="",Sky Sport Austria 5
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+5+%28MATCH+TIME%29
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Mix"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportmix.png"group-title="Sport":http-user-agent="",Sky Sport Mix
 plugin://plugin.video.playlistbee/?name=SKY+SPORT+MIX+RAW&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D184145%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FlzEZPci.png&logos=&epg=&cache=0&uuid=0
@@ -205,39 +205,39 @@ plugin://plugin.video.playlistbee/?name=SKY+SPORT+TOP+EVENT+RAW&url=http%3A%2F%2
 plugin://plugin.video.playlistbee/?name=SKY+SPORT+PREMIER+LEAGUE+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D184144%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FS9XYizF.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="SKY Sport F1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportf1.png"group-title="Sport":http-user-agent="",Sky Sport F1
 plugin://plugin.video.playlistbee/?name=SKY+SPORT+F1+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D11123%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2F2LxIngO.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 1
+#EXTINF:-1 tvg-name=""tvg-id="Sport 1 - myTeamTV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 1
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 2
+#EXTINF:-1 tvg-name=""tvg-id="Sport 2 - myTeamTV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 2
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+2
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 3
+#EXTINF:-1 tvg-name=""tvg-id="Sport 3 - myTeamTV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 3
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+3
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 4
+#EXTINF:-1 tvg-name=""tvg-id="Sport 4 - myTeamTV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 4
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+4
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 5
+#EXTINF:-1 tvg-name=""tvg-id="Sport 5 - myTeamTV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 5
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 6
+#EXTINF:-1 tvg-name=""tvg-id="Sport 6 - myTeamTV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 6
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+6
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 7
+#EXTINF:-1 tvg-name=""tvg-id="Sport 7 - myTeamTV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 7
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+7
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 8
+#EXTINF:-1 tvg-name=""tvg-id="Sport 8 - myTeamTV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 8
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 9
+#EXTINF:-1 tvg-name=""tvg-id="Sport 9 - myTeamTV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 9
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+9
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport1.png"group-title="Sport":http-user-agent="",Sky Sport 1
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport1.png"group-title="Sport":http-user-agent="",Sky Sport 1
 plugin://plugin.video.vavooto/?name=SKY+SPORT+1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport2.png"group-title="Sport":http-user-agent="",Sky Sport 2
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport2.png"group-title="Sport":http-user-agent="",Sky Sport 2
 plugin://plugin.video.vavooto/?name=SKY+SPORT+2
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport3.png"group-title="Sport":http-user-agent="",Sky Sport 3
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 3"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport3.png"group-title="Sport":http-user-agent="",Sky Sport 3
 plugin://plugin.video.vavooto/?name=SKY+SPORT+3
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport4.png"group-title="Sport":http-user-agent="",Sky Sport 4
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 4"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport4.png"group-title="Sport":http-user-agent="",Sky Sport 4
 plugin://plugin.video.vavooto/?name=SKY+SPORT+4
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport5.png"group-title="Sport":http-user-agent="",Sky Sport 5
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 5"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport5.png"group-title="Sport":http-user-agent="",Sky Sport 5
 plugin://plugin.video.vavooto/?name=SKY+SPORT+5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport6.png"group-title="Sport":http-user-agent="",Sky Sport 6
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 6"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport6.png"group-title="Sport":http-user-agent="",Sky Sport 6
 plugin://plugin.video.vavooto/?name=SKY+SPORT+6
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport7.png"group-title="Sport":http-user-agent="",Sky Sport 7
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 7"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport7.png"group-title="Sport":http-user-agent="",Sky Sport 7
 plugin://plugin.video.vavooto/?name=SKY+SPORT+7
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport8.png"group-title="Sport":http-user-agent="",Sky Sport 8
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 8"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport8.png"group-title="Sport":http-user-agent="",Sky Sport 8
 plugin://plugin.video.vavooto/?name=SKY+SPORT+8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport9.png"group-title="Sport":http-user-agent="",Sky Sport 9
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 9"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport9.png"group-title="Sport":http-user-agent="",Sky Sport 9
 plugin://plugin.video.vavooto/?name=SKY+SPORT+9
