@@ -155,14 +155,24 @@ https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="rbb Berlin.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rbb.png"group-title="Film/Serie/Doku":http-user-agent="",RBB
 https://rbb-live.ard-mcdn.de/rbb/brandenburg/hls/de/master.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="S1.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/s1.png"group-title="Film/Serie/Doku":http-user-agent="",S1
+plugin://plugin.video.playlistbee/?name=S1+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D126302%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FIDe2RRW.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="ORF 1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"group-title="Film/Serie/Doku":http-user-agent="",ORF 1
 plugin://plugin.video.playlistbee/?name=ORF+1&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D797904%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Ftvlogo.nl%2Ffiles%2Fch%2FAUSTRA%2FORF1-min.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="ORF 2.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"group-title="Film/Serie/Doku":http-user-agent="",ORF 2
 plugin://plugin.video.playlistbee/?name=ORF+2+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D797903%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Ftvlogo.nl%2Ffiles%2Fch%2FAUSTRA%2FORF2HD-min.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="ORF III.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf3.png"group-title="Film/Serie/Doku":http-user-agent="",ORF 3
 plugin://plugin.video.playlistbee/?name=ORF+3&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D797900%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Ftvlogo.nl%2Ffiles%2Fch%2FAUSTRA%2FORF_III_HD-min.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="S1.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/s1.png"group-title="Film/Serie/Doku":http-user-agent="",S1
-plugin://plugin.video.playlistbee/?name=S1+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D126302%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FIDe2RRW.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id="SRF info.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/srfinfo.png"group-title="Film/Serie/Doku":http-user-agent="",SRF Info
+plugin://plugin.video.playlistbee/?name=SRF+INFO+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D49440%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2F9BId5UW.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id="SRF1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/srf1.png"group-title="Film/Serie/Doku":http-user-agent="",SRF 1
+plugin://plugin.video.playlistbee/?name=SRF+1+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D49441%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FaFwgKX0.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id="SRF2.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/srf2.png"group-title="Film/Serie/Doku":http-user-agent="",SRF 2
+plugin://plugin.video.playlistbee/?name=SRF+2+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D49442%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FCIo23cr.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id="TV24.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/TV%2024.png"group-title="Film/Serie/Doku":http-user-agent="",TV 24
+plugin://plugin.video.playlistbee/?name=TV+24+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D121184%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FjEHk21t.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id="TV25.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/TV25.png"group-title="Film/Serie/Doku":http-user-agent="",TV 25
+plugin://plugin.video.playlistbee/?name=TV+25+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D49586%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FtOuMTXL.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport News HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportnews.png"group-title="Sport":http-user-agent="",Sky Sport News
 plugin://plugin.video.playlistbee/?name=SKY+SPORT+NEWS+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D11127%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FKLBnMy7.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="DAZN 1 HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn1.png"group-title="Sport":http-user-agent="",DAZN 1
@@ -192,15 +202,15 @@ plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+8
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 9.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga9.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 9
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+9
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 1 HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria1.png"group-title="Sport":http-user-agent="",Sky Sport Austria 1
-plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+1+%28MATCH+TIME%29
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+AUSTRIA+1+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D11163%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FZ8jUuKQ.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 2 HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria2.png"group-title="Sport":http-user-agent="",Sky Sport Austria 2
-plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+2+%28MATCH+TIME%29
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+AUSTRIA+2+RAW&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D148756%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FrlprqOw.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 3 HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria3.png"group-title="Sport":http-user-agent="",Sky Sport Austria 3
-plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+3+%28MATCH+TIME%29
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+AUSTRIA+3+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D11167%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FMz2wHw7.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 4 HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria4.png"group-title="Sport":http-user-agent="",Sky Sport Austria 4
-plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+4+%28MATCH+TIME%29
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+AUSTRIA+4+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D11169%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FBwZJT4B.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 5 HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria5.png"group-title="Sport":http-user-agent="",Sky Sport Austria 5
-plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+5+%28MATCH+TIME%29
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+AUSTRIA+5+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D11171%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FM6RWHEG.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Mix HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportmix.png"group-title="Sport":http-user-agent="",Sky Sport Mix
 plugin://plugin.video.playlistbee/?name=SKY+SPORT+MIX+RAW&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D184145%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FlzEZPci.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Top Event HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysporttopevent.png"group-title="Sport":http-user-agent="",Sky Sport Top Event
@@ -245,6 +255,8 @@ plugin://plugin.video.vavooto/?name=SKY+SPORT+7
 plugin://plugin.video.vavooto/?name=SKY+SPORT+8
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport 9.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport9.png"group-title="Sport":http-user-agent="",Sky Sport 9
 plugin://plugin.video.vavooto/?name=SKY+SPORT+9
+#EXTINF:-1 tvg-name=""tvg-id="blue Zoom D.ch"tvg-logo=""group-title="Sport":http-user-agent="",Blue Zoom D
+plugin://plugin.video.playlistbee/?name=BLUE+SPORT+ZOOM+D+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D589659%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fimage-service.goldbach.com%2FGT78B-CWVWCkbxsoCImhmqdcFc8%3D%2F0x200%2Ffilters%3Aquality%2890%29%2Fhttps%3A%2F%2Fcdn.goldbach.com%2Fuploads%2Fproduction%2F5f574a8de2f9196327ad89f6%2F2021%2F04%2Fbluezoom_logo_negativ-2.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sport1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sport1.png"group-title="Sport":http-user-agent="",Sport 1
 plugin://plugin.video.playlistbee/?name=SPORT+1+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A66%26stream%3D1078%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Flogo%2Fgermany%2FSPORT1.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="SPORTDIGITAL FUSSBALL.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sportdigital.png"group-title="Sport":http-user-agent="",Sportdigital
