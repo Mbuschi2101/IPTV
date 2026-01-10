@@ -65,8 +65,6 @@ plugin://plugin.video.playlistbee/?name=SKY+CINEMA+ACTION+FHD&url=http%3A%2F%2Fg
 plugin://plugin.video.playlistbee/?name=SKY+CINEMA+FAMILY+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D2812%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FogTNvaV.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Highlights.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyhighlights.png"group-title="Film/Serie/Doku":http-user-agent="",Sky Cinema Highlights
 plugin://plugin.video.playlistbee/?name=SKY+CINEMA+HIGHLIGHTS+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D531966%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2Fwi8bIEH.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="Sky Showcase HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyshowcase.png"group-title="Film/Serie/Doku":http-user-agent="",Sky Showcase
-OpenFile: plugin://plugin.video.playlistbee/?name=SKY+SHOWCASE+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D552636%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Flogo%2Fgermany%2Fsky.showcase.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Warner TV Comedy.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnercomedy.png"group-title="Film/Serie/Doku":http-user-agent="",Warner TV Comedy
 plugin://plugin.video.playlistbee/?name=WARNER+TV+COMEDY+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D2827%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2F4BRfYpU.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Warner TV Film.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerfilm.png"group-title="Film/Serie/Doku":http-user-agent="",Warner TV Film
@@ -170,9 +168,9 @@ plugin://plugin.video.playlistbee/?name=DAZN+SPORT+2&url=http%3A%2F%2Fz1mag.xyz%
 #EXTINF:-1 tvg-name=""tvg-id="DAZN RISE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/DAZNrise.png"group-title="Sport":http-user-agent="",DAZN Rise
 plugin://plugin.video.playlistbee/?name=DAZN+RISE+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A66%26stream%3D996%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Flogo%2Fgermany%2FDAZNRISE.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga
-plugin://plugin.video.playlistbee/?name=SKY+BUNDESLIGA&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A13%3A56%3Aaa%26stream%3D444877%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fskysportbundesliga.png&logos=&epg=&cache=0&uuid=0
+plugin://plugin.video.playlistbee/?name=SKY+BUNDESLIGA+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D444878%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fskysportbundesliga.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga1.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 1
-plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+1
+plugin://plugin.video.playlistbee/?name=SKY+BUNDESLIGA+1+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D444876%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fskysportbundesliga1.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 2.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga2.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 2
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+2
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 3.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga3.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 3
@@ -251,15 +249,3 @@ plugin://plugin.video.playlistbee/?name=SPORTDIGITAL+FUSSBALL+HD&url=http%3A%2F%
 plugin://plugin.video.playlistbee/?name=SPORTDIGITAL+1%2B&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D829393%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fsportdigitalhd.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Auto Motor and Sport TV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/automotorsport.png"group-title="Sport":http-user-agent="",Auto Motor and Sport TV
 plugin://plugin.video.playlistbee/?name=AUTO+MOTOR+SPORT+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D1087%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fautomotorsport.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
