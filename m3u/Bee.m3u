@@ -134,15 +134,15 @@ plugin://plugin.video.playlistbee/?name=PROSIEBEN+MAXX+FHD&url=http%3A%2F%2Fgerm
 #EXTINF:-1 tvg-name=""tvg-id="Comedy Central.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/comedycentral.png"group-title="Film/Serie/Doku":http-user-agent="",Comedy Central
 plugin://plugin.video.playlistbee/?name=COMEDY+CENTRAL+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D593306%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Ftvlogolar.xyz%2Flogo%2Fgermany%2FCOMEDY.CENTRAL.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="ARD-alpha.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ardalpha.png"group-title="Film/Serie/Doku":http-user-agent="",ARD-alpha
-plugin://plugin.video.playlistbee/?name=ARD+ALPHA+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D1312%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FHn6yrv2.png&logos=&epg=&cache=0&uuid=0
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3sat.png"group-title="Film/Serie/Doku":http-user-agent="",3 Sat
-plugin://plugin.video.playlistbee/?name=3SAT+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D1288%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FtMeBcjf.png&logos=&epg=&cache=0&uuid=0
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="ARTE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/arte.png"group-title="Film/Serie/Doku":http-user-agent="",Arte
-plugin://plugin.video.playlistbee/?name=ARTE+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D1280%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2F763qq40.png&logos=&epg=&cache=0&uuid=0
+	https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="BR Nord.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/br.png"group-title="Film/Serie/Doku":http-user-agent="",BR
 plugin://plugin.video.playlistbee/?name=BR+FERNSEHEN+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D1302%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FI3ln2U3.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="SWR Baden-Wurttemberg.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swr.png"group-title="Film/Serie/Doku":http-user-agent="",SR/SWR
-plugin://plugin.video.playlistbee/?name=SWR+RP+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1296%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FRL6fe00.png&logos=&epg=&cache=0&uuid=0
+https://mcdn.swr.de/swr/swrbwd/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="WDR Aachen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/wdr.png"group-title="Film/Serie/Doku":http-user-agent="",WDR
 plugin://plugin.video.playlistbee/?name=WDR&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1289%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FNWUwTLK.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="HR Fernsehen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/hr.png"group-title="Film/Serie/Doku":http-user-agent="",HR
