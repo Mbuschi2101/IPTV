@@ -1,8 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-name=""tvg-id="Das Erste.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ard.png"group-title="Film/Serie/Doku":http-user-agent="",Das Erste
-plugin://plugin.video.playlistbee/?name=ARD+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1234%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2F4meIyfc.png&logos=&epg=&cache=0&uuid=0
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="ZDF.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdf.png"group-title="Film/Serie/Doku":http-user-agent="",ZDF
-plugin://plugin.video.playlistbee/?name=ZDF+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D1236%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FuJPXkHO.png&logos=&epg=&cache=0&uuid=0
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="RTL.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl.png"group-title="Film/Serie/Doku":http-user-agent="",RTL
 plugin://plugin.video.playlistbee/?name=RTL+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1238%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2Fqt8qqNc.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sat.1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1.png"group-title="Film/Serie/Doku":http-user-agent="",SAT.1
@@ -32,7 +32,7 @@ plugin://plugin.video.playlistbee/?name=TELE+5+HD&url=http%3A%2F%2Fgermanytv.net
 #EXTINF:-1 tvg-name=""tvg-id="Sat.1 Gold.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1gold.png"group-title="Film/Serie/Doku":http-user-agent="",SAT.1 Gold
 plugin://plugin.video.playlistbee/?name=SAT.1+GOLD+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1252%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FrbMLo9S.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="ONE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/one.png"group-title="Film/Serie/Doku":http-user-agent="",ONE
-plugin://plugin.video.playlistbee/?name=ONE+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D1313%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FgJbycMR.png&logos=&epg=&cache=0&uuid=0
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="3+.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3%2B.png"group-title="Film/Serie/Doku":http-user-agent="",3+
 plugin://plugin.video.playlistbee/?name=3%2B+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D49446%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FugOKynR.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="4+.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/4%2B.png"group-title="Film/Serie/Doku":http-user-agent="",4+
@@ -92,11 +92,11 @@ plugin://plugin.video.playlistbee/?name=AXN+BLACK+FHD&url=http%3A%2F%2Fgermanytv
 #EXTINF:-1 tvg-name=""tvg-id="AXN white.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/axnwhite.png"group-title="Film/Serie/Doku":http-user-agent="",AXN White
 plugin://plugin.video.playlistbee/?name=AXN+WHITE+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D195393%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FeBhB9nk.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="ZDFneo.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfneo.png"group-title="Film/Serie/Doku":http-user-agent="",ZDFneo
-plugin://plugin.video.playlistbee/?name=ZDF+NEO+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D1264%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FU8Juhou.png&logos=&epg=&cache=0&uuid=0
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="MDR Sachsen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/mdr.png"group-title="Film/Serie/Doku":http-user-agent="",MDR Sachsen
-plugin://plugin.video.playlistbee/?name=MDR+SACHSEN+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1292%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2Fp85v4Dk.png&logos=&epg=&cache=0&uuid=0
+https://mdr-live.ard-mcdn.de/mdr/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="ZDFinfo.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfinfo.png"group-title="Film/Serie/Doku":http-user-agent="",ZDFinfo
-plugin://plugin.video.playlistbee/?name=ZDF+INFO+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D160841%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fpxpicon.xyz%2Fpars%2Fde%2Fdeutschland%2Fzdfinfofhd.png&logos=&epg=&cache=0&uuid=0
+	https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="WELT.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/welt.png"group-title="Film/Serie/Doku":http-user-agent="",Welt
 plugin://plugin.video.playlistbee/?name=WELT+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D36333%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2Fyu5w8tV.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="N-TV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ntv.png"group-title="Film/Serie/Doku":http-user-agent="",N-TV
@@ -133,6 +133,8 @@ plugin://plugin.video.playlistbee/?name=SKY+DOCUMENTARIES+FHD&url=http%3A%2F%2Fg
 plugin://plugin.video.playlistbee/?name=PROSIEBEN+MAXX+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D401502%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FdbAysD3.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Comedy Central.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/comedycentral.png"group-title="Film/Serie/Doku":http-user-agent="",Comedy Central
 plugin://plugin.video.playlistbee/?name=COMEDY+CENTRAL+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D593306%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Ftvlogolar.xyz%2Flogo%2Fgermany%2FCOMEDY.CENTRAL.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id="Tagesschau24.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tagesschau.png"group-title="Film/Serie/Doku":http-user-agent="",Tagesschau 24
+https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="ARD-alpha.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ardalpha.png"group-title="Film/Serie/Doku":http-user-agent="",ARD-alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3sat.png"group-title="Film/Serie/Doku":http-user-agent="",3 Sat
@@ -140,19 +142,19 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="ARTE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/arte.png"group-title="Film/Serie/Doku":http-user-agent="",Arte
 	https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="BR Nord.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/br.png"group-title="Film/Serie/Doku":http-user-agent="",BR
-plugin://plugin.video.playlistbee/?name=BR+FERNSEHEN+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D1302%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FI3ln2U3.png&logos=&epg=&cache=0&uuid=0
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="SWR Baden-Wurttemberg.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swr.png"group-title="Film/Serie/Doku":http-user-agent="",SR/SWR
 https://mcdn.swr.de/swr/swrbwd/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="WDR Aachen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/wdr.png"group-title="Film/Serie/Doku":http-user-agent="",WDR
-plugin://plugin.video.playlistbee/?name=WDR&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1289%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FNWUwTLK.png&logos=&epg=&cache=0&uuid=0
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="HR Fernsehen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/hr.png"group-title="Film/Serie/Doku":http-user-agent="",HR
-plugin://plugin.video.playlistbee/?name=HR+FERNSEHEN+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D1303%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2Fls5UA7b.png&logos=&epg=&cache=0&uuid=0
+https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="NDR Hamburg.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ndr.png"group-title="Film/Serie/Doku":http-user-agent="",NDR
-plugin://plugin.video.playlistbee/?name=NDR+FERNSEHEN+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1297%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2F6wEnGD9.png&logos=&epg=&cache=0&uuid=0
+	https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Phoenix.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/phoenix.png"group-title="Film/Serie/Doku":http-user-agent="",Phoenix
-plugin://plugin.video.playlistbee/?name=PHOENIX+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D195195%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2F47hUOIJ.png&logos=&epg=&cache=0&uuid=0
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="rbb Berlin.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rbb.png"group-title="Film/Serie/Doku":http-user-agent="",RBB
-plugin://plugin.video.playlistbee/?name=RBB+BERLIN+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1300%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FvobL0cR.png&logos=&epg=&cache=0&uuid=0
+https://rbb-live.ard-mcdn.de/rbb/brandenburg/hls/de/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="ORF 1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"group-title="Film/Serie/Doku":http-user-agent="",ORF 1
 plugin://plugin.video.playlistbee/?name=ORF+1&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D797904%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Ftvlogo.nl%2Ffiles%2Fch%2FAUSTRA%2FORF1-min.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="ORF 2.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"group-title="Film/Serie/Doku":http-user-agent="",ORF 2
