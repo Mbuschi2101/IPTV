@@ -95,8 +95,6 @@ plugin://plugin.video.playlistbee/?name=AXN+WHITE+FHD&url=http%3A%2F%2Fgermanytv
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="MDR Sachsen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/mdr.png"group-title="Film/Serie/Doku":http-user-agent="",MDR Sachsen
 https://mdr-live.ard-mcdn.de/mdr/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="ZDFinfo.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfinfo.png"group-title="Film/Serie/Doku":http-user-agent="",ZDFinfo
-	https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="WELT.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/welt.png"group-title="Film/Serie/Doku":http-user-agent="",Welt
 plugin://plugin.video.playlistbee/?name=WELT+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D36333%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2Fyu5w8tV.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="N-TV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ntv.png"group-title="Film/Serie/Doku":http-user-agent="",N-TV
@@ -139,8 +137,6 @@ https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3sat.png"group-title="Film/Serie/Doku":http-user-agent="",3 Sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="ARTE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/arte.png"group-title="Film/Serie/Doku":http-user-agent="",Arte
-	https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="BR Nord.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/br.png"group-title="Film/Serie/Doku":http-user-agent="",BR
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="SWR Baden-Wurttemberg.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swr.png"group-title="Film/Serie/Doku":http-user-agent="",SR/SWR
@@ -149,8 +145,6 @@ https://mcdn.swr.de/swr/swrbwd/master.m3u8
 https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="HR Fernsehen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/hr.png"group-title="Film/Serie/Doku":http-user-agent="",HR
 https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="NDR Hamburg.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ndr.png"group-title="Film/Serie/Doku":http-user-agent="",NDR
-	https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Phoenix.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/phoenix.png"group-title="Film/Serie/Doku":http-user-agent="",Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="rbb Berlin.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rbb.png"group-title="Film/Serie/Doku":http-user-agent="",RBB
@@ -255,7 +249,7 @@ plugin://plugin.video.vavooto/?name=SKY+SPORT+7
 plugin://plugin.video.vavooto/?name=SKY+SPORT+8
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport 9.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport9.png"group-title="Sport":http-user-agent="",Sky Sport 9
 plugin://plugin.video.vavooto/?name=SKY+SPORT+9
-#EXTINF:-1 tvg-name=""tvg-id="blue Zoom D.ch"tvg-logo=""group-title="Sport":http-user-agent="",Blue Zoom D
+#EXTINF:-1 tvg-name=""tvg-id="blue Zoom D.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bluezoomd.png"group-title="Sport":http-user-agent="",Blue Zoom D
 plugin://plugin.video.playlistbee/?name=BLUE+SPORT+ZOOM+D+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D589659%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fimage-service.goldbach.com%2FGT78B-CWVWCkbxsoCImhmqdcFc8%3D%2F0x200%2Ffilters%3Aquality%2890%29%2Fhttps%3A%2F%2Fcdn.goldbach.com%2Fuploads%2Fproduction%2F5f574a8de2f9196327ad89f6%2F2021%2F04%2Fbluezoom_logo_negativ-2.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sport1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sport1.png"group-title="Sport":http-user-agent="",Sport 1
 plugin://plugin.video.playlistbee/?name=SPORT+1+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A66%26stream%3D1078%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Flogo%2Fgermany%2FSPORT1.png&logos=&epg=&cache=0&uuid=0
