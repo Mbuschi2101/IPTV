@@ -93,6 +93,8 @@ plugin://plugin.video.playlistbee/?name=AXN+BLACK+FHD&url=http%3A%2F%2Fgermanytv
 plugin://plugin.video.playlistbee/?name=AXN+WHITE+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D195393%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FeBhB9nk.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="ZDFneo.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfneo.png"group-title="Film/Serie/Doku":http-user-agent="",ZDFneo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ZDFinfo.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfinfo.png"group-title="Film/Serie/Doku":http-user-agent="",ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="MDR Sachsen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/mdr.png"group-title="Film/Serie/Doku":http-user-agent="",MDR Sachsen
 https://mdr-live.ard-mcdn.de/mdr/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="WELT.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/welt.png"group-title="Film/Serie/Doku":http-user-agent="",Welt
