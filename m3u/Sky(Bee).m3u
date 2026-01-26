@@ -149,7 +149,7 @@ https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="BR Nord.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/br.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",BR
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="SWR Baden-Wurttemberg.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swr.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",SR/SWR
+#EXTINF:-1 tvg-name=""tvg-id="SWR Fernsehen BW.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swr.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",SR/SWR
 https://mcdn.swr.de/swr/swrbwd/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="ARTE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/arte.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Arte
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8 
@@ -273,5 +273,5 @@ plugin://plugin.video.playlistbee/?name=SPORT+1+HD&url=http%3A%2F%2Fz1mag.xyz%3A
 plugin://plugin.video.playlistbee/?name=SPORTDIGITAL+FUSSBALL+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A66%26stream%3D1083%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fsportdigital.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="SPORTDIGITAL1+.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Sportdigital%2B.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Sportdigital+
 plugin://plugin.video.playlistbee/?name=SPORTDIGITAL+1%2B&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D829393%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fsportdigitalhd.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="Auto Motor and Sport TV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/automotorsport.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Auto Motor and Sport TV
+#EXTINF:-1 tvg-name=""tvg-id="auto motor sport tv.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/automotorsport.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Auto Motor and Sport TV
 plugin://plugin.video.playlistbee/?name=AUTO+MOTOR+SPORT+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D1087%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fautomotorsport.png&logos=&epg=&cache=0&uuid=0
