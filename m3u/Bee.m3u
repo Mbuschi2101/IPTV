@@ -101,7 +101,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=zdf-info&level=hd&drm=False
 plugin://plugin.video.zattoo_com/?mode=watch&id=mdr-sachsen&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="WELT.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/welt.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Welt
 plugin://plugin.video.zattoo_com/?mode=watch&id=n24&level=sd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="n-tv.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nt.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",N-TV
+#EXTINF:-1 tvg-name=""tvg-id="n-tv.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ntv.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",N-TV
 plugin://plugin.video.playlistbee/?name=N-TV+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D36330%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FZ0UjZlp.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Bild.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Bild TV
 https://bild.personalstream.tv/v1/master.m3u8
@@ -119,7 +119,7 @@ plugin://plugin.video.playlistbee/?name=SPIEGEL+TV+WISSEN+HD&url=http%3A%2F%2Fge
 plugin://plugin.video.playlistbee/?name=NATIONAL+GEOGRAPHIC+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D36342%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FkjtEW3O.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="National Geographic Wild.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nationalwild.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",National Geographic Wild
 plugin://plugin.video.playlistbee/?name=NAT+GEO+WILD+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D36344%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FCepC8Ql.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="Discovery Channel.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/discover.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Discovery Channel
+#EXTINF:-1 tvg-name=""tvg-id="Discovery Channel.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/discovery.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Discovery Channel
 plugin://plugin.video.playlistbee/?name=DISCOVERY+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D36347%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FfqkLBua.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Spiegel Geschichte.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/spiegelgeschichte.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Spiegel Geschichte
 plugin://plugin.video.playlistbee/?name=SPIEGEL+GESCHICHTE+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D148128%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FXlx5621.png&logos=&epg=&cache=0&uuid=0
