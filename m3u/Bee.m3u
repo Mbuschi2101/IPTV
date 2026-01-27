@@ -164,7 +164,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=phoenix&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="rbb Berlin.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rbb.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",RBB
 plugin://plugin.video.zattoo_com/?mode=watch&id=rbb&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Leipzig Fernsehen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Leipzig.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Leipzig Fernsehen
-https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8 
+plugin://plugin.video.zattoo_com/?mode=watch&id=sachsen_fernsehen_leipzig_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="S1.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/s1.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",S1
 plugin://plugin.video.playlistbee/?name=S1+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D126302%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FIDe2RRW.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="ORF 1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",ORF 1
