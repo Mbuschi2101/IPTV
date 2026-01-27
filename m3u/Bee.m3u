@@ -32,7 +32,7 @@ plugin://plugin.video.playlistbee/?name=TELE+5+HD&url=http%3A%2F%2Fgermanytv.net
 #EXTINF:-1 tvg-name=""tvg-id="Sat.1 Gold.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1gold.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",SAT.1 Gold
 plugin://plugin.video.playlistbee/?name=SAT.1+GOLD+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1252%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FrbMLo9S.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="ONE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/one.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",ONE
-https://mcdn-one.ard.de/ardone/hls/master.m3u8
+plugin://plugin.video.zattoo_com/?mode=watch&id=einsfestival&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="3+.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3%2B.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",3+
 plugin://plugin.video.playlistbee/?name=3%2B+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D49446%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FugOKynR.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="4+.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/4%2B.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",4+
@@ -94,13 +94,13 @@ plugin://plugin.video.playlistbee/?name=AXN+BLACK+FHD&url=http%3A%2F%2Fgermanytv
 #EXTINF:-1 tvg-name=""tvg-id="AXN white.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/axnwhite.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",AXN White
 plugin://plugin.video.playlistbee/?name=AXN+WHITE+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D195393%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FeBhB9nk.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="ZDFneo.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfneo.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",ZDFneo
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+plugin://plugin.video.zattoo_com/?mode=watch&id=zdfneo&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="ZDFinfo.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfinfo.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",ZDFinfo
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+plugin://plugin.video.zattoo_com/?mode=watch&id=zdf-info&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="MDR Sachsen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/mdr.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",MDR Sachsen
-https://mdr-live.ard-mcdn.de/mdr/live/hls/de/master.m3u8
+plugin://plugin.video.zattoo_com/?mode=watch&id=mdr-sachsen&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="WELT.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/welt.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Welt
-https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8 
+plugin://plugin.video.zattoo_com/?mode=watch&id=n24&level=sd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="n-tv.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ntv.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",N-TV
 plugin://plugin.video.playlistbee/?name=N-TV+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D36330%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FZ0UjZlp.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Bild.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Bild TV
@@ -110,7 +110,7 @@ plugin://plugin.video.playlistbee/?name=DMAX+FHD&url=http%3A%2F%2Fgermanytv.net%
 #EXTINF:-1 tvg-name=""tvg-id="Kabel Eins Doku.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1doku.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Kabel eins Doku
 plugin://plugin.video.playlistbee/?name=KABEL+EINS+DOKU+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D1262%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FeKEFmZI.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="N24 Doku.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/n24doku.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",N24 Doku
-plugin://plugin.video.playlistbee/?name=N24+DOKU+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D148126%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FtcAeBb4.png&logos=&epg=&cache=0&uuid=0
+plugin://plugin.video.zattoo_com/?mode=watch&id=n24_doku&level=sd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="TLC.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tlc.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",TLC
 plugin://plugin.video.playlistbee/?name=TLC+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D36356%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FSR4uA5A.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Curiosity Channel.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/curiosity.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Curiosity Channel
@@ -134,35 +134,35 @@ plugin://plugin.video.playlistbee/?name=GEO+TV+FHD&url=http%3A%2F%2Fgermanytv.ne
 #EXTINF:-1 tvg-name=""tvg-id="Sky Documentaries HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skydocumentaries.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Sky Documentaries
 plugin://plugin.video.playlistbee/?name=SKY+DOCUMENTARIES+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D36353%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FUodwff8.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="DOKUSAT.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dokusat.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",DokuSat
-https://dokusat.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+plugin://plugin.video.zattoo_com/?mode=watch&id=dokusat_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Welt der Wunder.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/www.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Welt der Wunder
-https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+plugin://plugin.video.zattoo_com/?mode=watch&id=weltderwunder&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="ProSieben MAXX.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7maxx.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Pro Sieben MAXX
 plugin://plugin.video.playlistbee/?name=PROSIEBEN+MAXX+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D401502%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FdbAysD3.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Comedy Central.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/comedycentral.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Comedy Central
-plugin://plugin.video.playlistbee/?name=COMEDY+CENTRAL+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D593306%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Ftvlogolar.xyz%2Flogo%2Fgermany%2FCOMEDY.CENTRAL.png&logos=&epg=&cache=0&uuid=0
+plugin://plugin.video.zattoo_com/?mode=watch&id=comedycentral_de&level=sd&drm=True
 #EXTINF:-1 tvg-name=""tvg-id="Tagesschau24.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tagesschau.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Tagesschau 24
-https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
+plugin://plugin.video.zattoo_com/?mode=watch&id=einsextra&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="ARD-alpha.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ardalpha.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",ARD-alpha
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+plugin://plugin.video.zattoo_com/?mode=watch&id=br-alpha&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3sat.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",3 Sat
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+plugin://plugin.video.zattoo_com/?mode=watch&id=3sat&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="BR Nord.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/br.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",BR
-https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+plugin://plugin.video.zattoo_com/?mode=watch&id=br&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="SWR Fernsehen BW.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swr.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",SR/SWR
-https://mcdn.swr.de/swr/swrbwd/master.m3u8
+plugin://plugin.video.zattoo_com/?mode=watch&id=swr-fernsehen-bw&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="ARTE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/arte.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Arte
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8 
+plugin://plugin.video.zattoo_com/?mode=watch&id=DE_arte&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="NDR Hamburg.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ndr.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",NDR
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8 
+plugin://plugin.video.zattoo_com/?mode=watch&id=ndr-niedersachsen&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="WDR Aachen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/wdr.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",WDR
-https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+plugin://plugin.video.zattoo_com/?mode=watch&id=wdr-koeln&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="HR Fernsehen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/hr.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",HR
-https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
+plugin://plugin.video.zattoo_com/?mode=watch&id=hr&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Phoenix.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/phoenix.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Phoenix
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+plugin://plugin.video.zattoo_com/?mode=watch&id=phoenix&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="rbb Berlin.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rbb.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",RBB
-https://rbb-live.ard-mcdn.de/rbb/brandenburg/hls/de/master.m3u8
+plugin://plugin.video.zattoo_com/?mode=watch&id=rbb&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Leipzig Fernsehen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Leipzig.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Leipzig Fernsehen
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8 
 #EXTINF:-1 tvg-name=""tvg-id="S1.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/s1.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",S1
