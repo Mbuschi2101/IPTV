@@ -10,13 +10,19 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 #EXTINF:-1 tvg-name=""tvg-id="Kabel eins.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1.png"group-title="Joyn(No VPN)":http-user-agent="",KABEL 1
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleins-de&stream_type=LIVE&fav_type=&title=%5BB%5DKabel+Eins%5B%2FB%5D+-+Black+Hawk+Down&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22kabeleins-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name=""tvg-id="ATV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/atv.png"group-title="Joyn(No VPN)":http-user-agent="",ATV
-plugin://plugin.video.simplitv/?mode=play&channel=atv&recording=false
+plugin://plugin.video.simplitv/?mode=play&channel=atvhd&recording=false
 #EXTINF:-1 tvg-name=""tvg-id="ATV 2.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/atv2.png"group-title="Joyn(No VPN)":http-user-agent="",ATV 2
-plugin://plugin.video.simplitv/?mode=play&channel=atv-2&recording=false
+plugin://plugin.video.simplitv/?mode=play&channel=atv-ii-fhd&recording=false
 #EXTINF:-1 tvg-name=""tvg-id="Puls 4.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls4.png"group-title="Joyn(No VPN)":http-user-agent="",Puls 4
-plugin://plugin.video.simplitv/?mode=play&channel=pu4&recording=false
+plugin://plugin.video.simplitv/?mode=play&channel=puls4austriahd&recording=false
 #EXTINF:-1 tvg-name=""tvg-id="Puls24.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls24.png"group-title="Joyn(No VPN)":http-user-agent="",Puls 24
 plugin://plugin.video.simplitv/?mode=play&channel=puls24&recording=false
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"group-title="Joyn(No VPN)":http-user-agent="",ORF 1
+plugin://plugin.video.simplitv/?mode=play&channel=orf1&recording=false
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"group-title="Joyn(No VPN)":http-user-agent="",ORF 2
+plugin://plugin.video.simplitv/?mode=play&channel=orf2no&recording=false
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf3.png"group-title="Joyn(No VPN)":http-user-agent="",ORF 3
+plugin://plugin.video.simplitv/?mode=play&channel=orf-iii&recording=false
 #EXTINF:-1 tvg-name=""tvg-id="Sixx.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sixx.png"group-title="Joyn(No VPN)":http-user-agent="",SIXX
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sixx-de&stream_type=LIVE&fav_type=&title=%5BB%5Dsixx%5B%2FB%5D+-+9-1-1%3A+Lone+Star&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sixx-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name=""tvg-id="ONE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/one.png"group-title="Joyn(No VPN)":http-user-agent="",ONE
@@ -93,6 +99,8 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=wdr-bonn-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DWDR+Bonn+HD%5B%2FB%5D+-+2+f%C3%BCr+300&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22wdr-bonn-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name=""tvg-id="Red Bull TV.de"tvg-logo=""group-title="Joyn(No VPN)":http-user-agent="",Red Bull TV
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=redbulltv-dach-hd&stream_type=LIVE&fav_type=&title=%5BB%5DRed+Bull+TV+HD%5B%2FB%5D+-+Offroad-Action+mit+900+PS+in+US-Skigebiet&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22redbulltv-dach-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Joyn(No VPN)":http-user-agent="",ORF Sport+
+plugin://plugin.video.simplitv/?mode=play&channel=orf-sport-plus&recording=false
 #EXTINF:-1 tvg-name=""tvg-id="Sport1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sport1.png"group-title="Joyn(No VPN)":http-user-agent="",Sport 1
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sport1-de&stream_type=LIVE&fav_type=&title=%5BB%5DSport1%5B%2FB%5D+-+NORMAL&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sport1-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name=""tvg-id="Eurosport 1.de"tvg-logo=""group-title="Joyn(No VPN)":http-user-agent="",Eurosport 1
