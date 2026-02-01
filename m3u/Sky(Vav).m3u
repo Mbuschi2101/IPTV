@@ -1,8 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-name=""tvg-id="Das Erste.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ard.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Das Erste
-plugin://plugin.video.vavooto/?name=ARD
+plugin://plugin.video.zattoo_com/?mode=watch&id=ard&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="ZDF.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdf.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",ZDF
-plugin://plugin.video.vavooto/?name=ZDF
+plugin://plugin.video.zattoo_com/?mode=watch&id=zdf&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="RTL.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",RTL
 plugin://plugin.video.vavooto/?name=RTL
 #EXTINF:-1 tvg-name=""tvg-id="Sat.1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",SAT.1
@@ -18,7 +18,7 @@ plugin://plugin.video.vavooto/?name=VOX
 #EXTINF:-1 tvg-name=""tvg-id="Sixx.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sixx.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",SIXX
 plugin://plugin.video.vavooto/?name=SIXX
 #EXTINF:-1 tvg-name=""tvg-id="ONE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/one.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",ONE
-plugin://plugin.video.vavooto/?name=ONE
+plugin://plugin.video.zattoo_com/?mode=watch&id=einsfestival&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Super RTL.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlsuper.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Super RTL
 plugin://plugin.video.vavooto/?name=SUPER+RTL
 #EXTINF:-1 tvg-name=""tvg-id="NITRO.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nitro.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",RTL Nitro
@@ -86,11 +86,11 @@ plugin://plugin.video.vavooto/?name=SYFY
 #EXTINF:-1 tvg-name=""tvg-id="Sky Documentaries HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skydocumentaries.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Sky Documentaries
 plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES
 #EXTINF:-1 tvg-name=""tvg-id="ZDFinfo.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfinfo.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",ZDFinfo
-plugin://plugin.video.vavooto/?name=ZDF+INFO
+plugin://plugin.video.zattoo_com/?mode=watch&id=zdf-info&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="DOKUSAT.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dokusat.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",DokuSat
-https://dokusat.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+plugin://plugin.video.zattoo_com/?mode=watch&id=dokusat_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Tagesschau24.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tagesschau.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Tagesschau 24
-plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
+plugin://plugin.video.zattoo_com/?mode=watch&id=einsextra&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Bild.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Bild TV
 https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Kabel Eins Doku.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1doku.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Kabel eins Doku
@@ -98,7 +98,7 @@ plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
 #EXTINF:-1 tvg-name=""tvg-id="n-tv.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ntv.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",N-TV
 plugin://plugin.video.vavooto/?name=NTV
 #EXTINF:-1 tvg-name=""tvg-id="WELT.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/welt.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Welt
-https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8 
+plugin://plugin.video.zattoo_com/?mode=watch&id=n24&level=sd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="N24 Doku.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/n24doku.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",N24 Doku
 plugin://plugin.video.vavooto/?name=N24+DOKU
 #EXTINF:-1 tvg-name=""tvg-id="DMAX.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dmax.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",DMAX
@@ -106,7 +106,7 @@ plugin://plugin.video.vavooto/?name=DMAX
 #EXTINF:-1 tvg-name=""tvg-id="TLC.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tlc.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",TLC
 plugin://plugin.video.vavooto/?name=TLC
 #EXTINF:-1 tvg-name=""tvg-id="Welt der Wunder.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/www.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Welt der Wunder
-https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+plugin://plugin.video.zattoo_com/?mode=watch&id=weltderwunder&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Sky Nature HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skynature.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Sky Nature
 plugin://plugin.video.vavooto/?name=SKY+NATURE
 #EXTINF:-1 tvg-name=""tvg-id="Discovery Channel.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/discovery.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Discovery Channel
@@ -130,27 +130,27 @@ plugin://plugin.video.vavooto/?name=SERVUS+TV
 #EXTINF:-1 tvg-name=""tvg-id="Bergblick.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/begblick.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Bergblick
 plugin://plugin.video.vavooto/?name=BERGBLICK
 #EXTINF:-1 tvg-name=""tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3sat.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",3 Sat
-plugin://plugin.video.vavooto/?name=3+SAT
+plugin://plugin.video.zattoo_com/?mode=watch&id=3sat&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="ARD-alpha.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ardalpha.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",ARD-alpha
-plugin://plugin.video.vavooto/?name=ARD+ALPHA
+plugin://plugin.video.zattoo_com/?mode=watch&id=br-alpha&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="ARTE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/arte.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Arte
-plugin://plugin.video.vavooto/?name=ARTE
+plugin://plugin.video.zattoo_com/?mode=watch&id=DE_arte&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="HR Fernsehen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/hr.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",HR
-plugin://plugin.video.vavooto/?name=HR
+plugin://plugin.video.zattoo_com/?mode=watch&id=hr&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="MDR Sachsen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/mdr.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",MDR Sachsen
-plugin://plugin.video.vavooto/?name=MDR
+plugin://plugin.video.zattoo_com/?mode=watch&id=mdr-sachsen&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="NDR Hamburg.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ndr.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",NDR
-plugin://plugin.video.vavooto/?name=NDR
+plugin://plugin.video.zattoo_com/?mode=watch&id=ndr-niedersachsen&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Phoenix.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/phoenix.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Phoenix
-plugin://plugin.video.vavooto/?name=PHOENIX
+plugin://plugin.video.zattoo_com/?mode=watch&id=phoenix&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="rbb Berlin.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rbb.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",RBB
-plugin://plugin.video.vavooto/?name=RBB
-#EXTINF:-1 tvg-name=""tvg-id="SWR Baden-Wurttemberg.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swr.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",SR/SWR
-plugin://plugin.video.vavooto/?name=SR
+plugin://plugin.video.zattoo_com/?mode=watch&id=rbb&level=hd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="SWR Baden-Wurttemberg.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swr.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",SWR
+plugin://plugin.video.zattoo_com/?mode=watch&id=swr-fernsehen-bw&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Tagesschau24.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tagesschau.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Tagesschau 24
-plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
+plugin://plugin.video.zattoo_com/?mode=watch&id=einsextra&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="WDR Aachen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/wdr.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",WDR
-https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+plugin://plugin.video.zattoo_com/?mode=watch&id=wdr-koeln&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport News HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportnews.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Sky Sport News
 plugin://plugin.video.vavooto/?name=S.+SPORT+NEWS
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Sky Sport Bundesliga
