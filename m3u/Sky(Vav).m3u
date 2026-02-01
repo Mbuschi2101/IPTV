@@ -87,12 +87,12 @@ plugin://plugin.video.vavooto/?name=SYFY
 plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES
 #EXTINF:-1 tvg-name=""tvg-id="ZDFinfo.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfinfo.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",ZDFinfo
 plugin://plugin.video.zattoo_com/?mode=watch&id=zdf-info&level=hd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="Bild.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Bild TV
+https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="DOKUSAT.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dokusat.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",DokuSat
 plugin://plugin.video.zattoo_com/?mode=watch&id=dokusat_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Tagesschau24.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tagesschau.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Tagesschau 24
 plugin://plugin.video.zattoo_com/?mode=watch&id=einsextra&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Bild.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Bild TV
-https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Kabel Eins Doku.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1doku.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Kabel eins Doku
 plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
 #EXTINF:-1 tvg-name=""tvg-id="n-tv.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ntv.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",N-TV
