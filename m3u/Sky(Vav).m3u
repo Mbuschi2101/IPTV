@@ -13,12 +13,18 @@ plugin://plugin.video.vavooto/?name=RTL+2
 plugin://plugin.video.vavooto/?name=PRO+7
 #EXTINF:-1 tvg-name=""tvg-id="Kabel eins.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Kabel eins
 plugin://plugin.video.vavooto/?name=KABEL+1
+#EXTINF:-1 tvg-name=""tvg-id="Kabel Eins CLASSICS.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1classic.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Kabel 1 Classics
+plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
 #EXTINF:-1 tvg-name=""tvg-id="VOX.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/vox.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",VOX
 plugin://plugin.video.vavooto/?name=VOX
+#EXTINF:-1 tvg-name=""tvg-id="Tele 5.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tele5.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Tele 5
+plugin://plugin.video.vavooto/?name=TELE+5
 #EXTINF:-1 tvg-name=""tvg-id="Sixx.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sixx.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",SIXX
 plugin://plugin.video.vavooto/?name=SIXX
 #EXTINF:-1 tvg-name=""tvg-id="ONE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/one.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",ONE
 plugin://plugin.video.zattoo_com/?mode=watch&id=einsfestival&level=hd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="ZDFneo.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfneo.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",ZDFneo
+plugin://plugin.video.zattoo_com/?mode=watch&id=zdfneo&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Super RTL.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlsuper.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Super RTL
 plugin://plugin.video.vavooto/?name=SUPER+RTL
 #EXTINF:-1 tvg-name=""tvg-id="NITRO.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nitro.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",RTL Nitro
@@ -37,32 +43,26 @@ plugin://plugin.video.vavooto/?name=RTL+CRIME
 plugin://plugin.video.vavooto/?name=SAT+1+GOLD
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls4.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Puls 4
 plugin://plugin.video.vavooto/?name=PHOENIX
-#EXTINF:-1 tvg-name=""tvg-id="ProSieben MAXX.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7maxx.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Pro Sieben MAXX
-plugin://plugin.video.vavooto/?name=PRO+7+MAXX
-#EXTINF:-1 tvg-name=""tvg-id="Comedy Central.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/comedycentral.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Comedy Central
-plugin://plugin.video.zattoo_com/?mode=watch&id=comedycentral_de&level=sd&drm=True
-#EXTINF:-1 tvg-name=""tvg-id="Tele 5.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tele5.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Tele 5
-plugin://plugin.video.vavooto/?name=TELE+5
-#EXTINF:-1 tvg-name=""tvg-id="Kabel Eins CLASSICS.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1classic.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Kabel 1 Classics
-plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
-#EXTINF:-1 tvg-name=""tvg-id="ZDFneo.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfneo.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",ZDFneo
-plugin://plugin.video.zattoo_com/?mode=watch&id=zdfneo&level=hd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",ORF 1
+plugin://plugin.video.vavooto/?name=ORF+1
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",ORF 2
+plugin://plugin.video.vavooto/?name=ORF+2
+#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Premieren.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skypremiere.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Sky Cinema Premiere
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
+#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Action HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaction.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Sky Cinema Action
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
+#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Highlights.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyhighlights.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Sky Cinema Highlights
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+HIGHLIGHTS
+#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Family.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyfamily.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Sky Cinema Family
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
+#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Classics HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyclassics.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Sky Cinema Classics
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
 #EXTINF:-1 tvg-name=""tvg-id="Warner TV Comedy.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnercomedy.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Warner TV Comedy
 plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
 #EXTINF:-1 tvg-name=""tvg-id="Warner TV Film HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerfilm.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Warner TV Film
 plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
 #EXTINF:-1 tvg-name=""tvg-id="Warner TV Serie.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerserie.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Warner TV Serie
 plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
-#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Premieren.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skypremiere.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Sky Cinema Premiere
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
-#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Family.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyfamily.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Sky Cinema Family
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
-#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Action HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaction.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Sky Cinema Action
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
-#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Highlights.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyhighlights.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Sky Cinema Highlights
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+HIGHLIGHTS
-#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Classics HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyclassics.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Sky Cinema Classics
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
 #EXTINF:-1 tvg-name=""tvg-id="Sky Crime.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skycrime.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Sky Crime
 plugin://plugin.video.vavooto/?name=SKY+CRIME
 #EXTINF:-1 tvg-name=""tvg-id="Sky Krimi.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skykrimi.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Sky Krimi
@@ -85,10 +85,6 @@ plugin://plugin.video.vavooto/?name=PRO+7+FUN
 plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 #EXTINF:-1 tvg-name=""tvg-id="SYFY.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/syfy.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",SyFy
 plugin://plugin.video.vavooto/?name=SYFY
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",ORF 1
-plugin://plugin.video.vavooto/?name=ORF+1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",ORF 2
-plugin://plugin.video.vavooto/?name=ORF+2
 #EXTINF:-1 tvg-name=""tvg-id="Sky Documentaries HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skydocumentaries.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Sky Documentaries
 plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES
 #EXTINF:-1 tvg-name=""tvg-id="ZDFinfo.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfinfo.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",ZDFinfo
@@ -129,6 +125,10 @@ plugin://plugin.video.vavooto/?name=CURIOSITY+CHANNEL
 plugin://plugin.video.vavooto/?name=ANIMAL+PLANET
 #EXTINF:-1 tvg-name=""tvg-id="GEO Television.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/GEOHD.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Geo
 plugin://plugin.video.vavooto/?name=GEO+TV
+#EXTINF:-1 tvg-name=""tvg-id="Comedy Central.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/comedycentral.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Comedy Central
+plugin://plugin.video.zattoo_com/?mode=watch&id=comedycentral_de&level=sd&drm=True
+#EXTINF:-1 tvg-name=""tvg-id="ProSieben MAXX.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7maxx.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Pro Sieben MAXX
+plugin://plugin.video.vavooto/?name=PRO+7+MAXX
 #EXTINF:-1 tvg-name=""tvg-id="Servus TV Austria.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/servustv.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Servus TV
 plugin://plugin.video.vavooto/?name=SERVUS+TV
 #EXTINF:-1 tvg-name=""tvg-id="Bergblick.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/begblick.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Bergblick
