@@ -42,7 +42,7 @@ plugin://plugin.video.vavooto/?name=RTL+CRIME
 #EXTINF:-1 tvg-name=""tvg-id="Sat.1 Gold.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1gold.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",SAT.1 Gold
 plugin://plugin.video.vavooto/?name=SAT+1+GOLD
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls4.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",Puls 4
-plugin://plugin.video.vavooto/?name=PHOENIX
+plugin://plugin.video.vavooto/?name=PULS+4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",ORF 1
 plugin://plugin.video.vavooto/?name=ORF+1
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"group-title="Sky(Vav, DE VPN)":http-user-agent="",ORF 2
