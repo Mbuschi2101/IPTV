@@ -97,6 +97,8 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=zdf-info&level=hd&drm=False
 plugin://plugin.video.zattoo_com/?mode=watch&id=mdr-sachsen&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="WELT.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/welt.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Welt
 plugin://plugin.video.zattoo_com/?mode=watch&id=n24&level=sd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ntv.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",N-TV
+plugin://plugin.video.playlistbee/?name=N-TV&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D679%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fntv-de.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Bild.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Bild TV
 https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="DMAX.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dmax.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",DMAX
@@ -261,59 +263,3 @@ plugin://plugin.video.playlistbee/?name=SPORTDIGITAL+FUSSBALL+HD&url=http%3A%2F%
 plugin://plugin.video.playlistbee/?name=SPORTDIGITAL+1%2B&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D829393%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fsportdigitalhd.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="auto motor sport tv.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/automotorsport.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Auto Motor and Sport TV
 plugin://plugin.video.playlistbee/?name=AUTO+MOTOR+SPORT+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D1087%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fautomotorsport.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
