@@ -47,7 +47,7 @@ plugin://plugin.video.vav/?mode=1&action=play&id=31918165825fc3d43eb69c&name=PUL
 plugin://plugin.video.vav/?mode=1&action=play&id=3174096793608d2b054ab8&name=ORF+1+%7CE
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",ORF 2
 plugin://plugin.video.vav/?mode=1&action=play&id=420378349719952e3dcb15&name=ORF+2+%7CE
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Sky(Vav2, DE VPN)":http-user-agent="",ORF 3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf3.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",ORF 3
 plugin://plugin.video.vav/?mode=1&action=play&id=3354430713b0f1d4585078&name=ORF+3+%7CE
 #EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Premieren.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skypremiere.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Cinema Premiere
 plugin://plugin.video.vav/?mode=1&action=play&id=3836137978545b3eafe953&name=SKY+CINEMA+PREMIERE+.c
@@ -87,7 +87,7 @@ plugin://plugin.video.vav/?mode=1&action=play&id=909749081352862854570&name=SILV
 plugin://plugin.video.vav/?mode=1&action=play&id=3075656047512167da8984&name=PRO+7+FUN+%7CH
 #EXTINF:-1 tvg-name=""tvg-id="Universal TV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/universal.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Universal TV
 plugin://plugin.video.vav/?mode=1&action=play&id=6161772480582fdab00eb&name=UNIVERSAL+TV+.c
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Sky(Vav2, DE VPN)":http-user-agent="",Kinowelt
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Kinowelt.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Kinowelt
 plugin://plugin.video.vav/?mode=1&action=play&id=49758571754752df37d08&name=KINOWELT+TV+%7CD
 #EXTINF:-1 tvg-name=""tvg-id="SYFY.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/syfy.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",SyFy
 plugin://plugin.video.vav/?mode=1&action=play&id=3764999351388d923b7bbb&name=SYFY+.c
@@ -97,8 +97,6 @@ plugin://plugin.video.vav/?mode=1&action=play&id=2558892777cde11218b816&name=SKY
 plugin://plugin.video.zattoo_com/?mode=watch&id=zdf-info&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Bild.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Bild TV
 https://bild.personalstream.tv/v1/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="Tagesschau24.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tagesschau.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Tagesschau 24
-plugin://plugin.video.zattoo_com/?mode=watch&id=einsextra&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Kabel Eins Doku.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1doku.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Kabel eins Doku
 plugin://plugin.video.vav/?mode=1&action=play&id=237219544288f060c1787f&name=KABEL+1+DOKU+%7CH
 #EXTINF:-1 tvg-name=""tvg-id="n-tv.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ntv.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",N-TV
@@ -161,40 +159,18 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=wdr-koeln&level=hd&drm=False
 plugin://plugin.video.zattoo_com/?mode=watch&id=sachsen_fernsehen_leipzig_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport News HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportnews.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport News
 plugin://plugin.video.vav/?mode=1&action=play&id=23884710486e836a3b7760&name=SKY+SPORT+NEWS+.c
-#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Bundesliga
-plugin://plugin.video.vav/?mode=1&action=play&id=19179988968fa93263a988&name=SKY+BUNDESLIGA+1+%7CE
-#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 1 HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria1.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Austria 1
-https://bild.personalstream.tv
-#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 2 HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria2.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Austria 2
-https://bild.personalstream.tv
-#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 3 HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria3.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Austria 3
-https://bild.personalstream.tv
-#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 4 HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria4.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Austria 4
-https://bild.personalstream.tv
-#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 5 HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria5.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Austria 5
-https://bild.personalstream.tv
-#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Premier League HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportpremier.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Premier League
-https://bild.personalstream.tv
-#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Top Event HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysporttopevent.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Top Event
-plugin://plugin.video.vav/?mode=1&action=play&id=36731518973fe8fd531e1d&name=S.+SPORT+TOP+EVENT+HD+%7CD
-#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Mix HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportmix.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Mix
-plugin://plugin.video.vav/?mode=1&action=play&id=3678619950cc33887dd8cf&name=S.+SPORT+MIX+HD+%7CD
-#EXTINF:-1 tvg-name=""tvg-id="Sky Sport F1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportf1.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport F1
-plugin://plugin.video.vav/?mode=1&action=play&id=21611914607ee60510dea5&name=SKY+SPORTS+F1+.s
 #EXTINF:-1 tvg-name=""tvg-id="DAZN 1 HD.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn1.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",DAZN 1
 plugin://plugin.video.vav/?mode=2&action=play&id=263339334cc4fd6ebe9ff&name=DAZN+1
 #EXTINF:-1 tvg-name=""tvg-id="DAZN 2 HD.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn2.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",DAZN 2
 plugin://plugin.video.vav/?mode=1&action=play&id=1775092266b59b6743b4b3&name=DAZN+2+FHD+%7CD
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Sky(Vav2, DE VPN)":http-user-agent="",DAZN FAST
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/daznfast.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",DAZN FAST
 plugin://plugin.video.vav/?mode=1&action=play&id=4044798259ddc0537b06ae&name=DAZN+FAST%2B+%7CE
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Sky(Vav2, DE VPN)":http-user-agent="",DAZN RISE
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/DAZNrise.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",DAZN RISE
 plugin://plugin.video.vav/?mode=1&action=play&id=3690212041e9f6fc059b4c&name=DAZN+RISE+%7CE
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga1.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Bundesliga 1
-https://bild.personalstream.tv
-#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga1.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Bundesliga 1
-https://bild.personalstream.tv
+plugin://plugin.video.vav/?mode=1&action=play&id=19179988968fa93263a988&name=SKY+BUNDESLIGA+1+%7CE
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 2.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga2.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Bundesliga 2
-https://bild.personalstream.tv
+plugin://plugin.video.vav/?mode=1&action=play&id=905063904cb1d9b23bc13&name=SKY+BUNDESLIGA+2+%7CE
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 3.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga3.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Bundesliga 3
 https://bild.personalstream.tv
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 4.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga4.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Bundesliga 4
@@ -209,6 +185,24 @@ https://bild.personalstream.tv
 https://bild.personalstream.tv
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 9.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga9.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Bundesliga 9
 https://bild.personalstream.tv
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 1 HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria1.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Austria 1
+plugin://plugin.video.vav/?mode=1&action=play&id=7669920387be6a342b6a9&name=SKY+SPORT+AUSTRIA+1+%28MATCH+TIME%29+%7CH
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 2 HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria2.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Austria 2
+plugin://plugin.video.vav/?mode=1&action=play&id=3341910980a23425235955&name=SKY+SPORT+AUSTRIA+2+%28MATCH+TIME%29+%7CH
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 3 HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria3.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Austria 3
+plugin://plugin.video.vav/?mode=1&action=play&id=67759030985c6cfca8ac1&name=SKY+SPORT+AUSTRIA+3+%28MATCH+TIME%29+%7CH
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 4 HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria4.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Austria 4
+https://bild.personalstream.tv
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 5 HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria5.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Austria 5
+https://bild.personalstream.tv
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Premier League HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportpremier.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Premier League
+plugin://plugin.video.vav/?mode=1&action=play&id=22139028371759bef8baf7&name=SKY+SPORT+PREMIER+LEAGUE+%7CE
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Top Event HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysporttopevent.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Top Event
+plugin://plugin.video.vav/?mode=1&action=play&id=36731518973fe8fd531e1d&name=S.+SPORT+TOP+EVENT+HD+%7CD
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Mix HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportmix.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport Mix
+plugin://plugin.video.vav/?mode=1&action=play&id=3678619950cc33887dd8cf&name=S.+SPORT+MIX+HD+%7CD
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport F1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportf1.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport F1
+plugin://plugin.video.vav/?mode=1&action=play&id=21611914607ee60510dea5&name=SKY+SPORTS+F1+.s
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlzwee.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",RTL Luxenburg
 plugin://plugin.video.vav/?mode=1&action=play&id=108270359364a0f3fa8fc8&name=RTL+LUXEMBOURG+%7CH
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",RTL+ Sport Event 1
@@ -232,23 +226,23 @@ plugin://plugin.video.vav/?mode=1&action=play&id=19665669055a0a8a5dfc32&name=RTL
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",RTL+ Sport Event 10
 plugin://plugin.video.vav/?mode=1&action=play&id=3326195664a6d5a566857c&name=RTL%2B+SPORT+EVENT+10+%7CE
 #EXTINF:-1 tvg-name=""tvg-id="Sport 1 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Magenta Sport 1
-https://bild.personalstream.tv
+plugin://plugin.video.vav/?mode=1&action=play&id=3432695221265232507455&name=MAGENTA+SPORT+1+%7CE
 #EXTINF:-1 tvg-name=""tvg-id="Sport 2 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Magenta Sport 2
-https://bild.personalstream.tv
+plugin://plugin.video.vav/?mode=1&action=play&id=2335883109353afe7971e2&name=MAGENTA+SPORT+2+%7CE
 #EXTINF:-1 tvg-name=""tvg-id="Sport 3 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Magenta Sport 3
-https://bild.personalstream.tv
+plugin://plugin.video.vav/?mode=1&action=play&id=305939016510eab547645f&name=MAGENTA+SPORT+3+%7CE
 #EXTINF:-1 tvg-name=""tvg-id="Sport 4 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Magenta Sport 4
-https://bild.personalstream.tv
+plugin://plugin.video.vav/?mode=1&action=play&id=2126125477f8619c050084&name=MAGENTA+SPORT+6+%7CE
 #EXTINF:-1 tvg-name=""tvg-id="Sport 5 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Magenta Sport 5
-https://bild.personalstream.tv
+plugin://plugin.video.vav/?mode=1&action=play&id=95803070969c4c27c8a9d&name=MAGENTA+SPORT+5+%7CE
 #EXTINF:-1 tvg-name=""tvg-id="Sport 6 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Magenta Sport 6
-https://bild.personalstream.tv
+plugin://plugin.video.vav/?mode=1&action=play&id=3653941880de93b85946d0&name=MAGENTA+SPORT+6+%7CH
 #EXTINF:-1 tvg-name=""tvg-id="Sport 7 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Magenta Sport 7
-https://bild.personalstream.tv
+plugin://plugin.video.vav/?mode=1&action=play&id=3836384200880f1e57d783&name=MAGENTA+SPORT+7+%7CH
 #EXTINF:-1 tvg-name=""tvg-id="Sport 8 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Magenta Sport 8
-https://bild.personalstream.tv
+plugin://plugin.video.vav/?mode=1&action=play&id=32470896041f8cfcfbbb1f&name=MAGENTA+SPORT+8+%7CE
 #EXTINF:-1 tvg-name=""tvg-id="Sport 9 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Magenta Sport 9
-https://bild.personalstream.tv
+plugin://plugin.video.vav/?mode=1&action=play&id=4243230324a85ac099624f&name=MAGENTA+SPORT+9+%7CE
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport 1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport1.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport 1
 plugin://plugin.video.vav/?mode=1&action=play&id=252507963403bfdc7fe416&name=S.+SPORT+1+HD+%7CD
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport 2.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport2.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sky Sport 2
@@ -276,11 +270,11 @@ plugin://plugin.video.vav/?mode=1&action=play&id=362111501321dab5bfdb57&name=SPO
 #EXTINF:-1 tvg-name=""tvg-id="SPORTDIGITAL1+.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Sportdigital%2B.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Sportdigital+
 plugin://plugin.video.vav/?mode=1&action=play&id=7078169291b641b84ff3d&name=SPORTDIGITAL+1%2B+.c
 #EXTINF:-1 tvg-name=""tvg-id="Eurosport 1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/eurosport1.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Eurosport 1
-https://bild.personalstream.tv
+plugin://plugin.video.vav/?mode=1&action=play&id=1222315896151ab6676292&name=EUROSPORT+1+%7CE
 #EXTINF:-1 tvg-name=""tvg-id="Eurosport 2.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/eurosport2.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Eurosport 2
-https://bild.personalstream.tv
+plugin://plugin.video.vav/?mode=1&action=play&id=2769375850c9a9ba3242bb&name=EUROSPORT+2+HD+%7CD
 #EXTINF:-1 tvg-name=""tvg-id="Red Bull TV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/red_bull_tv.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Red Bull TV
-https://bild.personalstream.tv
+plugin://plugin.video.vav/?mode=1&action=play&id=33096965427373396fff6e&name=RED+BULL+TV+%7CE
 #EXTINF:-1 tvg-name=""tvg-id="Auto Motor and Sport TV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/automotorsport.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Auto Motor und Sport
 plugin://plugin.video.vav/?mode=1&action=play&id=777757543a5494156e30f&name=AUTO+MOTO+SPORT+HD+%7CD
 #EXTINF:-1 tvg-name=""tvg-id="Motorvision+.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Motorvision%2B.png"group-title="Sky(Vav2, DE VPN)":http-user-agent="",Motorvision+
