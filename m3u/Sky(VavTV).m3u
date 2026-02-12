@@ -7,17 +7,17 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=zdf&level=hd&drm=False
 plugin://plugin.video.vavootv/?name=RTL+HD%2B&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F27281196731bd935dafe5f%22%5D
 #EXTINF:-1 tvg-name=""tvg-id="Sat.1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",SAT.1
 plugin://plugin.video.vavootv/?name=SAT+1+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3017451059e35dfff4fc42%22%5D
-#EXTINF:-1 tvg-name=""tvg-id="RTL ZWEI.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl2.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",RTL II
+#EXTINF:-1 tvg-name=""tvg-id="RTLZWEI.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl2.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",RTL II
 plugin://plugin.video.vavootv/?name=RTL+2+HD%2B&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F17583675311eae047c89de%22%5D
 #EXTINF:-1 tvg-name=""tvg-id="ProSieben.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",ProSieben.de
 plugin://plugin.video.vavootv/?name=PRO+7&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3109905289f79457eaae85%22%5D
-#EXTINF:-1 tvg-name=""tvg-id="Kabel eins.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",Kabel eins
+#EXTINF:-1 tvg-name=""tvg-id="Kabel Eins.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",Kabel eins
 plugin://plugin.video.vavootv/?name=KABEL+EINS&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11763903621d4dd073b1e8%22%5D
 #EXTINF:-1 tvg-name=""tvg-id="Kabel Eins CLASSICS.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1classic.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",Kabel 1 Classics
 plugin://plugin.video.vavootv/?name=KABEL+1+CLASSICS+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F648723164316a8d26876f%22%5D
 #EXTINF:-1 tvg-name=""tvg-id="VOX.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/vox.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",VOX
 plugin://plugin.video.vavootv/?name=VOX+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2099765212db48856908cd%22%5D
-#EXTINF:-1 tvg-name=""tvg-id="Tele 5.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tele5.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",Tele 5
+#EXTINF:-1 tvg-name=""tvg-id="TELE 5.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tele5.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",Tele 5
 plugin://plugin.video.vavootv/?name=TELE+5&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F9502165007e1f7bfd9e2f%22%2C+%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5784298976b8ee7adb7bd%22%5D
 #EXTINF:-1 tvg-name=""tvg-id="Sixx.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sixx.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",SIXX
 plugin://plugin.video.vavootv/?name=SIXX+HD%2B&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1018615269527a186c7ec8%22%5D
@@ -25,7 +25,7 @@ plugin://plugin.video.vavootv/?name=SIXX+HD%2B&urls=%5B%22https%3A%2F%2Fvavoo.to
 plugin://plugin.video.zattoo_com/?mode=watch&id=einsfestival&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="ZDFneo.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfneo.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",ZDFneo
 plugin://plugin.video.zattoo_com/?mode=watch&id=zdfneo&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Super RTL.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlsuper.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",Super RTL
+#EXTINF:-1 tvg-name=""tvg-id="SUPER RTL.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlsuper.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",Super RTL
 https://bild.personalstream.tv
 #EXTINF:-1 tvg-name=""tvg-id="NITRO.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nitro.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",RTL Nitro
 plugin://plugin.video.vavootv/?name=NITRO+HEVC&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F30851987644ad37427b4da%22%5D
@@ -43,11 +43,11 @@ plugin://plugin.video.vavootv/?name=RTL+CRIME+HD&urls=%5B%22https%3A%2F%2Fvavoo.
 plugin://plugin.video.vavootv/?name=SAT.1+GOLD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F12946145027a981f3ecdd5%22%5D
 #EXTINF:-1 tvg-name=""tvg-id="PULS 4.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls4.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",Puls 4
 plugin://plugin.video.vavootv/?name=PULS+4&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F319181658220ee4b79bce4%22%5D
-#EXTINF:-1 tvg-name=""tvg-id="ORF1.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",ORF 1
+#EXTINF:-1 tvg-name=""tvg-id="ORF 1.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",ORF 1
 plugin://plugin.video.vavootv/?name=ORF+1&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3174096793b8b0b5508e56%22%2C+%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F35062001543c55f8238023%22%5D
-#EXTINF:-1 tvg-name=""tvg-id="ORF2.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",ORF 2
+#EXTINF:-1 tvg-name=""tvg-id="ORF 2.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",ORF 2
 plugin://plugin.video.vavootv/?name=ORF+2&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4203783497f4f063c0b75b%22%2C+%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F25393982828293f11930d8%22%5D
-#EXTINF:-1 tvg-name=""tvg-id="ORF III.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf3.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",ORF 3
+#EXTINF:-1 tvg-name=""tvg-id="ORF 3.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf3.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",ORF 3
 plugin://plugin.video.vavootv/?name=ORF+3&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F33544307137e27ad4a29ae%22%5D
 #EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Premiere.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skypremiere.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",Sky Cinema Premiere
 plugin://plugin.video.vavootv/?name=SKY+CINEMA+PREMIERE&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3836137978545b3eafe953%22%5D
@@ -97,8 +97,6 @@ plugin://plugin.video.vavootv/?name=SKY+CINEMA+DOCUMENTARIES&urls=%5B%22https%3A
 plugin://plugin.video.zattoo_com/?mode=watch&id=zdf-info&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Bild.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",Bild TV
 https://bild.personalstream.tv/v1/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="Tagesschau24.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tagesschau.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",Tagesschau 24
-plugin://plugin.video.zattoo_com/?mode=watch&id=einsextra&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Kabel Eins Doku.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1doku.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",Kabel eins Doku
 plugin://plugin.video.vavootv/?name=KABEL+1+DOKU&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2372195442a126e78e75a4%22%5D
 #EXTINF:-1 tvg-name=""tvg-id="n-tv.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ntv.png"group-title="Sky(VavTV, DE VPN)":http-user-agent="",N-TV
