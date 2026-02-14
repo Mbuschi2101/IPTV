@@ -35,12 +35,22 @@ plugin://plugin.video.playlistbee/?name=TELE+5+HD&url=http%3A%2F%2Fz1mag.xyz%3A8
 plugin://plugin.video.playlistbee/?name=SAT.1+GOLD+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D558%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Faustria%2Fsat.1.Gold-eno.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="ONE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/one.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",ONE
 plugin://plugin.video.zattoo_com/?mode=watch&id=einsfestival&level=hd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3%2B.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",3+
+plugin://plugin.video.playlistbee/?name=3%2B+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D49446%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FugOKynR.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/4%2B.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",4+
+plugin://plugin.video.playlistbee/?name=4%2B+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D49447%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FC2qM8bB.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/5%2B.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",5+
+plugin://plugin.video.playlistbee/?name=5%2B+HD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D49448%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2Fh2Yquej.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/6%2B.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",6+
+plugin://plugin.video.playlistbee/?name=6%2B+HD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D49449%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FYodcYcx.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="ATV.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/atv.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",ATV
 plugin://plugin.video.playlistbee/?name=ATV+UHD&url=http%3A%2F%2Fskunkytv.live%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A42%3Ad0%3A3e%26stream%3D258143%26extension%3Dts&mode=3&iconimage=http%3A%2F%2F51.158.145.100%2Fpicons%2Flogos%2Flogos%2Fatv.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="ATV2.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/atv2.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",ATV 2
 plugin://plugin.video.playlistbee/?name=ATV+2+UHD&url=http%3A%2F%2Fskunkytv.live%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A42%3Ad0%3A3e%26stream%3D258144%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Flogo.protv.cc%2Fpiconsnew%2Fatv2.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="PULS 4.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls4.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Puls 4
 plugin://plugin.video.playlistbee/?name=PULS+4+UHD&url=http%3A%2F%2Fskunkytv.live%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A42%3Ad0%3A3e%26stream%3D258149%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Flogo.protv.cc%2Fpiconsnew%2Fpuls4austria.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls8.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Puls 8
+plugin://plugin.video.playlistbee/?name=PULS+8&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D49594%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2F2JKMtkC.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="PULS 24.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls24.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Puls 24
 plugin://plugin.video.playlistbee/?name=PULS+24+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A66%26stream%3D592%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Flogo%2Fgermany%2Fpuls24.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="CANAL+.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/canal%2Baction.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Canal+ Action
@@ -184,9 +194,9 @@ plugin://plugin.video.playlistbee/?name=SKY+BUNDESLIGA+2&url=http%3A%2F%2Fz1mag.
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 3.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga3.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Sky Sport Bundesliga 3
 plugin://plugin.video.playlistbee/?name=SKY+BUNDESLIGA+3&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A66%26stream%3D444871%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fskysportbundesliga3.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 4.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga4.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Sky Sport Bundesliga 4
-plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+4
+plugin://plugin.video.playlistbee/?name=SKY+BUNDESLIGA+4+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A66%26stream%3D444870%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fskysportbundesliga4.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 5.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga5.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Sky Sport Bundesliga 5
-plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+5
+plugin://plugin.video.playlistbee/?name=SKY+BUNDESLIGA+5+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D444868%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fskysportbundesliga5.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 6.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga6.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Sky Sport Bundesliga 6
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+6
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 7.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga7.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Sky Sport Bundesliga 7
@@ -218,23 +228,23 @@ plugin://plugin.video.playlistbee/?name=SKY+SPORT+PREMIER+LEAGUE+HD&url=http%3A%
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport F1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportf1.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Sky Sport F1
 plugin://plugin.video.playlistbee/?name=SKY+SPORT+F1+HD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D580088%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fsky%2Fskysportf1.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sport 1 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Magenta Sport 1
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
+plugin://plugin.video.vavootv/?name=MAGENTA+FUSSBALL+1+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3136042538a868c016427c%22%5D
 #EXTINF:-1 tvg-name=""tvg-id="Sport 2 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Magenta Sport 2
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+2
+plugin://plugin.video.vavootv/?name=MAGENTA+FUSSBALL+2+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F87891604188ab6611993a%22%5D
 #EXTINF:-1 tvg-name=""tvg-id="Sport 3 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Magenta Sport 3
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+3
+plugin://plugin.video.vavootv/?name=MAGENTA+FUSSBALL+3+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4173934935dd37fb153922%22%5D
 #EXTINF:-1 tvg-name=""tvg-id="Sport 4 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Magenta Sport 4
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+4
+plugin://plugin.video.vavootv/?name=MAGENTA+FUSSBALL+4+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4060887118df811fcd6cf3%22%5D
 #EXTINF:-1 tvg-name=""tvg-id="Sport 5 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Magenta Sport 5
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+5
+plugin://plugin.video.vavootv/?name=MAGENTA+FUSSBALL+5+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1051080912f676967c765b%22%5D
 #EXTINF:-1 tvg-name=""tvg-id="Sport 6 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Magenta Sport 6
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+6
+plugin://plugin.video.vavootv/?name=MAGENTA+FUSSBALL+6+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2955493171f860d30a5ab5%22%5D
 #EXTINF:-1 tvg-name=""tvg-id="Sport 7 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Magenta Sport 7
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+7
+plugin://plugin.video.vavootv/?name=MAGENTA+FUSSBALL+7+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2088976301e5cc2c41e12f%22%5D
 #EXTINF:-1 tvg-name=""tvg-id="Sport 8 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Magenta Sport 8
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+8
+plugin://plugin.video.vavootv/?name=MAGENTA+FUSSBALL+8+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F27789345299cfeb2d38d51%22%5D
 #EXTINF:-1 tvg-name=""tvg-id="Sport 9 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Magenta Sport 9
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+9
+plugin://plugin.video.vavootv/?name=MAGENTA+FUSSBALL+9+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1762209183bf88316e4d91%22%5D
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport 1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport1.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Sky Sport 1
 plugin://plugin.video.playlistbee/?name=SKY+SPORT+1+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D11131%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2Fnpafvjk.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport 2.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport2.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Sky Sport 2
