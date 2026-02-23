@@ -1,53 +1,49 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-name=""tvg-id="Das.Erste.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ard.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Das Erste
+#EXTINF:-1 tvg-name=""tvg-id="Das.Erste.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ard.png"group-title="Test":http-user-agent="",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8?CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2285c361d4-5f40-4dc3-91bf-162e33cbc6ea%22%2Csu
-#EXTINF:-1 tvg-name=""tvg-id="ZDF.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdf.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",ZDF
+#EXTINF:-1 tvg-name=""tvg-id="ZDF.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdf.png"group-title="Test":http-user-agent="",ZDF
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="ONE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/one.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",ONE
+#EXTINF:-1 tvg-name=""tvg-id="ONE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/one.png"group-title="Test":http-user-agent="",ONE
 https://mcdn-one.ard.de/ardone/hls/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="ZDFneo.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfneo.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",ZDFneo
+#EXTINF:-1 tvg-name=""tvg-id="ZDFneo.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfneo.png"group-title="Test":http-user-agent="",ZDFneo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="ZDFinfo.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfinfo.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",ZDFinfo
+#EXTINF:-1 tvg-name=""tvg-id="ZDFinfo.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfinfo.png"group-title="Test":http-user-agent="",ZDFinfo
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="MDR.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/mdr.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",MDR Sachsen
+#EXTINF:-1 tvg-name=""tvg-id="MDR.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/mdr.png"group-title="Test":http-user-agent="",MDR Sachsen
 https://mdr-live.ard-mcdn.de/mdr/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="WELT.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/welt.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Welt
+#EXTINF:-1 tvg-name=""tvg-id="WELT.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/welt.png"group-title="Test":http-user-agent="",Welt
 https://welt.personalstream.tv/v1/master.m3u8?ads.country=de&ads.pf=welttv&ads.tcf=CQgBsYAQgBsYAFZABCENCRFgAP_gAAAAAAYgK0pR_C7VbGFD6TJ3aPsgOYxX19gCQsQwAACBE0ABgBOQYBwCkmEyNASABiACGQAAoRBBIAAECAAEAUCAIAAEABDAAAAEgAEIIABAgBEBQAIYAAgCAAAAAACIgAAZEAAAmRiIAcLkGUBgwIAAIEAQAAABAAAAAAMACAgAAAIAAQAAggAAAAAAAAIAAAEAARgAEAABAAAAAIJAAAAAAAAAAAAABCAAEAAAAAAAAAAAAgAAAOCQIgAKgAXAA4AB4AEEAMgA0AB4AEwAKoAbwA_ACEgEMARIAjgBWgDDAGUAO4Ae0A_AD9gJEAkwBcwC9AGKANwAcQBIgCdgFDgKRAXmAycCRQFCAgA8ABwAGwASACcAIOARwAlIBNACdgHVAP6AlYBf4DIQG0CgAIB1RgAEA6o6BgAAsACoAHAAQQAyADQAHgATAAqwBcAF0AMQAbwA_QCGAIkAUYArQBhgDKAGiAO4Ae0A_AD9AItAR0BJgCxAFzAL0AYoA3ABxAD7AIvASIAmQBOwChwF5gL6AZOAyoBlgDVQH9gQBAjsBIoCVYEtAKEDgDMADgAPAAuACQAHIAUAA-ACOAE5AQcBCACIgEcAJSATQAnYB0gDqgH9ASsAmIBSICuwF_gMhAZMA2ghAOAAWAFUALgAYgA3gB-AHcASkAuYBigGTgNVAf2BIogAGAAeARwAsQB1QGeAVpJQFgAFgAcAB4AEwAKoAXAAxQCGAIkARwAowBWgD8ALmAYoA4gCLwEiALzAZOBAECRQEqyQA8AC4AJAAcgB8AE4AO4Ag4BHADqgJWATEAv8BlgDPAK0lIEgACwAKgAcABAADQAHgATAAqgBiAD9AIYAiQBRgCtAGUANGAfgB-gEWgI6AkoBcwDFAG4AOIAfYBF4CRAE7AKHAXmAvoBk4DLAH9gQ5AjsBIoCVZQAwAAoAC4AJAAZAA5ACgAFsAPgAjgBOADuAIOARwAlIBYgC6gGvAOqAmIBXYDIQGTAM8ArSWgCADuAL0AfYBQ5YAGARwBMQDIQ.IK0pR_C7VbGFH6TJ3aPsgOYxX19gCQsQwAACBM0ABgBOQYBwCkmEyNESABiACGQAAoRBBIAAMCAgEAUCBIAAEABDgAAAEgAEIIABAgDEBQAIYAAgCAAAAAACIgAAZEAAAmRiIAcLmGUBgwIAAIEAUAAABAAAAAAMAGAgAAAIAAQAAggAAAAAAAAIAAAEAARgAEAABAAAAAIJAAAAAAAAAAAAABCAAEAAAAAAAAAAAAgA.YAAAAAAAAAAA&ads.referer=https%3A%2F%2Fwww.welt.de%2Ftv-programm-live-stream%2F&ads.generic=%2526eids%253Dmediaimpact.de%252C20856080345438648001762757246115%257Cexternal.mediaimpact.de%252C654985595045154574065248246144729527236%2526kw_pid%253D67a4625d962f9c5582b78551%2526kw_dfr%253De%252C15%2526kw_permutive%253D215643%252C215660%252C215667%252C215746%252C215957%252C215963%252C216029%252C241403%26as_ppid%3D600937843749383589929455300963244067752%26as_playerloc%3Dd_ros%26as_adakeys%3D%2526fwd_j4%253D1%253A2%2526fwd_j5%253D1%253A2%253A3%253A4%253A5%253A6%2526schain%253D1.0%252C1!ad-alliance.de%252Cada_csid_1%252C1%252C%252C%252C%2526fwd_kidSecure%253Dfalse%2526fwd_mtc%253Dab%2526fwd_cf%253Dextrashort_form%2526fwd_sispo%253D0%2526fwd_sxvpcd%253D1%2526fwd_sxvpcc%253D1%2526fwd_sxvpcb%253D1
-#EXTINF:-1 tvg-name=""tvg-id="Bild.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Bild TV
+#EXTINF:-1 tvg-name=""tvg-id="Bild.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png"group-title="Test":http-user-agent="",Bild TV
 https://bild.personalstream.tv/v1/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="N24.DOKU.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/n24doku.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",N24 Doku
+#EXTINF:-1 tvg-name=""tvg-id="N24.DOKU.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/n24doku.png"group-title="Test":http-user-agent="",N24 Doku
 https://n24-doku.personalstream.tv/v1/weltde/master.m3u8?ads.pf=n24doku&ads.tcf=CQgBsYAQgBsYAFZABCENCRFgAP_gAAAAAAYgK0pR_C7VbGFD6TJ3aPsgOYxX19gCQsQwAACBE0ABgBOQYBwCkmEyNASABiACGQAAoRBBIAAECAAEAUCAIAAEABDAAAAEgAEIIABAgBEBQAIYAAgCAAAAAACIgAAZEAAAmRiIAcLkGUBgwIAAIEAQAAABAAAAAAMACAgAAAIAAQAAggAAAAAAAAIAAAEAARgAEAABAAAAAIJAAAAAAAAAAAAABCAAEAAAAAAAAAAAAgAAAOCQIgAKgAXAA4AB4AEEAMgA0AB4AEwAKoAbwA_ACEgEMARIAjgBWgDDAGUAO4Ae0A_AD9gJEAkwBcwC9AGKANwAcQBIgCdgFDgKRAXmAycCRQFCAgA8ABwAGwASACcAIOARwAlIBNACdgHVAP6AlYBf4DIQG0CgAIB1RgAEA6o6BgAAsACoAHAAQQAyADQAHgATAAqwBcAF0AMQAbwA_QCGAIkAUYArQBhgDKAGiAO4Ae0A_AD9AItAR0BJgCxAFzAL0AYoA3ABxAD7AIvASIAmQBOwChwF5gL6AZOAyoBlgDVQH9gQBAjsBIoCVYEtAKEDgDMADgAPAAuACQAHIAUAA-ACOAE5AQcBCACIgEcAJSATQAnYB0gDqgH9ASsAmIBSICuwF_gMhAZMA2ghAOAAWAFUALgAYgA3gB-AHcASkAuYBigGTgNVAf2BIogAGAAeARwAsQB1QGeAVpJQFgAFgAcAB4AEwAKoAXAAxQCGAIkARwAowBWgD8ALmAYoA4gCLwEiALzAZOBAECRQEqyQA8AC4AJAAcgB8AE4AO4Ag4BHADqgJWATEAv8BlgDPAK0lIEgACwAKgAcABAADQAHgATAAqgBiAD9AIYAiQBRgCtAGUANGAfgB-gEWgI6AkoBcwDFAG4AOIAfYBF4CRAE7AKHAXmAvoBk4DLAH9gQ5AjsBIoCVZQAwAAoAC4AJAAZAA5ACgAFsAPgAjgBOADuAIOARwAlIBYgC6gGvAOqAmIBXYDIQGTAM8ArSWgCADuAL0AfYBQ5YAGARwBMQDIQ.IK0pR_C7VbGFH6TJ3aPsgOYxX19gCQsQwAACBM0ABgBOQYBwCkmEyNESABiACGQAAoRBBIAAMCAgEAUCBIAAEABDgAAAEgAEIIABAgDEBQAIYAAgCAAAAAACIgAAZEAAAmRiIAcLmGUBgwIAAIEAUAAABAAAAAAMAGAgAAAIAAQAAggAAAAAAAAIAAAEAARgAEAABAAAAAIJAAAAAAAAAAAAABCAAEAAAAAAAAAAAAgA.YAAAAAAAAAAA&ads.referer=undefined&ads.generic=%2526eids%253Dmediaimpact.de%252C20856080345438648001762757246115%257Cexternal.mediaimpact.de%252C654985595045154574065248246144729527236%26as_ppid%3D600937843749383589929455300963244067752%26as_playerloc%3Dd_ros%26as_adakeys%3D%2526fwd_j4%253D1%253A2%2526fwd_j5%253D2%253A3%253A4%253A5
-#EXTINF:-1 tvg-name=""tvg-id="DOKUSAT.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dokusat.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",DokuSat
+#EXTINF:-1 tvg-name=""tvg-id="DOKUSAT.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dokusat.png"group-title="Test":http-user-agent="",DokuSat
 https://dokusat.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="Welt.der.Wunder.TV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/www.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Welt der Wunder
+#EXTINF:-1 tvg-name=""tvg-id="Welt.der.Wunder.TV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/www.png"group-title="Test":http-user-agent="",Welt der Wunder
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="tagesschau24.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tagesschau.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Tagesschau 24
+#EXTINF:-1 tvg-name=""tvg-id="tagesschau24.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tagesschau.png"group-title="Test":http-user-agent="",Tagesschau 24
 https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="ARD.alpha.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ardalpha.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",ARD-alpha
+#EXTINF:-1 tvg-name=""tvg-id="ARD.alpha.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ardalpha.png"group-title="Test":http-user-agent="",ARD-alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3sat.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",3 Sat
+#EXTINF:-1 tvg-name=""tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3sat.png"group-title="Test":http-user-agent="",3 Sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="BR Nord.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/br.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",BR
+#EXTINF:-1 tvg-name=""tvg-id="BR Nord.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/br.png"group-title="Test":http-user-agent="",BR
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="SWR/SR.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swr.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",SWR
+#EXTINF:-1 tvg-name=""tvg-id="SWR/SR.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swr.png"group-title="Test":http-user-agent="",SWR
 https://mcdn.swr.de/swr/swrbwd/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="ARTE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/arte.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Arte
+#EXTINF:-1 tvg-name=""tvg-id="ARTE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/arte.png"group-title="Test":http-user-agent="",Arte
 https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="NDR Hamburg.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ndr.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",NDR
+#EXTINF:-1 tvg-name=""tvg-id="NDR Hamburg.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ndr.png"group-title="Test":http-user-agent="",NDR
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="WDR Aachen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/wdr.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",WDR
+#EXTINF:-1 tvg-name=""tvg-id="WDR Aachen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/wdr.png"group-title="Test":http-user-agent="",WDR
 https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="HR.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/hr.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",HR
+#EXTINF:-1 tvg-name=""tvg-id="HR.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/hr.png"group-title="Test":http-user-agent="",HR
 https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="phoenix.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/phoenix.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Phoenix
+#EXTINF:-1 tvg-name=""tvg-id="phoenix.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/phoenix.png"group-title="Test":http-user-agent="",Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="RBB Berlin.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rbb.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",RBB
+#EXTINF:-1 tvg-name=""tvg-id="RBB Berlin.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rbb.png"group-title="Test":http-user-agent="",RBB
 https://rbb-live.ard-mcdn.de/rbb/brandenburg/hls/de/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="LEIPZIG.FERNSEHEN.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Leipzig.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",Leipzig Fernsehen
+#EXTINF:-1 tvg-name=""tvg-id="LEIPZIG.FERNSEHEN.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Leipzig.png"group-title="Test":http-user-agent="",Leipzig Fernsehen
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="ORF 1.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",ORF 1
-https://orf1-247.mdn.ors.at/orf/orf1/drmqxa-247/manifest.mpd?offset=5&begin=20260222T185453
-#EXTINF:-1 tvg-name=""tvg-id="ORF 2.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",ORF 2
-https://orf2w-247.mdn.ors.at/orf/orf2w/drmqxa-247/manifest.mpd?offset=5&begin=20260222T185450
-#EXTINF:-1 tvg-name=""tvg-id="ORF.III.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf3.png"group-title="Sky(Bee, DE VPN)":http-user-agent="",ORF 3
-https://orf3-247.mdn.ors.at/orf/orf3/qxa-247/manifest.mpd?offset=5&begin=20260222T174003
+#EXTINF:-1 tvg-name=""tvg-id="ORF 1.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"group-title="Test":http-user-agent="",ORF 1
+https://test04.mdn.ors.at/orf/orf1/qxb/manifest.m3u8
