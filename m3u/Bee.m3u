@@ -1,6 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Sky(Bee, DE VPN)":http-user-agent="",Das Erste
-plugin://plugin.video.zattoo_com/?mode=watch&ievel=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Das Erste.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ard.png"group-title="EPG":http-user-agent="",Das Erste
 plugin://plugin.video.zattoo_com/?mode=watch&id=ard&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="ZDF.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdf.png"group-title="EPG":http-user-agent="",ZDF
