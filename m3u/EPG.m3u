@@ -1,0 +1,299 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-name=""tvg-id="Das Erste.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ard.png"group-title="EPG":http-user-agent="",Das Erste
+https://1
+#EXTINF:-1 tvg-name=""tvg-id="ZDF.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdf.png"group-title="EPG":http-user-agent="",ZDF
+https://2
+#EXTINF:-1 tvg-name=""tvg-id="RTL.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl.png"group-title="EPG":http-user-agent="",RTL
+https://3
+#EXTINF:-1 tvg-name=""tvg-id="Sat.1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1.png"group-title="EPG":http-user-agent="",SAT.1
+https://4
+#EXTINF:-1 tvg-name=""tvg-id="RTLZWEI.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl2.png"group-title="EPG":http-user-agent="",RTL II
+https://5
+#EXTINF:-1 tvg-name=""tvg-id="ProSieben.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7.png"group-title="EPG":http-user-agent="",Pro Sieben
+https://6
+#EXTINF:-1 tvg-name=""tvg-id="Kabel eins.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1.png"group-title="EPG":http-user-agent="",Kabel eins
+https://7
+#EXTINF:-1 tvg-name=""tvg-id="Kabel Eins CLASSICS.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1classic.png"group-title="EPG":http-user-agent="",Kabel eins Classics
+https://8
+#EXTINF:-1 tvg-name=""tvg-id="VOX.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/vox.png"group-title="EPG":http-user-agent="",VOX
+https://9
+#EXTINF:-1 tvg-name=""tvg-id="NITRO.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nitro.png"group-title="EPG":http-user-agent="",RTL Nitro
+https://10
+#EXTINF:-1 tvg-name=""tvg-id="RTL Passion.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlpassion.png"group-title="EPG":http-user-agent="",RTL Passion
+https://11
+#EXTINF:-1 tvg-name=""tvg-id="RTLup.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlup.png"group-title="EPG":http-user-agent="",RTLup
+https://12
+#EXTINF:-1 tvg-name=""tvg-id="VOXup.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/voxup.png"group-title="EPG":http-user-agent="",VOXup
+https://13
+#EXTINF:-1 tvg-name=""tvg-id="RTL Crime.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlcrime.png"group-title="EPG":http-user-agent="",RTL Crime
+https://14
+#EXTINF:-1 tvg-name=""tvg-id="Sixx.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sixx.png"group-title="EPG":http-user-agent="",SIXX
+https://15
+#EXTINF:-1 tvg-name=""tvg-id="TELE 5.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tele5.png"group-title="EPG":http-user-agent="",Tele 5
+https://16
+#EXTINF:-1 tvg-name=""tvg-id="SAT.1 GOLD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1gold.png"group-title="EPG":http-user-agent="",SAT.1 Gold
+https://17
+#EXTINF:-1 tvg-name=""tvg-id="ONE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/one.png"group-title="EPG":http-user-agent="",ONE
+https://18
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3%2B.png"group-title="EPG":http-user-agent="",3+
+https://19
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/4%2B.png"group-title="EPG":http-user-agent="",4+
+https://20
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/5%2B.png"group-title="EPG":http-user-agent="",5+
+https://21
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/6%2B.png"group-title="EPG":http-user-agent="",6+
+https://22
+#EXTINF:-1 tvg-name=""tvg-id="ATV.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/atv.png"group-title="EPG":http-user-agent="",ATV
+https://23
+#EXTINF:-1 tvg-name=""tvg-id="ATV2.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/atv2.png"group-title="EPG":http-user-agent="",ATV 2
+https://24
+#EXTINF:-1 tvg-name=""tvg-id="PULS 4.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls4.png"group-title="EPG":http-user-agent="",Puls 4
+https://25
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls8.png"group-title="EPG":http-user-agent="",Puls 8
+https://26
+#EXTINF:-1 tvg-name=""tvg-id="PULS 24.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls24.png"group-title="EPG":http-user-agent="",Puls 24
+https://27
+#EXTINF:-1 tvg-name=""tvg-id="CANAL+.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/canal%2Baction.png"group-title="EPG":http-user-agent="",Canal+ Action
+https://28
+#EXTINF:-1 tvg-name=""tvg-id="Sky Atlantic HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyatlantic.png"group-title="EPG":http-user-agent="",Sky Atlantic
+https://29
+#EXTINF:-1 tvg-name=""tvg-id="Sky One.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyone.png"group-title="EPG":http-user-agent="",Sky One
+https://30
+#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Premiere.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skypremiere.png"group-title="EPG":http-user-agent="",Sky Cinema Premiere
+https://31
+#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Action.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaction.png"group-title="EPG":http-user-agent="",Sky Cinema Action
+https://32
+#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Family.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyfamily.png"group-title="EPG":http-user-agent="",Sky Cinema Family
+https://33
+#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Highlights.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyhighlights.png"group-title="EPG":http-user-agent="",Sky Cinema Highlights
+https://34
+#EXTINF:-1 tvg-name=""tvg-id="Sky Replay HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyreplay.png"group-title="EPG":http-user-agent="",Sky Replay
+https://35
+#EXTINF:-1 tvg-name=""tvg-id="Sky Showcase.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyshowcase.png"group-title="EPG":http-user-agent="",Sky Showcase
+https://36
+#EXTINF:-1 tvg-name=""tvg-id="Sky Crime.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skycrime.png"group-title="EPG":http-user-agent="",Sky Crime
+https://37
+#EXTINF:-1 tvg-name=""tvg-id="Sky Krimi.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skykrimi.png"group-title="EPG":http-user-agent="",Sky Krimi
+https://38
+#EXTINF:-1 tvg-name=""tvg-id="Warner TV Comedy.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnercomedy.png"group-title="EPG":http-user-agent="",Warner TV Comedy
+https://39
+#EXTINF:-1 tvg-name=""tvg-id="Warner TV Film HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerfilm.png"group-title="EPG":http-user-agent="",Warner TV Film
+https://40
+#EXTINF:-1 tvg-name=""tvg-id="Warner TV Serie.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerserie.png"group-title="EPG":http-user-agent="",Warner TV Serie
+https://41
+#EXTINF:-1 tvg-name=""tvg-id="SYFY.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/syfy.png"group-title="EPG":http-user-agent="",SyFy
+https://42
+#EXTINF:-1 tvg-name=""tvg-id="13th Street HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/13street.png"group-title="EPG":http-user-agent="",13th Street
+https://43
+#EXTINF:-1 tvg-name=""tvg-id="KinoweltTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Kinowelt.png"group-title="EPG":http-user-agent="",Kinowelt TV
+https://44
+#EXTINF:-1 tvg-name=""tvg-id="Universal TV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/universal.png"group-title="EPG":http-user-agent="",Universal TV
+https://45
+#EXTINF:-1 tvg-name=""tvg-id="SAT.1 emotions.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1emotion.png"group-title="EPG":http-user-agent="",SAT.1 Emotions
+https://46
+#EXTINF:-1 tvg-name=""tvg-id="ProSieben Fun.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ProSieben_FUN.png"group-title="EPG":http-user-agent="",Pro Sieben Fun
+https://47
+#EXTINF:-1 tvg-name=""tvg-id="Silverline.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/silverline.png"group-title="EPG":http-user-agent="",Silverline
+https://48
+#EXTINF:-1 tvg-name=""tvg-id="AXN Black.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/axnblack.png"group-title="EPG":http-user-agent="",AXN Black
+https://49
+#EXTINF:-1 tvg-name=""tvg-id="AXN White.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/axnwhite.png"group-title="EPG":http-user-agent="",AXN White
+https://50
+#EXTINF:-1 tvg-name=""tvg-id="ZDFneo.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfneo.png"group-title="EPG":http-user-agent="",ZDFneo
+https://51
+#EXTINF:-1 tvg-name=""tvg-id="ZDFinfo.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfinfo.png"group-title="EPG":http-user-agent="",ZDFinfo
+https://52
+#EXTINF:-1 tvg-name=""tvg-id="MDR Sachsen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/mdr.png"group-title="EPG":http-user-agent="",MDR Sachsen
+https://53
+#EXTINF:-1 tvg-name=""tvg-id="WELT.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/welt.png"group-title="EPG":http-user-agent="",Welt
+https://54
+#EXTINF:-1 tvg-name=""tvg-id="n-tv.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ntv.png"group-title="EPG":http-user-agent="",N-TV
+https://55
+#EXTINF:-1 tvg-name=""tvg-id="Bild.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png"group-title="EPG":http-user-agent="",Bild TV
+https://56
+#EXTINF:-1 tvg-name=""tvg-id="DMAX.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dmax.png"group-title="EPG":http-user-agent="",DMAX
+https://57
+#EXTINF:-1 tvg-name=""tvg-id="Kabel Eins Doku.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1doku.png"group-title="EPG":http-user-agent="",Kabel eins Doku
+https://58
+#EXTINF:-1 tvg-name=""tvg-id="N24 Doku.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/n24doku.png"group-title="EPG":http-user-agent="",N24 Doku
+https://59
+#EXTINF:-1 tvg-name=""tvg-id="TLC.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tlc.png"group-title="EPG":http-user-agent="",TLC
+https://60
+#EXTINF:-1 tvg-name=""tvg-id="Curiosity Channel.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/curiosity.png"group-title="EPG":http-user-agent="",Curiosity Channel
+https://61
+#EXTINF:-1 tvg-name=""tvg-id="National Geographic.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nationalgeo.png"group-title="EPG":http-user-agent="",National Geographic
+https://62
+#EXTINF:-1 tvg-name=""tvg-id="National Geographic Wild.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nationalwild.png"group-title="EPG":http-user-agent="",National Geographic Wild
+https://63
+#EXTINF:-1 tvg-name=""tvg-id="Discovery Channel.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/discovery.png"group-title="EPG":http-user-agent="",Discovery Channel
+https://64
+#EXTINF:-1 tvg-name=""tvg-id="Spiegel Geschichte.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/spiegelgeschichte.png"group-title="EPG":http-user-agent="",Spiegel Geschichte
+https://65
+#EXTINF:-1 tvg-name=""tvg-id="HISTORY.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/history.png"group-title="EPG":http-user-agent="",History Channel
+https://66
+#EXTINF:-1 tvg-name=""tvg-id="Sky Nature HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skynature.png"group-title="EPG":http-user-agent="",Sky Nature
+https://67
+#EXTINF:-1 tvg-name=""tvg-id="Animal Planet.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/animalplanethd.png"group-title="EPG":http-user-agent="",Animal Planet
+https://68
+#EXTINF:-1 tvg-name=""tvg-id="GEO Television.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/GEOHD.png"group-title="EPG":http-user-agent="",Geo
+https://69
+#EXTINF:-1 tvg-name=""tvg-id="Sky Documentaries HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skydocumentaries.png"group-title="EPG":http-user-agent="",Sky Documentaries
+https://70
+#EXTINF:-1 tvg-name=""tvg-id="DOKUSAT.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dokusat.png"group-title="EPG":http-user-agent="",DokuSat
+https://71
+#EXTINF:-1 tvg-name=""tvg-id="Welt der Wunder.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/www.png"group-title="EPG":http-user-agent="",Welt der Wunder
+https://72
+#EXTINF:-1 tvg-name=""tvg-id="ProSieben MAXX.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7maxx.png"group-title="EPG":http-user-agent="",Pro Sieben MAXX
+https://73
+#EXTINF:-1 tvg-name=""tvg-id="Comedy Central.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/comedycentral.png"group-title="EPG":http-user-agent="",Comedy Central
+https://74
+#EXTINF:-1 tvg-name=""tvg-id="tagesschau24.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tagesschau.png"group-title="EPG":http-user-agent="",Tagesschau 24
+https://75
+#EXTINF:-1 tvg-name=""tvg-id="ARD-alpha.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ardalpha.png"group-title="EPG":http-user-agent="",ARD-alpha
+https://76
+#EXTINF:-1 tvg-name=""tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3sat.png"group-title="EPG":http-user-agent="",3 Sat
+https://77
+#EXTINF:-1 tvg-name=""tvg-id="BR Nord.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/br.png"group-title="EPG":http-user-agent="",BR
+https://78
+#EXTINF:-1 tvg-name=""tvg-id="SWR Fernsehen BW.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swr.png"group-title="EPG":http-user-agent="",SWR
+https://79
+#EXTINF:-1 tvg-name=""tvg-id="ARTE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/arte.png"group-title="EPG":http-user-agent="",Arte
+https://80
+#EXTINF:-1 tvg-name=""tvg-id="NDR Hamburg.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ndr.png"group-title="EPG":http-user-agent="",NDR
+https://81
+#EXTINF:-1 tvg-name=""tvg-id="WDR Aachen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/wdr.png"group-title="EPG":http-user-agent="",WDR
+https://82
+#EXTINF:-1 tvg-name=""tvg-id="hr-fernsehen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/hr.png"group-title="EPG":http-user-agent="",HR
+https://83
+#EXTINF:-1 tvg-name=""tvg-id="phoenix.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/phoenix.png"group-title="EPG":http-user-agent="",Phoenix
+https://84
+#EXTINF:-1 tvg-name=""tvg-id="RBB Berlin.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rbb.png"group-title="EPG":http-user-agent="",RBB
+https://85
+#EXTINF:-1 tvg-name=""tvg-id="Leipzig Fernsehen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Leipzig.png"group-title="EPG":http-user-agent="",Leipzig Fernsehen
+https://86
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/s1.png"group-title="EPG":http-user-agent="",S1
+https://87
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/srfinfo.png"group-title="EPG":http-user-agent="",SRF Info
+https://88
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/srf1.png"group-title="EPG":http-user-agent="",SRF 1
+https://89
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/srf2.png"group-title="EPG":http-user-agent="",SRF 2
+https://90
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/TV%2024.png"group-title="EPG":http-user-agent="",TV 24
+https://91
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/TV25.png"group-title="EPG":http-user-agent="",TV 25
+https://92
+#EXTINF:-1 tvg-name=""tvg-id="ORF 1.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"group-title="EPG":http-user-agent="",ORF 1
+https://93
+#EXTINF:-1 tvg-name=""tvg-id="ORF 2.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"group-title="EPG":http-user-agent="",ORF 2
+https://94
+#EXTINF:-1 tvg-name=""tvg-id="ORF 3.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf3.png"group-title="EPG":http-user-agent="",ORF 3
+https://95
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orfsport.png"group-title="EPG":http-user-agent="",ORF Sport+
+https://96
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport News HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportnews.png"group-title="EPG":http-user-agent="",Sky Sport News
+https://97
+#EXTINF:-1 tvg-name=""tvg-id="DAZN 1 HD.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn1.png"group-title="EPG":http-user-agent="",DAZN 1
+https://98
+#EXTINF:-1 tvg-name=""tvg-id="DAZN 2 HD.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn2.png"group-title="EPG":http-user-agent="",DAZN 2
+https://99
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/daznfast.png"group-title="EPG":http-user-agent="",DAZN Fast+
+https://100
+#EXTINF:-1 tvg-name=""tvg-id="DAZN RISE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/DAZNrise.png"group-title="EPG":http-user-agent="",DAZN Rise
+https://101
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga.png"group-title="EPG":http-user-agent="",Sky Sport Bundesliga
+https://102
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga1.png"group-title="EPG":http-user-agent="",Sky Sport Bundesliga 1
+https://103
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 2.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga2.png"group-title="EPG":http-user-agent="",Sky Sport Bundesliga 2
+https://104
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 3.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga3.png"group-title="EPG":http-user-agent="",Sky Sport Bundesliga 3
+https://105
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 4.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga4.png"group-title="EPG":http-user-agent="",Sky Sport Bundesliga 4
+https://106
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 5.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga5.png"group-title="EPG":http-user-agent="",Sky Sport Bundesliga 5
+https://107
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 6.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga6.png"group-title="EPG":http-user-agent="",Sky Sport Bundesliga 6
+https://108
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 7.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga7.png"group-title="EPG":http-user-agent="",Sky Sport Bundesliga 7
+https://109
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 8.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga8.png"group-title="EPG":http-user-agent="",Sky Sport Bundesliga 8
+https://110
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga 9.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga9.png"group-title="EPG":http-user-agent="",Sky Sport Bundesliga 9
+https://111
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 1 HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria1.png"group-title="EPG":http-user-agent="",Sky Sport Austria 1
+https://112
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 2.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria2.png"group-title="EPG":http-user-agent="",Sky Sport Austria 2
+https://113
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 3.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria3.png"group-title="EPG":http-user-agent="",Sky Sport Austria 3
+https://114
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 4.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria4.png"group-title="EPG":http-user-agent="",Sky Sport Austria 4
+https://115
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 5.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria5.png"group-title="EPG":http-user-agent="",Sky Sport Austria 5
+https://116
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 6.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria6.png"group-title="EPG":http-user-agent="",Sky Sport Austria 6
+https://117
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 7.at"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria7.png"group-title="EPG":http-user-agent="",Sky Sport Austria 7
+https://118
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Mix HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportmix.png"group-title="EPG":http-user-agent="",Sky Sport Mix
+https://119
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Top Event HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysporttopevent.png"group-title="EPG":http-user-agent="",Sky Sport Top Event
+https://120
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Premier League HD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportpremier.png"group-title="EPG":http-user-agent="",Sky Sport Premier League
+https://121
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport F1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportf1.png"group-title="EPG":http-user-agent="",Sky Sport F1
+https://122
+#EXTINF:-1 tvg-name=""tvg-id="Sport 1 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="EPG":http-user-agent="",Magenta Sport 1
+https://123
+#EXTINF:-1 tvg-name=""tvg-id="Sport 2 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="EPG":http-user-agent="",Magenta Sport 2
+https://124
+#EXTINF:-1 tvg-name=""tvg-id="Sport 3 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="EPG":http-user-agent="",Magenta Sport 3
+https://125
+#EXTINF:-1 tvg-name=""tvg-id="Sport 4 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="EPG":http-user-agent="",Magenta Sport 4
+https://126
+#EXTINF:-1 tvg-name=""tvg-id="Sport 5 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="EPG":http-user-agent="",Magenta Sport 5
+https://127
+#EXTINF:-1 tvg-name=""tvg-id="Sport 6 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="EPG":http-user-agent="",Magenta Sport 6
+https://128
+#EXTINF:-1 tvg-name=""tvg-id="Sport 7 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="EPG":http-user-agent="",Magenta Sport 7
+https://129
+#EXTINF:-1 tvg-name=""tvg-id="Sport 8 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="EPG":http-user-agent="",Magenta Sport 8
+https://130
+#EXTINF:-1 tvg-name=""tvg-id="Sport 9 - myTeamTV.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"group-title="EPG":http-user-agent="",Magenta Sport 9
+https://131
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport1.png"group-title="EPG":http-user-agent="",Sky Sport 1
+https://132
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 2.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport2.png"group-title="EPG":http-user-agent="",Sky Sport 2
+https://133
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 3.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport3.png"group-title="EPG":http-user-agent="",Sky Sport 3
+https://134
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 4.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport4.png"group-title="EPG":http-user-agent="",Sky Sport 4
+https://135
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 5.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport5.png"group-title="EPG":http-user-agent="",Sky Sport 5
+https://136
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 6.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport6.png"group-title="EPG":http-user-agent="",Sky Sport 6
+https://137
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 7.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport7.png"group-title="EPG":http-user-agent="",Sky Sport 7
+https://138
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 8.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport8.png"group-title="EPG":http-user-agent="",Sky Sport 8
+https://139
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 9.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport9.png"group-title="EPG":http-user-agent="",Sky Sport 9
+https://140
+#EXTINF:-1 tvg-name=""tvg-id="SPORT1.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sport1.png"group-title="EPG":http-user-agent="",Sport 1
+https://141
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/eurosport1.png"group-title="EPG":http-user-agent="",Eurosport 1
+https://142
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/eurosport2.png"group-title="EPG":http-user-agent="",Eurosport 2
+https://143
+#EXTINF:-1 tvg-name=""tvg-id="SPORTDIGITAL FUSSBALL.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Sportdigital.png"group-title="EPG":http-user-agent="",Sportdigital
+https://144
+#EXTINF:-1 tvg-name=""tvg-id="SPORTDIGITAL1+.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Sportdigital%2B.png"group-title="EPG":http-user-agent="",Sportdigital+
+https://145
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/red_bull_tv.png"group-title="EPG":http-user-agent="",Red Bull TV
+https://146
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/servustvmotorsport.png"group-title="EPG":http-user-agent="",Servus TV Motorsport
+https://147
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Motorvision%2B.png"group-title="EPG":http-user-agent="",Motorvision
+https://148
+#EXTINF:-1 tvg-name=""tvg-id="auto motor sport tv.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/automotorsport.png"group-title="EPG":http-user-agent="",Auto Motor und Sport
+https://149
