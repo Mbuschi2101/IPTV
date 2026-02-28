@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="SRF1.ch" tvg-chno="1" group-title="German" tvg-logo="https://channel.images.production.web.w4a.tv/dark/sf-1.png", SRF 1
-http://10.2.0.2:5000/api/y3o/live/sf-1
+http://192.168.178.37:5000/api/y3o/live/sf-1
 #EXTINF:0001 tvg-id="SRF2.ch" tvg-chno="2" group-title="German" tvg-logo="https://channel.images.production.web.w4a.tv/dark/sf-2.png", SRF 2
 http://10.2.0.2:5000/api/y3o/live/sf-2
 #EXTINF:0001 tvg-id="3plus.ch" tvg-chno="3" group-title="German" tvg-logo="https://channel.images.production.web.w4a.tv/dark/3plus.png", 3+
