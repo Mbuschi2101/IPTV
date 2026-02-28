@@ -3,9 +3,9 @@
 http://192.168.178.37:5000/api/y3o/live/sf-1
 #EXTINF:-1 tvg-id="SRF2.ch"tvg-logo="https://channel.images.production.web.w4a.tv/dark/sf-2.png"tvg-chno="2"group-title="German",SRF 2
 http://192.168.178.37:5000/api/y3o/live/sf-2
-#EXTINF:-1 tvg-id="TV24.ch"tvg-logo="https://channel.images.production.web.w4a.tv/dark/tv24.png"tvg-chno="4"group-title="German",TV24
+#EXTINF:-1 tvg-id="TV24.ch"tvg-logo="https://channel.images.production.web.w4a.tv/dark/tv24.png"tvg-chno="3"group-title="German",TV24
 http://192.168.178.37:5000/api/y3o/live/tv24
-#EXTINF:-1 tvg-id="3plus.ch"tvg-logo="https://channel.images.production.web.w4a.tv/dark/3plus.png"tvg-chno="3"group-title="German",3+
+#EXTINF:-1 tvg-id="3plus.ch"tvg-logo="https://channel.images.production.web.w4a.tv/dark/3plus.png"tvg-chno="4"group-title="German",3+
 http://192.168.178.37:5000/api/y3o/live/3plus
 #EXTINF:-1 tvg-id="Pro7.ch"tvg-logo="https://channel.images.production.web.w4a.tv/dark/prosieben.png"tvg-chno="5"group-title="German",ProSieben
 http://192.168.178.37:5000/api/y3o/live/prosieben
