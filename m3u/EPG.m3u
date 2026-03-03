@@ -321,3 +321,11 @@ https://159
 https://160
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/xplore.png"group-title="EPG":http-user-agent="",XPLORE
 https://161
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlsuper.png"group-title="EPG":http-user-agent="",Super RTL
+https://162
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyclassics.png"group-title="EPG":http-user-agent="",Sky Cinema Classics
+https://163
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/servustv.png"group-title="EPG":http-user-agent="",Servus TV
+https://164
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/begblick.png"group-title="EPG":http-user-agent="",Bergblick
+https://165
