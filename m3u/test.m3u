@@ -49,53 +49,53 @@ http://192.168.178.81:5000/api/y3o/live/mdr-sachsen
 http://192.168.178.81:5000/api/y3o/live/sf-1
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="25"group-title="Telerising CH",SRF 2
 http://192.168.178.81:5000/api/y3o/live/sf-2
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="26"group-title="Telerising CH",TV24
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="26"group-title="Telerising CH",TV 24
 http://192.168.178.81:5000/api/y3o/live/tv24
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="27"group-title="Telerising CH",TV 25
 http://192.168.178.81:5000/api/y3o/live/tv25
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="28"group-title="Telerising CH",S1TV
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="28"group-title="Telerising CH",S1
 http://192.168.178.81:5000/api/y3o/live/s1
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="29"group-title="Telerising CH",Swiss 1 TV
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="29"group-title="Telerising CH",Swiss 1
 http://192.168.178.81:5000/api/y3o/live/swiss_1
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="30"group-title="Telerising CH",Servus TV
 http://192.168.178.81:5000/api/y3o/live/servus_tv_austria
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="31"group-title="Telerising CH",ProSieben MAXX
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="31"group-title="Telerising CH",Pro Sieben MAXX
 http://192.168.178.81:5000/api/y3o/live/pro7maxx_ch
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="32"group-title="Telerising CH",DMAX
 http://192.168.178.81:5000/api/y3o/live/dmax
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="33"group-title="Telerising CH",ORF Eins
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="33"group-title="Telerising CH",ORF 1
 http://192.168.178.81:5000/api/y3o/live/orf-1
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="34"group-title="Telerising CH",ORF 2
 http://192.168.178.81:5000/api/y3o/live/orf-2
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="35"group-title="Telerising CH",ORF3
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="35"group-title="Telerising CH",ORF 3
 http://192.168.178.81:5000/api/y3o/live/orf3
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="36"group-title="Telerising CH",ARTE DE
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="36"group-title="Telerising CH",Arte
 http://192.168.178.81:5000/api/y3o/live/DE_arte
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="37"group-title="Telerising CH",3sat
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="37"group-title="Telerising CH",3 sat
 http://192.168.178.81:5000/api/y3o/live/3sat
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="38"group-title="Telerising CH",TLC Germany
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="38"group-title="Telerising CH",TLC
 http://192.168.178.81:5000/api/y3o/live/tlc
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="39"group-title="Telerising CH",SUPER RTL
 http://192.168.178.81:5000/api/y3o/live/super-rtl
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="40"group-title="Telerising CH",Comedy Central
 http://192.168.178.81:5000/api/y3o/live/comedycentral
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="41"group-title="Telerising CH",Eurosport
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="41"group-title="Telerising CH",Eurosport 1
 http://192.168.178.81:5000/api/y3o/live/eurosport
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="42"group-title="Telerising CH",Sport1
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="42"group-title="Telerising CH",Sport 1
 http://192.168.178.81:5000/api/y3o/live/dsf
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="43"group-title="Telerising CH",blue Zoom
 http://192.168.178.81:5000/api/y3o/live/teleclub_zoom
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="44"group-title="Telerising CH",WELT
 http://192.168.178.81:5000/api/y3o/live/n24
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="45"group-title="Telerising CH",ntv
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="45"group-title="Telerising CH",N-TV
 http://192.168.178.81:5000/api/y3o/live/ntv_de
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="46"group-title="Telerising CH",SRF info
 http://192.168.178.81:5000/api/y3o/live/sf-info
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="47"group-title="Telerising CH",tagesschau24
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="47"group-title="Telerising CH",tagesschau 24
 http://192.168.178.81:5000/api/y3o/live/einsextra
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="48"group-title="Telerising CH",Phoenix
 http://192.168.178.81:5000/api/y3o/live/phoenix
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="49"group-title="Telerising CH",Kabel 1 Doku
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="49"group-title="Telerising CH",Kabel eins Doku
 http://192.168.178.81:5000/api/y3o/live/kabel1_doku
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="50"group-title="Telerising CH",N24 Doku
 http://192.168.178.81:5000/api/y3o/live/n24_doku
