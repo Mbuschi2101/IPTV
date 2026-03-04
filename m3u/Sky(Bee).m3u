@@ -4,7 +4,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=ard&level=hd&drm=False
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdf.png"tvg-chno="2"group-title="Sky(Bee, DE VPN)",ZDF
 plugin://plugin.video.zattoo_com/?mode=watch&id=zdf&level=hd&drm=False
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl.png"tvg-chno="3"group-title="Sky(Bee, DE VPN)",RTL
-plugin://plugin.video.playlistbee/?name=RTL+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1238%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2Fqt8qqNc.png&logos=&epg=&cache=0&uuid=0
+plugin://plugin.video.playlistbee/?name=RTL+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D538%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Faustria%2Frtl_eno.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1.png"tvg-chno="4"group-title="Sky(Bee, DE VPN)",SAT.1
 plugin://plugin.video.playlistbee/?name=SAT.1+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D1242%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fpxpicon.xyz%2Fpars%2Fde%2Fdeutschland%2Fsat1fhd.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl2.png"tvg-chno="5"group-title="Sky(Bee, DE VPN)",RTL II
