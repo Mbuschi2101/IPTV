@@ -45,65 +45,63 @@ http://192.168.178.81:5000/api/y3o/live/zdfneo
 http://192.168.178.81:5000/api/y3o/live/zdf-info
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/mdr.png"tvg-chno="23"group-title="Telerising CH",MDR Sachsen
 http://192.168.178.81:5000/api/y3o/live/mdr-sachsen
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="24"group-title="Telerising CH",SRF 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/srf1.png"tvg-chno="24"group-title="Telerising CH",SRF 1
 http://192.168.178.81:5000/api/y3o/live/sf-1
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="25"group-title="Telerising CH",SRF 2
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/srf2.png"tvg-chno="25"group-title="Telerising CH",SRF 2
 http://192.168.178.81:5000/api/y3o/live/sf-2
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="26"group-title="Telerising CH",TV 24
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/TV%2024.png"tvg-chno="26"group-title="Telerising CH",TV 24
 http://192.168.178.81:5000/api/y3o/live/tv24
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="27"group-title="Telerising CH",TV 25
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/TV25.png"tvg-chno="27"group-title="Telerising CH",TV 25
 http://192.168.178.81:5000/api/y3o/live/tv25
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="28"group-title="Telerising CH",S1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/s1.png"tvg-chno="28"group-title="Telerising CH",S1
 http://192.168.178.81:5000/api/y3o/live/s1
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="29"group-title="Telerising CH",Swiss 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swiss1.png"tvg-chno="29"group-title="Telerising CH",Swiss 1
 http://192.168.178.81:5000/api/y3o/live/swiss_1
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="30"group-title="Telerising CH",Servus TV
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/servustv.png"tvg-chno="30"group-title="Telerising CH",Servus TV
 http://192.168.178.81:5000/api/y3o/live/servus_tv_austria
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="31"group-title="Telerising CH",Pro Sieben MAXX
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7maxx.png"tvg-chno="31"group-title="Telerising CH",Pro Sieben MAXX
 http://192.168.178.81:5000/api/y3o/live/pro7maxx_ch
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="32"group-title="Telerising CH",DMAX
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dmax.png"tvg-chno="32"group-title="Telerising CH",DMAX
 http://192.168.178.81:5000/api/y3o/live/dmax
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="33"group-title="Telerising CH",ORF 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"tvg-chno="33"group-title="Telerising CH",ORF 1
 http://192.168.178.81:5000/api/y3o/live/orf-1
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="34"group-title="Telerising CH",ORF 2
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"tvg-chno="34"group-title="Telerising CH",ORF 2
 http://192.168.178.81:5000/api/y3o/live/orf-2
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="35"group-title="Telerising CH",ORF 3
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf3.png"tvg-chno="35"group-title="Telerising CH",ORF 3
 http://192.168.178.81:5000/api/y3o/live/orf3
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="36"group-title="Telerising CH",Arte
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/arte.png"tvg-chno="36"group-title="Telerising CH",Arte
 http://192.168.178.81:5000/api/y3o/live/DE_arte
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="37"group-title="Telerising CH",3 sat
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3sat.png"tvg-chno="37"group-title="Telerising CH",3 sat
 http://192.168.178.81:5000/api/y3o/live/3sat
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="38"group-title="Telerising CH",TLC
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tlc.png"tvg-chno="38"group-title="Telerising CH",TLC
 http://192.168.178.81:5000/api/y3o/live/tlc
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="39"group-title="Telerising CH",SUPER RTL
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlsuper.png"tvg-chno="39"group-title="Telerising CH",SUPER RTL
 http://192.168.178.81:5000/api/y3o/live/super-rtl
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="40"group-title="Telerising CH",Comedy Central
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/comedycentral.png"tvg-chno="40"group-title="Telerising CH",Comedy Central
 http://192.168.178.81:5000/api/y3o/live/comedycentral
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="41"group-title="Telerising CH",Eurosport 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/eurosport1.png"tvg-chno="41"group-title="Telerising CH",Eurosport 1
 http://192.168.178.81:5000/api/y3o/live/eurosport
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="42"group-title="Telerising CH",Sport 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sport1.png"tvg-chno="42"group-title="Telerising CH",Sport 1
 http://192.168.178.81:5000/api/y3o/live/dsf
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="43"group-title="Telerising CH",blue Zoom
-http://192.168.178.81:5000/api/y3o/live/teleclub_zoom
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="44"group-title="Telerising CH",WELT
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/welt.png"tvg-chno="44"group-title="Telerising CH",WELT
 http://192.168.178.81:5000/api/y3o/live/n24
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="45"group-title="Telerising CH",N-TV
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ntv.png"tvg-chno="45"group-title="Telerising CH",N-TV
 http://192.168.178.81:5000/api/y3o/live/ntv_de
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="46"group-title="Telerising CH",SRF info
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/srfinfo.png"tvg-chno="46"group-title="Telerising CH",SRF info
 http://192.168.178.81:5000/api/y3o/live/sf-info
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="47"group-title="Telerising CH",tagesschau 24
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tagesschau.png"tvg-chno="47"group-title="Telerising CH",Tagesschau 24
 http://192.168.178.81:5000/api/y3o/live/einsextra
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="48"group-title="Telerising CH",Phoenix
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/phoenix.png"tvg-chno="48"group-title="Telerising CH",Phoenix
 http://192.168.178.81:5000/api/y3o/live/phoenix
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="49"group-title="Telerising CH",Kabel eins Doku
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1doku.png"tvg-chno="49"group-title="Telerising CH",Kabel eins Doku
 http://192.168.178.81:5000/api/y3o/live/kabel1_doku
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="50"group-title="Telerising CH",N24 Doku
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/n24doku.png"tvg-chno="50"group-title="Telerising CH",N24 Doku
 http://192.168.178.81:5000/api/y3o/live/n24_doku
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="51"group-title="Telerising CH",Spiegel TV Konflikte
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Spiegeltvkonflikte.png"tvg-chno="51"group-title="Telerising CH",Spiegel TV Konflikte
 http://192.168.178.81:5000/api/y3o/live/spiegel_tv_konflikte_de
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="52"group-title="Telerising CH",Star TV
 http://192.168.178.81:5000/api/y3o/live/startv
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="53"group-title="Telerising CH",Top Filme
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TOPFILME.png"tvg-chno="53"group-title="Telerising CH",Top Filme
 http://192.168.178.81:5000/api/y3o/live/top_filme_de
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="54"group-title="Telerising CH",Filmgold
 http://192.168.178.81:5000/api/y3o/live/filmgold_de
@@ -117,20 +115,18 @@ http://192.168.178.81:5000/api/y3o/live/telebasel
 http://192.168.178.81:5000/api/y3o/live/tele_top
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="59"group-title="Telerising CH",TV Südostschweiz
 http://192.168.178.81:5000/api/y3o/live/telesuedostschweiz
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="60"group-title="Telerising CH",SWR
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swr.png"tvg-chno="60"group-title="Telerising CH",SWR
 http://192.168.178.81:5000/api/y3o/live/swr-fernsehen-bw
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="61"group-title="Telerising CH",WDR
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/wdr.png"tvg-chno="61"group-title="Telerising CH",WDR
 http://192.168.178.81:5000/api/y3o/live/wdr-koeln
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="62"group-title="Telerising CH",Bayrischer Rundfunk
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/br.png"tvg-chno="62"group-title="Telerising CH",BR
 http://192.168.178.81:5000/api/y3o/live/br
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="63"group-title="Telerising CH",NDR
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ndr.png"tvg-chno="63"group-title="Telerising CH",NDR
 http://192.168.178.81:5000/api/y3o/live/ndr-niedersachsen
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="64"group-title="Telerising CH",HR
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/hr.png"tvg-chno="64"group-title="Telerising CH",HR
 http://192.168.178.81:5000/api/y3o/live/hr
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="65"group-title="Telerising CH",rbb Berlin
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rbb.png"tvg-chno="65"group-title="Telerising CH",RBB
 http://192.168.178.81:5000/api/y3o/live/rbb
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="66"group-title="Telerising CH",SR Fernsehen
-http://192.168.178.81:5000/api/y3o/live/sr-fernsehen
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="67"group-title="Telerising CH",Tele Ostschweiz
 http://192.168.178.81:5000/api/y3o/live/teleostschweiz
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="68"group-title="Telerising CH",Schaffhauser Fernsehen
@@ -139,6 +135,8 @@ http://192.168.178.81:5000/api/y3o/live/shf_ch
 http://192.168.178.81:5000/api/y3o/live/tv_oberwallis
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="70"group-title="Telerising CH",Tele D
 http://192.168.178.81:5000/api/y3o/live/tele_d_ch
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="43"group-title="Telerising CH",blue Zoom
+http://192.168.178.81:5000/api/y3o/live/teleclub_zoom
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="71"group-title="Telerising CH",1FLTV
 http://192.168.178.81:5000/api/y3o/live/1fltv_li
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="72"group-title="Telerising CH",auftanken.tv
@@ -149,25 +147,23 @@ http://192.168.178.81:5000/api/y3o/live/helvetia_one_tv_ch
 http://192.168.178.81:5000/api/y3o/live/mtv
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="75"group-title="Telerising CH",Deluxe Music TV
 http://192.168.178.81:5000/api/y3o/live/deluxe-music
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="76"group-title="Telerising CH",Wetter TV
-http://192.168.178.81:5000/api/y3o/live/wetter_tv
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="77"group-title="Telerising CH",ARD-alpha
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ardalpha.png"tvg-chno="77"group-title="Telerising CH",ARD-alpha
 http://192.168.178.81:5000/api/y3o/live/br-alpha
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="78"group-title="Telerising CH",Welt der Wunder
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/www.png"tvg-chno="78"group-title="Telerising CH",Welt der Wunder
 http://192.168.178.81:5000/api/y3o/live/weltderwunder
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="79"group-title="Telerising CH",one TERRA
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/oneterra.png"tvg-chno="79"group-title="Telerising CH",one TERRA
 http://192.168.178.81:5000/api/y3o/live/one_terra_de
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="80"group-title="Telerising CH",Xplore
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/xplore.png"tvg-chno="80"group-title="Telerising CH",Xplore
 http://192.168.178.81:5000/api/y3o/live/xplore_de
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="81"group-title="Telerising CH",Curiosity Now
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/curiositynow.png"tvg-chno="81"group-title="Telerising CH",Curiosity Now
 http://192.168.178.81:5000/api/y3o/live/curiosity_now_de
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="82"group-title="Telerising CH",Terra Mater Wild
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Terramater.png"tvg-chno="82"group-title="Telerising CH",Terra Mater Wild
 http://192.168.178.81:5000/api/y3o/live/terra_mater_wild_de
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="83"group-title="Telerising CH",Crime Time
 http://192.168.178.81:5000/api/y3o/live/crime_time_de
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="84"group-title="Telerising CH",Top True Crime
 http://192.168.178.81:5000/api/y3o/live/top_true_crime_de
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="85"group-title="Telerising CH",Top Serien
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSerien.png"tvg-chno="85"group-title="Telerising CH",Top Serien
 http://192.168.178.81:5000/api/y3o/live/craction_tv_de
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="86"group-title="Telerising CH",Naruto
 http://192.168.178.81:5000/api/y3o/live/naruto_de
@@ -201,7 +197,7 @@ http://192.168.178.81:5000/api/y3o/live/hse24
 http://192.168.178.81:5000/api/y3o/live/hse24_extra
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="101"group-title="Telerising CH",HSE24 Trend
 http://192.168.178.81:5000/api/y3o/live/hse24_trend
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="102"group-title="Telerising CH",Wedo Movies
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/wedomovies.png"tvg-chno="102"group-title="Telerising CH",Wedo Movies
 http://192.168.178.81:5000/api/y3o/live/wedo_movies_de
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno="103"group-title="Telerising CH",Tele 1
 http://192.168.178.81:5000/api/y3o/live/tele1
