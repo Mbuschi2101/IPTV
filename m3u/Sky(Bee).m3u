@@ -8,29 +8,29 @@ plugin://plugin.video.playlistbee/?name=RTL+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1.png"tvg-chno="4"group-title="Sky(Bee, DE VPN)",SAT.1
 plugin://plugin.video.playlistbee/?name=SAT.1+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D1242%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fpxpicon.xyz%2Fpars%2Fde%2Fdeutschland%2Fsat1fhd.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl2.png"tvg-chno="5"group-title="Sky(Bee, DE VPN)",RTL II
-plugin://plugin.video.playlistbee/?name=RTL+ZWEI+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1240%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FPp2wGV8.png&logos=&epg=&cache=0&uuid=0
+plugin://plugin.video.playlistbee/?name=RTL+ZWEI+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D1240%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FPp2wGV8.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7.png"tvg-chno="6"group-title="Sky(Bee, DE VPN)",Pro Sieben
 plugin://plugin.video.playlistbee/?name=PROSIEBEN+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D1244%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FtDabFeM.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1.png"tvg-chno="7"group-title="Sky(Bee, DE VPN)",Kabel eins
-plugin://plugin.video.playlistbee/?name=KABEL+EINS+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1258%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FEvQzv3t.png&logos=&epg=&cache=0&uuid=0
+plugin://plugin.video.playlistbee/?name=KABEL+EINS+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D1258%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FEvQzv3t.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1classic.png"tvg-chno="8"group-title="Sky(Bee, DE VPN)",Kabel eins Classics
-plugin://plugin.video.playlistbee/?name=KABEL+EINS+CLASSICS+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1261%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FUr2Rkt4.png&logos=&epg=&cache=0&uuid=0
+plugin://plugin.video.playlistbee/?name=KABEL+EINS+CLASSICS+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D1261%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FUr2Rkt4.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/vox.png"tvg-chno="9"group-title="Sky(Bee, DE VPN)",VOX
 plugin://plugin.video.playlistbee/?name=VOX+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D1255%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FMGgnJuu.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nitro.png"tvg-chno="10"group-title="Sky(Bee, DE VPN)",RTL Nitro
 plugin://plugin.video.playlistbee/?name=NITRO+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D1269%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2F3GBXwmN.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlpassion.png"tvg-chno="11"group-title="Sky(Bee, DE VPN)",RTL Passion
-plugin://plugin.video.playlistbee/?name=RTL+PASSION+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1271%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FSgOa7Fy.png&logos=&epg=&cache=0&uuid=0
+plugin://plugin.video.playlistbee/?name=RTL+PASSION+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D1271%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FSgOa7Fy.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlup.png"tvg-chno="12"group-title="Sky(Bee, DE VPN)",RTLup
 plugin://plugin.video.playlistbee/?name=RTL+UP+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D1275%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2F8fcZxrI.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/voxup.png"tvg-chno="13"group-title="Sky(Bee, DE VPN)",VOXup
-plugin://plugin.video.playlistbee/?name=VOXUP+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D195206%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FOLkHbC8.png&logos=&epg=&cache=0&uuid=0
+plugin://plugin.video.playlistbee/?name=VOXUP+HD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D1257%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2Fha7RzUn.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlcrime.png"tvg-chno="14"group-title="Sky(Bee, DE VPN)",RTL Crime
-plugin://plugin.video.playlistbee/?name=RTL+CRIME+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1250%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2Fk0MUTP8.png&logos=&epg=&cache=0&uuid=0
+plugin://plugin.video.playlistbee/?name=RTL+CRIME+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D1250%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2Fk0MUTP8.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sixx.png"tvg-chno="15"group-title="Sky(Bee, DE VPN)",SIXX
-plugin://plugin.video.playlistbee/?name=SIXX+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1277%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FEAFsll1.png&logos=&epg=&cache=0&uuid=0
+plugin://plugin.video.playlistbee/?name=SIXX+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D1277%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FEAFsll1.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tele5.png"tvg-chno="16"group-title="Sky(Bee, DE VPN)",Tele 5
-plugin://plugin.video.playlistbee/?name=TELE+5+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1286%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FspOmsA7.png&logos=&epg=&cache=0&uuid=0
+plugin://plugin.video.playlistbee/?name=TELE+5+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D1286%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FspOmsA7.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1gold.png"tvg-chno="17"group-title="Sky(Bee, DE VPN)",SAT.1 Gold
 plugin://plugin.video.playlistbee/?name=SAT.1+GOLD+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D1252%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FrbMLo9S.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/one.png"tvg-chno="18"group-title="Sky(Bee, DE VPN)",ONE
@@ -38,19 +38,19 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=einsfestival&level=hd&drm=False
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3%2B.png"tvg-chno="19"group-title="Sky(Bee, DE VPN)",3+
 plugin://plugin.video.playlistbee/?name=3%2B+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D49446%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FugOKynR.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/4%2B.png"tvg-chno="20"group-title="Sky(Bee, DE VPN)",4+
-plugin://plugin.video.playlistbee/?name=4%2B+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D49447%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FC2qM8bB.png&logos=&epg=&cache=0&uuid=0
+plugin://plugin.video.playlistbee/?name=4%2B+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D49447%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FC2qM8bB.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/5%2B.png"tvg-chno="21"group-title="Sky(Bee, DE VPN)",5+
 plugin://plugin.video.playlistbee/?name=5%2B+HD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D49448%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2Fh2Yquej.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/6%2B.png"tvg-chno="22"group-title="Sky(Bee, DE VPN)",6+
 plugin://plugin.video.playlistbee/?name=6%2B+HD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D49449%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FYodcYcx.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/atv.png"tvg-chno="23"group-title="Sky(Bee, DE VPN)",ATV
-plugin://plugin.video.playlistbee/?name=ATV&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D191817%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2Fz34j6rh.png&logos=&epg=&cache=0&uuid=0
+plugin://plugin.video.playlistbee/?name=ATV&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D191817%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2Fz34j6rh.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/atv2.png"tvg-chno="24"group-title="Sky(Bee, DE VPN)",ATV 2
 plugin://plugin.video.playlistbee/?name=ATV+2&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D191819%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FoiXpT5i.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls4.png"tvg-chno="25"group-title="Sky(Bee, DE VPN)",Puls 4
-plugin://plugin.video.playlistbee/?name=PULS+4+HD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D191822%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FSxOQM6V.png&logos=&epg=&cache=0&uuid=0
+plugin://plugin.video.playlistbee/?name=PULS+4&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D191821%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FthnmPca.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls8.png"tvg-chno="26"group-title="Sky(Bee, DE VPN)",Puls 8
-plugin://plugin.video.playlistbee/?name=PULS+8&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D49594%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2F2JKMtkC.png&logos=&epg=&cache=0&uuid=0
+plugin://plugin.video.playlistbee/?name=PULS+8&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D49594%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2F2JKMtkC.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls24.png"tvg-chno="27"group-title="Sky(Bee, DE VPN)",Puls 24
 plugin://plugin.video.playlistbee/?name=PULS+24&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D191823%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FTacgms4.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/canal%2Baction.png"tvg-chno="28"group-title="Sky(Bee, DE VPN)",Canal+ Action
@@ -58,7 +58,7 @@ plugin://plugin.video.playlistbee/?name=CANAL%2B+ACTION+HD&url=http%3A%2F%2Feuro
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyatlantic.png"tvg-chno="29"group-title="Sky(Bee, DE VPN)",Sky Atlantic
 plugin://plugin.video.playlistbee/?name=SKY+ATLANTIC+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D2836%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FaC7Qkw4.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyone.png"tvg-chno="30"group-title="Sky(Bee, DE VPN)",Sky One
-plugin://plugin.video.playlistbee/?name=SKY+ONE+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D2838%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FVrEbmPe.png&logos=&epg=&cache=0&uuid=0
+plugin://plugin.video.playlistbee/?name=SKY+ONE&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D552639%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Flogo%2Fgermany%2FSky.One.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skypremiere.png"tvg-chno="31"group-title="Sky(Bee, DE VPN)",Sky Cinema Premiere
 plugin://plugin.video.playlistbee/?name=SKY+CINEMA+PREMIERE+HD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D2805%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FiOxRH7y.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaction.png"tvg-chno="32"group-title="Sky(Bee, DE VPN)",Sky Cinema Action
@@ -66,7 +66,7 @@ plugin://plugin.video.playlistbee/?name=SKY+CINEMA+ACTION+FHD&url=http%3A%2F%2Fe
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyfamily.png"tvg-chno="33"group-title="Sky(Bee, DE VPN)",Sky Cinema Family
 plugin://plugin.video.playlistbee/?name=SKY+CINEMA+FAMILY+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D2812%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FogTNvaV.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyhighlights.png"tvg-chno="34"group-title="Sky(Bee, DE VPN)",Sky Cinema Highlights
-plugin://plugin.video.playlistbee/?name=SKY+CINEMA+HIGHLIGHTS+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D531966%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2Fwi8bIEH.png&logos=&epg=&cache=0&uuid=0
+plugin://plugin.video.playlistbee/?name=SKY+CINEMA+HIGHLIGHTS+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D552654%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Flogo%2Fgermany%2FSky.cinema.highlights.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyreplay.png"tvg-chno="35"group-title="Sky(Bee, DE VPN)",Sky Replay
 plugin://plugin.video.playlistbee/?name=SKY+REPLAY+FHD&url=http%3A%2F%2Feuroturk4.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D1267%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FuwP4ahD.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyshowcase.png"tvg-chno="36"group-title="Sky(Bee, DE VPN)",Sky Showcase
@@ -297,41 +297,3 @@ plugin://plugin.video.playlistbee/?name=SERVUS+TV+MOTORSPORT&url=http%3A%2F%2Fz1
 plugin://plugin.video.playlistbee/?name=MOTORVISION+TV+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A66%26stream%3D1085%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fmotorvision-tv-de.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/automotorsport.png"tvg-chno="149"group-title="Sky(Bee, DE VPN)",Auto Motor und Sport
 plugin://plugin.video.playlistbee/?name=AUTO+MOTOR+SPORT&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D1088%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fautomotorsport.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
