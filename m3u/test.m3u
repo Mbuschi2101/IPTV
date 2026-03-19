@@ -1,293 +1,341 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ard.png"tvg-chno="1"group-title="Test",Das Erste
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ard.png"tvg-chno=""group-title="Test",Das Erste
 plugin://plugin.video.playlistbee/?name=DAS+ERSTE+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15347%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDASERSTE1HD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdf.png"tvg-chno="2"group-title="Test",ZDF
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdf.png"tvg-chno=""group-title="Test",ZDF
 plugin://plugin.video.playlistbee/?name=ZDF+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15348%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FZDF2HD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl.png"tvg-chno="3"group-title="Test",RTL
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl.png"tvg-chno=""group-title="Test",RTL
 plugin://plugin.video.playlistbee/?name=RTL+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15349%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FRTLHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1.png"tvg-chno="4"group-title="Test",SAT.1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1.png"tvg-chno=""group-title="Test",SAT.1
 plugin://plugin.video.playlistbee/?name=SAT.1+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15351%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSAT1HD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl2.png"tvg-chno="5"group-title="Test",RTL II
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl2.png"tvg-chno=""group-title="Test",RTL II
 plugin://plugin.video.playlistbee/?name=RTL+II+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D15350%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FRTLZWEIHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7.png"tvg-chno="6"group-title="Test",Pro Sieben
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7.png"tvg-chno=""group-title="Test",Pro Sieben
 plugin://plugin.video.playlistbee/?name=PROSIEBEN+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15354%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FPRO7HD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1.png"tvg-chno="7"group-title="Test",Kabel eins
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1.png"tvg-chno=""group-title="Test",Kabel eins
 plugin://plugin.video.playlistbee/?name=KABEL+EINS+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15359%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FKABELEINSHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1classic.png"tvg-chno="8"group-title="Test",Kabel eins Classics
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1classic.png"tvg-chno=""group-title="Test",Kabel eins Classics
 plugin://plugin.video.playlistbee/?name=KABEL+EINS+CLASSICS+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15361%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FKABELEINSCLASSICSHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/vox.png"tvg-chno="9"group-title="Test",VOX
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/vox.png"tvg-chno=""group-title="Test",VOX
 plugin://plugin.video.playlistbee/?name=VOX+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15357%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FVOXHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tele5.png"tvg-chno="10"group-title="Test",Tele 5
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tele5.png"tvg-chno=""group-title="Test",Tele 5
 plugin://plugin.video.playlistbee/?name=TELE+5+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15377%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FTELE6HD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sixx.png"tvg-chno="11"group-title="Test",SIXX
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sixx.png"tvg-chno=""group-title="Test",SIXX
 plugin://plugin.video.playlistbee/?name=SIXX+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15363%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSIXXHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/one.png"tvg-chno="12"group-title="Test",ONE
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/one.png"tvg-chno=""group-title="Test",ONE
 plugin://plugin.video.playlistbee/?name=ONE+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D221950%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FONEHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfneo.png"tvg-chno="13"group-title="Test",ZDFneo
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfneo.png"tvg-chno=""group-title="Test",ZDFneo
 plugin://plugin.video.playlistbee/?name=ZDF+NEO+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15374%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FZDFNEOHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlsuper.png"tvg-chno="14"group-title="Test",Super RTL
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlsuper.png"tvg-chno=""group-title="Test",Super RTL
 plugin://plugin.video.playlistbee/?name=SUPER+RTL+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1280791%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FSUPER%2520RTL.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nitro.png"tvg-chno="15"group-title="Test",RTL Nitro
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nitro.png"tvg-chno=""group-title="Test",RTL Nitro
 plugin://plugin.video.playlistbee/?name=NITRO+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15372%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FNITROHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlpassion.png"tvg-chno="16"group-title="Test",RTL Passion
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1emotion.png"tvg-chno="17"group-title="Test",SAT.1 Emotions
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlpassion.png"tvg-chno=""group-title="Test",RTL Passion
+plugin://plugin.video.playlistbee/?name=RTL+PASSION+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D424%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FRTLPASSIONHD.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1emotion.png"tvg-chno=""group-title="Test",SAT.1 Emotions
 plugin://plugin.video.playlistbee/?name=SAT.1+EMOTIONS+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15353%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FEMOTIONSHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/voxup.png"tvg-chno="18"group-title="Test",VOXup
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/voxup.png"tvg-chno=""group-title="Test",VOXup
 plugin://plugin.video.playlistbee/?name=VOXUP+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15358%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FVOXUPHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlup.png"tvg-chno="19"group-title="Test",RTLup
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlup.png"tvg-chno=""group-title="Test",RTLup
 plugin://plugin.video.playlistbee/?name=RTLUP+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1280763%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FRTLUP.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlcrime.png"tvg-chno="20"group-title="Test",RTL Crime
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlcrime.png"tvg-chno=""group-title="Test",RTL Crime
 plugin://plugin.video.playlistbee/?name=RTL+CRIME+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15370%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FRTLCRIMEHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1gold.png"tvg-chno="21"group-title="Test",SAT.1 Gold
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1gold.png"tvg-chno=""group-title="Test",SAT.1 Gold
 plugin://plugin.video.playlistbee/?name=SAT.1+GOLD+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15352%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FGOLDHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls4.png"tvg-chno="22"group-title="Test",Puls 4
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",3+
+plugin://plugin.video.playlistbee/?name=3%2B+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D2439%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FSWISS%2Fgoldbach-ch-tv-3plus-logo-1_mobile_1-1.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",4+
 https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"tvg-chno="23"group-title="Test",ORF 1
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",5+
 https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"tvg-chno="24"group-title="Test",ORF 2
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",6+
 https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skypremiere.png"tvg-chno="25"group-title="Test",Sky Cinema Premiere
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",ATV
+plugin://plugin.video.playlistbee/?name=ATV+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A0B%3ABE%3A39%26stream%3D2385%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FAUSTRIA%2FATV.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",ATV 2
+plugin://plugin.video.playlistbee/?name=ATV+II+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A0B%3ABE%3A39%26stream%3D2384%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FAUSTRIA%2FLogo_ATV2.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls4.png"tvg-chno=""group-title="Test",Puls 4
+plugin://plugin.video.playlistbee/?name=PULS+4&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D2381%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FPOLONIA%2FTV_Plus.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",Puls 24
+plugin://plugin.video.playlistbee/?name=PULS+24+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A0B%3ABE%3A39%26stream%3D2380%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FAUSTRIA%2FPULS24.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"tvg-chno=""group-title="Test",ORF 1
+plugin://plugin.video.playlistbee/?name=ORF+1&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A0B%3ABE%3A39%26stream%3D36058%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FAUSTRIA%2FORF1.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"tvg-chno=""group-title="Test",ORF 2
+plugin://plugin.video.playlistbee/?name=ORF+2B&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A0B%3ABE%3A39%26stream%3D2393%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FAUSTRIA%2FORF2.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",ORF 3
+plugin://plugin.video.playlistbee/?name=ORF+III&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A0B%3ABE%3A39%26stream%3D36060%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FAUSTRIA%2FORFIII%283%29.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skypremiere.png"tvg-chno=""group-title="Test",Sky Cinema Premiere
 plugin://plugin.video.playlistbee/?name=SKY+CINEMA+PREMIEREN+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15404%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKYCINEMAHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaction.png"tvg-chno="26"group-title="Test",Sky Cinema Action
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaction.png"tvg-chno=""group-title="Test",Sky Cinema Action
 plugin://plugin.video.playlistbee/?name=SKY+CINEMA+ACTION+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15406%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKYCINEMAHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyhighlights.png"tvg-chno="27"group-title="Test",Sky Cinema Highlights
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyhighlights.png"tvg-chno=""group-title="Test",Sky Cinema Highlights
 plugin://plugin.video.playlistbee/?name=SKY+CINEMA+HIGHLIGHT+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15409%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKYCINEMAHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyfamily.png"tvg-chno="28"group-title="Test",Sky Cinema Family
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyfamily.png"tvg-chno=""group-title="Test",Sky Cinema Family
 plugin://plugin.video.playlistbee/?name=SKY+CINEMA+FAMILY+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15410%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKYCINEMAHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyclassics.png"tvg-chno="29"group-title="Test",Sky Cinema Classics
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyclassics.png"tvg-chno=""group-title="Test",Sky Cinema Classics
 plugin://plugin.video.playlistbee/?name=SKY+CINEMA+CLASSICS+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15411%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKYCINEMAHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnercomedy.png"tvg-chno="30"group-title="Test",Warner TV Comedy
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnercomedy.png"tvg-chno=""group-title="Test",Warner TV Comedy
 plugin://plugin.video.playlistbee/?name=WARNER+TV+COMEDY+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15394%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FFrance%2FWARNERTV.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerfilm.png"tvg-chno="31"group-title="Test",Warner TV Film
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerfilm.png"tvg-chno=""group-title="Test",Warner TV Film
 plugin://plugin.video.playlistbee/?name=WARNER+TV+FILM+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15393%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FFILMTVHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerserie.png"tvg-chno="32"group-title="Test",Warner TV Serie
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerserie.png"tvg-chno=""group-title="Test",Warner TV Serie
 plugin://plugin.video.playlistbee/?name=WARNER+TV+SERIE+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15395%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FWBSERIEHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skycrime.png"tvg-chno="33"group-title="Test",Sky Crime
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skycrime.png"tvg-chno=""group-title="Test",Sky Crime
 plugin://plugin.video.playlistbee/?name=SKY+CRIME+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15438%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FUK%2FSKYCRIME.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skykrimi.png"tvg-chno="34"group-title="Test",Sky Krimi
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skykrimi.png"tvg-chno=""group-title="Test",Sky Krimi
 plugin://plugin.video.playlistbee/?name=SKY+KRIMI+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15414%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FUK%2FSKYCRIME.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/crimeinvestigation.png"tvg-chno="35"group-title="Test",Sky Crime Investigation
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/crimeinvestigation.png"tvg-chno=""group-title="Test",Sky Crime Investigation
 plugin://plugin.video.playlistbee/?name=CRIME%2B+INVESTIGATION+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15431%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGREECE%2FCrime_%2B_Investigation_Logo_10.2019.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyatlantic.png"tvg-chno="36"group-title="Test",Sky Atlantic
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyatlantic.png"tvg-chno=""group-title="Test",Sky Atlantic
 plugin://plugin.video.playlistbee/?name=SKY+ATLANTIC+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15413%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FUK%2FSKYATLANTIC.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyone.png"tvg-chno="37"group-title="Test",Sky One
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyone.png"tvg-chno=""group-title="Test",Sky One
 plugin://plugin.video.playlistbee/?name=SKY+ONE+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15403%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKYONEHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyreplay.png"tvg-chno="38"group-title="Test",Sky Replay
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyreplay.png"tvg-chno=""group-title="Test",Sky Replay
 plugin://plugin.video.playlistbee/?name=SKY+REPLAY+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15415%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKYREPLAYHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyshowcase.png"tvg-chno="39"group-title="Test",Sky Showcase
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyshowcase.png"tvg-chno=""group-title="Test",Sky Showcase
 plugin://plugin.video.playlistbee/?name=SKY+SHOWCASE+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D211881%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FUK%2FSKYSHOWCASE.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/13street.png"tvg-chno="40"group-title="Test",13TH Street
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/13street.png"tvg-chno=""group-title="Test",13TH Street
 plugin://plugin.video.playlistbee/?name=13TH+STREET+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15392%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2F13STREETTHHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/axnwhite.png"tvg-chno="41"group-title="Test",AXN White
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/axnwhite.png"tvg-chno=""group-title="Test",AXN White
 plugin://plugin.video.playlistbee/?name=AXN+WHITE+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15397%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSONYCHANNELHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/axnblack.png"tvg-chno="42"group-title="Test",AXN Black
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/axnblack.png"tvg-chno=""group-title="Test",AXN Black
 plugin://plugin.video.playlistbee/?name=AXN+BLACK+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15398%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSONYAXNHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/silverline.png"tvg-chno="43"group-title="Test",Silverline
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/silverline.png"tvg-chno=""group-title="Test",Silverline
 https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ProSieben_FUN.png"tvg-chno="44"group-title="Test",Pro Sieben Fun
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ProSieben_FUN.png"tvg-chno=""group-title="Test",Pro Sieben Fun
 plugin://plugin.video.playlistbee/?name=PROSIEBEN+FUN+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15356%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FPRO7HD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/universal.png"tvg-chno="45"group-title="Test",Universal TV
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Kinowelt.png"tvg-chno="46"group-title="Test",Kinowelt
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/universal.png"tvg-chno=""group-title="Test",Universal TV
+plugin://plugin.video.playlistbee/?name=UNIVERSAL+TV+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D409%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FUNIVERSALTVHD.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Kinowelt.png"tvg-chno=""group-title="Test",Kinowelt
 plugin://plugin.video.playlistbee/?name=KINOWELT+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15399%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FKINOWELTTVHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/syfy.png"tvg-chno="47"group-title="Test",SyFy
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/syfy.png"tvg-chno=""group-title="Test",SyFy
 plugin://plugin.video.playlistbee/?name=SYFY+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D15396%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSYFYHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skydocumentaries.png"tvg-chno="48"group-title="Test",Sky Documentaries
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skydocumentaries.png"tvg-chno=""group-title="Test",Sky Documentaries
 https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfinfo.png"tvg-chno="49"group-title="Test",ZDFinfo
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfinfo.png"tvg-chno=""group-title="Test",ZDFinfo
 plugin://plugin.video.playlistbee/?name=ZDF+INFO+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D15375%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FZDFINFOHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png"tvg-chno="50"group-title="Test",Bild TV
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png"tvg-chno=""group-title="Test",Bild TV
 https://bild.personalstream.tv/v1/master.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1doku.png"tvg-chno="51"group-title="Test",Kabel eins Doku
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1doku.png"tvg-chno=""group-title="Test",Kabel eins Doku
 plugin://plugin.video.playlistbee/?name=KABEL+EINS+DOKU+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D15360%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FKABELEINSDOKU.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ntv.png"tvg-chno="52"group-title="Test",N-TV
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ntv.png"tvg-chno=""group-title="Test",N-TV
 plugin://plugin.video.playlistbee/?name=NTV+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15365%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FNTVHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/welt.png"tvg-chno="53"group-title="Test",Welt
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/welt.png"tvg-chno=""group-title="Test",Welt
 plugin://plugin.video.playlistbee/?name=WELT+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15379%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FWELTHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/n24doku.png"tvg-chno="54"group-title="Test",N24 Doku
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/n24doku.png"tvg-chno=""group-title="Test",N24 Doku
 plugin://plugin.video.playlistbee/?name=N24+Doku+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1280708%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FN24%2520Doku.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dmax.png"tvg-chno="55"group-title="Test",DMAX
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dmax.png"tvg-chno=""group-title="Test",DMAX
 plugin://plugin.video.playlistbee/?name=DMAX+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15376%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDMAXHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tlc.png"tvg-chno="56"group-title="Test",TLC
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tlc.png"tvg-chno=""group-title="Test",TLC
 plugin://plugin.video.playlistbee/?name=TLC+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15433%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FTURKEY%2FTLC.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/www.png"tvg-chno="57"group-title="Test",Welt der Wunder
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/www.png"tvg-chno=""group-title="Test",Welt der Wunder
 https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skynature.png"tvg-chno="58"group-title="Test",Sky Nature
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skynature.png"tvg-chno=""group-title="Test",Sky Nature
 https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/discovery.png"tvg-chno="59"group-title="Test",Discovery Channel
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/discovery.png"tvg-chno=""group-title="Test",Discovery Channel
 plugin://plugin.video.playlistbee/?name=DISCOVERY+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15430%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FNEDERLAND%2FDISCOVERYCHANNELHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/history.png"tvg-chno="60"group-title="Test",History Channel
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/history.png"tvg-chno=""group-title="Test",History Channel
 plugin://plugin.video.playlistbee/?name=HISTORY+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15432%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGREECE%2FHistory-Channel-logo.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nationalwild.png"tvg-chno="61"group-title="Test",National Geographic Wild
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nationalwild.png"tvg-chno=""group-title="Test",National Geographic Wild
 plugin://plugin.video.playlistbee/?name=NAT+GEO+WILD+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15429%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FNEDERLAND%2FNGWILDHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nationalgeo.png"tvg-chno="62"group-title="Test",National Geographic
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nationalgeo.png"tvg-chno=""group-title="Test",National Geographic
 plugin://plugin.video.playlistbee/?name=NAT+GEO+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15428%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGREECE%2FNATIONALGEOGRAPHIC.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/spiegelgeschichte.png"tvg-chno="63"group-title="Test",Spiegel Geschichte
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/spiegelgeschichte.png"tvg-chno=""group-title="Test",Spiegel Geschichte
 plugin://plugin.video.playlistbee/?name=SPIEGEL+GESCHICHTE+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15437%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSPIEGELGEDCHICHTEHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/curiosity.png"tvg-chno="64"group-title="Test",Curiosity Channel
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/curiosity.png"tvg-chno=""group-title="Test",Curiosity Channel
 plugin://plugin.video.playlistbee/?name=CURIOSITY+CHANNEL+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1280624%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FCURIOSITY%2520CHANNEL.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/animalplanethd.png"tvg-chno="65"group-title="Test",Animal Planet
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/animalplanethd.png"tvg-chno=""group-title="Test",Animal Planet
 plugin://plugin.video.playlistbee/?name=ANIMAL+PLANET+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1280598%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FANIMAL%2520PLANET.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/GEOHD.png"tvg-chno="66"group-title="Test",Geo
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/GEOHD.png"tvg-chno=""group-title="Test",Geo
 plugin://plugin.video.playlistbee/?name=GEO+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15434%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FGEOTELEVISION.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/comedycentral.png"tvg-chno="67"group-title="Test",Comedy Central
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/comedycentral.png"tvg-chno=""group-title="Test",Comedy Central
 plugin://plugin.video.playlistbee/?name=COMEDY+CENTRAL+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15391%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FSPAIN%2FComedy_Central_2018.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7maxx.png"tvg-chno="68"group-title="Test",Pro Sieben MAXX
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7maxx.png"tvg-chno=""group-title="Test",Pro Sieben MAXX
 plugin://plugin.video.playlistbee/?name=PROSIEBEN+MAXX+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15355%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2F7MAXXHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/servustv.png"tvg-chno="69"group-title="Test",Servus TV
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/begblick.png"tvg-chno="70"group-title="Test",Bergblick
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/servustv.png"tvg-chno=""group-title="Test",Servus TV
+plugin://plugin.video.playlistbee/?name=SERVUS+TV&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A0B%3ABE%3A39%26stream%3D393746%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FAUSTRIA%2FServusTV.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/begblick.png"tvg-chno=""group-title="Test",Bergblick
 plugin://plugin.video.playlistbee/?name=BERGBLICK+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1280611%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FBERGBLICK.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3sat.png"tvg-chno="71"group-title="Test",3 Sat
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3sat.png"tvg-chno=""group-title="Test",3 Sat
 plugin://plugin.video.playlistbee/?name=3SAT+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D15364%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2F3SATHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ardalpha.png"tvg-chno="72"group-title="Test",ARD-alpha
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ardalpha.png"tvg-chno=""group-title="Test",ARD-alpha
 plugin://plugin.video.playlistbee/?name=ARD-ALPHA+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D15369%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FARD1ALPHAHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/arte.png"tvg-chno="73"group-title="Test",Arte
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/arte.png"tvg-chno=""group-title="Test",Arte
 plugin://plugin.video.playlistbee/?name=ARTE+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15362%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FARTEHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/hr.png"tvg-chno="74"group-title="Test",HR
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/br.png"tvg-chno=""group-title="",BR
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/hr.png"tvg-chno=""group-title="Test",HR
+plugin://plugin.video.playlistbee/?name=HR-FERNSEHEN+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1025165%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FALLGEMEINES%2FHR.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/br.png"tvg-chno=""group-title="Test",BR
 plugin://plugin.video.playlistbee/?name=BR+FERNSEHEN+S%C3%9CD+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1280616%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FBR%2520FERNSEHEN%2520S%C3%9CD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/mdr.png"tvg-chno="75"group-title="Test",MDR Sachsen
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/mdr.png"tvg-chno=""group-title="Test",MDR Sachsen
 plugin://plugin.video.playlistbee/?name=MDR+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15380%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FMDRHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ndr.png"tvg-chno="76"group-title="Test",NDR
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ndr.png"tvg-chno=""group-title="Test",NDR
 plugin://plugin.video.playlistbee/?name=NDR+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15367%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FMIX2%2FDENDR.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/phoenix.png"tvg-chno="77"group-title="Test",Phoenix
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/phoenix.png"tvg-chno=""group-title="Test",Phoenix
 plugin://plugin.video.playlistbee/?name=PHOENIX+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D708702%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FASIA%2FCHINA%2FPhoenix_Chinese.svg.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rbb.png"tvg-chno="78"group-title="Test",RBB
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rbb.png"tvg-chno=""group-title="Test",RBB
 plugin://plugin.video.playlistbee/?name=RBB+FERNSEHEN+BERLIN+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1280740%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FRBB%2520FERNSEHEN%2520BERLIN.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swr.png"tvg-chno="79"group-title="Test",SWR
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swr.png"tvg-chno=""group-title="Test",SWR
 plugin://plugin.video.playlistbee/?name=SWR+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D174239%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSWRFERNSEHENHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tagesschau.png"tvg-chno="80"group-title="Test",Tagesschau 24
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tagesschau.png"tvg-chno=""group-title="Test",Tagesschau 24
 plugin://plugin.video.playlistbee/?name=TAGESSCHAU24+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15368%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FTAGESSCHAU24HD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/wdr.png"tvg-chno="81"group-title="Test",WDR
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/wdr.png"tvg-chno=""group-title="Test",WDR
 plugin://plugin.video.playlistbee/?name=WDR+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15366%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FMIX2%2FDEWDR.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Leipzig.png"tvg-chno="82"group-title="Test",Leipzig Fernsehen
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Leipzig.png"tvg-chno=""group-title="Test",Leipzig Fernsehen
 https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportnews.png"tvg-chno="83"group-title="Test",Sky Sport News
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn1.png"tvg-chno="84"group-title="Test",DAZN 1
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",SRF Info
+plugin://plugin.video.playlistbee/?name=SRF+INFO+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D2447%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FSWISS%2FSRF.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",SRF 1
+plugin://plugin.video.playlistbee/?name=SRF+1+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D2451%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FSWISS%2Fsrf-19125.logowik.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",SRF 2
+plugin://plugin.video.playlistbee/?name=SRF+ZWEI+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D2449%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FSWISS%2FSRFSWEI.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportnews.png"tvg-chno=""group-title="Test",Sky Sport News
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+NEWS+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1149431%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2FSKY%2520SPORT%2520NEWS.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn1.png"tvg-chno=""group-title="Test",DAZN 1
 plugin://plugin.video.playlistbee/?name=DAZN+BAR+1&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1149329%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDAZN%2520BAR%2FDAZN%2520BAR%25201.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn2.png"tvg-chno="85"group-title="Test",DAZN 2
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn2.png"tvg-chno=""group-title="Test",DAZN 2
 plugin://plugin.video.playlistbee/?name=DAZN+BAR+2&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1149330%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDAZN%2520BAR%2FDAZN%2520BAR%25202.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga.png"tvg-chno="86"group-title="Test",Sky Sport Bundesliga
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",DAZN Rise
+plugin://plugin.video.playlistbee/?name=DAZN+RISE+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A0B%3ABE%3A39%26stream%3D459559%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDAZNHD.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",DAZN Fast+
+plugin://plugin.video.playlistbee/?name=DAZN+FAST+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D459558%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDAZNHD.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+BUNDESLIGA+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1149303%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2520BUNDESLIGA%2FSKY%2520SPORT%2520BUNDESLIGA.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga1.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga 1
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+BUNDESLIGA+1+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1149304%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2520BUNDESLIGA%2FSKY%2520SPORT%2520BUNDESLIGA%25201.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga2.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga 2
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+BUNDESLIGA+2+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1149305%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2520BUNDESLIGA%2FSKY%2520SPORT%2520BUNDESLIGA%25202.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga3.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga 3
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+BUNDESLIGA+3+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1149306%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2520BUNDESLIGA%2FSKY%2520SPORT%2520BUNDESLIGA%25203.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga4.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga 4
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+BUNDESLIGA+4+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1149307%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2520BUNDESLIGA%2FSKY%2520SPORT%2520BUNDESLIGA%25204.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga5.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga 5
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+BUNDESLIGA+5+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1149308%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2520BUNDESLIGA%2FSKY%2520SPORT%2520BUNDESLIGA%25205.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga6.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga 6
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+BUNDESLIGA+6+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1149309%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2520BUNDESLIGA%2FSKY%2520SPORT%2520BUNDESLIGA%25206.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga7.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga 7
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+BUNDESLIGA+7+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1149310%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2520BUNDESLIGA%2FSKY%2520SPORT%2520BUNDESLIGA%25207.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga8.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga 8
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+BUNDESLIGA+8+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1149311%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2520BUNDESLIGA%2FSKY%2520SPORT%2520BUNDESLIGA%25208.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga9.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga 9
 https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga1.png"tvg-chno="87"group-title="Test",Sky Sport Bundesliga 1
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga1.png"tvg-chno="88"group-title="Test",Sky Sport Bundesliga 1
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga2.png"tvg-chno="89"group-title="Test",Sky Sport Bundesliga 2
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga3.png"tvg-chno="90"group-title="Test",Sky Sport Bundesliga 3
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga4.png"tvg-chno="91"group-title="Test",Sky Sport Bundesliga 4
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga5.png"tvg-chno="92"group-title="Test",Sky Sport Bundesliga 5
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga6.png"tvg-chno="93"group-title="Test",Sky Sport Bundesliga 6
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga7.png"tvg-chno="94"group-title="Test",Sky Sport Bundesliga 7
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga8.png"tvg-chno="95"group-title="Test",Sky Sport Bundesliga 8
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga9.png"tvg-chno="96"group-title="Test",Sky Sport Bundesliga 9
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria1.png"tvg-chno="97"group-title="Test",Sky Sport Austria 1
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria2.png"tvg-chno="98"group-title="Test",Sky Sport Austria 2
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria3.png"tvg-chno="99"group-title="Test",Sky Sport Austria 3
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria4.png"tvg-chno="100"group-title="Test",Sky Sport Austria 4
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria5.png"tvg-chno="101"group-title="Test",Sky Sport Austria 5
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportpremier.png"tvg-chno="102"group-title="Test",Sky Sport Premier League
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysporttopevent.png"tvg-chno="103"group-title="Test",Sky Sport Top Event
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportmix.png"tvg-chno="104"group-title="Test",Sky Sport Mix
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportf1.png"tvg-chno="105"group-title="Test",Sky Sport F1
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno="106"group-title="Test",RTL+ Sport Event 1
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno="107"group-title="Test",RTL+ Sport Event 2
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno="108"group-title="Test",RTL+ Sport Event 3
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno="109"group-title="Test",RTL+ Sport Event 4
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno="110"group-title="Test",RTL+ Sport Event 5
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno="111"group-title="Test",RTL+ Sport Event 6
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno="112"group-title="Test",RTL+ Sport Event 7
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno="113"group-title="Test",RTL+ Sport Event 8
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno="114"group-title="Test",RTL+ Sport Event 9
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria1.png"tvg-chno=""group-title="Test",Sky Sport Austria 1
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+AUSTRIA+1&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D36062%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FAUSTRIA%2FSky_Sport_Austria_HD_Logo_2016.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria2.png"tvg-chno=""group-title="Test",Sky Sport Austria 2
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+AUSTRIA+2&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A0B%3ABE%3A39%26stream%3D36063%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FAUSTRIA%2FSky_Sport_Austria_HD_Logo_2016.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria3.png"tvg-chno=""group-title="Test",Sky Sport Austria 3
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+AUSTRIA+3&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A0B%3ABE%3A39%26stream%3D36064%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FAUSTRIA%2FSky_Sport_Austria_HD_Logo_2016.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria4.png"tvg-chno=""group-title="Test",Sky Sport Austria 4
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+AUSTRIA+4&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A0B%3ABE%3A39%26stream%3D36065%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FAUSTRIA%2FSky_Sport_Austria_HD_Logo_2016.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria5.png"tvg-chno=""group-title="Test",Sky Sport Austria 5
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+AUSTRIA+5&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A0B%3ABE%3A39%26stream%3D36066%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FAUSTRIA%2FSky_Sport_Austria_HD_Logo_2016.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",Sky Sport Austria 6
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+AUSTRIA+6&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A0B%3ABE%3A39%26stream%3D36067%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FAUSTRIA%2FSky_Sport_Austria_HD_Logo_2016.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",Sky Sport Austria 7
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+AUSTRIA+7&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A0B%3ABE%3A39%26stream%3D36068%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FAUSTRIA%2FSky_Sport_Austria_HD_Logo_2016.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportpremier.png"tvg-chno=""group-title="Test",Sky Sport Premier League
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+PREMIER+LEAGUE+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1149432%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2FSKY%2520SPORT%2520PREMIER%2520LEAGUE.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysporttopevent.png"tvg-chno=""group-title="Test",Sky Sport Top Event
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+TOP+EVENT+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1149434%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2FSKY%2520SPORT%2520TOP%2520EVENT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportmix.png"tvg-chno=""group-title="Test",Sky Sport Mix
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+MIX+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1149430%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2FSKY%2520SPORT%2520MIX.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportf1.png"tvg-chno=""group-title="Test",Sky Sport F1
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+F1+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1149473%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2FSKY%2520SPORT%2520F1.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno=""group-title="Test",RTL+ Sport Event 1
+plugin://plugin.video.playlistbee/?name=RTL%2B+SPORT+1+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D173739%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FRTL%2520PLUS%2520SPORT%2FRTL%2520PLUS%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno=""group-title="Test",RTL+ Sport Event 2
+plugin://plugin.video.playlistbee/?name=RTL%2B+SPORT+2+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D173738%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FRTL%2520PLUS%2520SPORT%2FRTL%2520PLUS%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno=""group-title="Test",RTL+ Sport Event 3
+plugin://plugin.video.playlistbee/?name=RTL%2B+SPORT+3+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D173737%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FRTL%2520PLUS%2520SPORT%2FRTL%2520PLUS%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno=""group-title="Test",RTL+ Sport Event 4
+plugin://plugin.video.playlistbee/?name=RTL%2B+SPORT+4+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D173736%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FRTL%2520PLUS%2520SPORT%2FRTL%2520PLUS%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno=""group-title="Test",RTL+ Sport Event 5
+plugin://plugin.video.playlistbee/?name=RTL%2B+SPORT+5+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D173735%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FRTL%2520PLUS%2520SPORT%2FRTL%2520PLUS%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno=""group-title="Test",RTL+ Sport Event 6
+plugin://plugin.video.playlistbee/?name=RTL%2B+SPORT+6+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D173734%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FRTL%2520PLUS%2520SPORT%2FRTL%2520PLUS%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno=""group-title="Test",RTL+ Sport Event 7
+plugin://plugin.video.playlistbee/?name=RTL%2B+SPORT+7+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D891750%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FRTL%2520PLUS%2520SPORT%2FRTL%2520PLUS%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno=""group-title="Test",RTL+ Sport Event 8
+plugin://plugin.video.playlistbee/?name=RTL%2B+SPORT+8+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D891751%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FRTL%2520PLUS%2520SPORT%2FRTL%2520PLUS%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno=""group-title="Test",RTL+ Sport Event 9
 https://bild
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",MS Sport
 plugin://plugin.video.playlistbee/?name=MS+SPORT+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1280687%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FMS%2520SPORT.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno="115"group-title="Test",Magenta Sport 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 1
 plugin://plugin.video.playlistbee/?name=MY+TEAM+SPORT+1+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1280689%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FMY%2520TEAM%2520SPORT.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno="116"group-title="Test",Magenta Sport 2
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno="117"group-title="Test",Magenta Sport 3
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno="118"group-title="Test",Magenta Sport 4
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno="119"group-title="Test",Magenta Sport 5
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno="120"group-title="Test",Magenta Sport 6
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno="121"group-title="Test",Magenta Sport 7
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno="122"group-title="Test",Magenta Sport 8
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno="123"group-title="Test",Magenta Sport 9
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport1.png"tvg-chno="124"group-title="Test",Sky Sport 1
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport2.png"tvg-chno="125"group-title="Test",Sky Sport 2
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport3.png"tvg-chno="126"group-title="Test",Sky Sport 3
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport4.png"tvg-chno="127"group-title="Test",Sky Sport 4
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport5.png"tvg-chno="128"group-title="Test",Sky Sport 5
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport6.png"tvg-chno="129"group-title="Test",Sky Sport 6
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport7.png"tvg-chno="130"group-title="Test",Sky Sport 7
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport8.png"tvg-chno="131"group-title="Test",Sky Sport 8
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport9.png"tvg-chno="132"group-title="Test",Sky Sport 9
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orfsport.png"tvg-chno="133"group-title="Test",ORF Sport+
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sport1.png"tvg-chno="134"group-title="Test",Sport 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 2
+plugin://plugin.video.playlistbee/?name=MY+TEAM+SPORT+2+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1280690%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FMY%2520TEAM%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 3
+plugin://plugin.video.playlistbee/?name=MY+TEAM+SPORT+3+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1280691%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FMY%2520TEAM%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 4
+plugin://plugin.video.playlistbee/?name=MY+TEAM+SPORT+4+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1280692%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FMY%2520TEAM%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 5
+plugin://plugin.video.playlistbee/?name=MY+TEAM+SPORT+5+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1280693%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FMY%2520TEAM%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 6
+plugin://plugin.video.playlistbee/?name=MY+TEAM+SPORT+6+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1280694%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FMY%2520TEAM%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 7
+plugin://plugin.video.playlistbee/?name=MY+TEAM+SPORT+7+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1280695%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FMY%2520TEAM%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 8
+plugin://plugin.video.playlistbee/?name=MY+TEAM+SPORT+8+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1280696%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FMY%2520TEAM%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 9
+plugin://plugin.video.playlistbee/?name=MY+TEAM+SPORT+9+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1280697%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FMY%2520TEAM%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 10
+plugin://plugin.video.playlistbee/?name=MY+TEAM+SPORT+10+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1280698%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FMY%2520TEAM%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 11
+plugin://plugin.video.playlistbee/?name=MY+TEAM+SPORT+11+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1280699%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FMY%2520TEAM%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 12
+plugin://plugin.video.playlistbee/?name=MY+TEAM+SPORT+12+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1280700%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FMY%2520TEAM%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 13
+plugin://plugin.video.playlistbee/?name=MY+TEAM+SPORT+13+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1280701%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FMY%2520TEAM%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 14
+plugin://plugin.video.playlistbee/?name=MY+TEAM+SPORT+14+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1280702%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FMY%2520TEAM%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 15
+plugin://plugin.video.playlistbee/?name=MY+TEAM+SPORT+15+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1280703%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FMY%2520TEAM%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 16
+plugin://plugin.video.playlistbee/?name=MY+TEAM+SPORT+16+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1280704%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FMY%2520TEAM%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 17
+plugin://plugin.video.playlistbee/?name=MY+TEAM+SPORT+17+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1280705%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FMY%2520TEAM%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 18
+plugin://plugin.video.playlistbee/?name=MY+TEAM+SPORT+18+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1280706%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FMY%2520TEAM%2520SPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport1.png"tvg-chno=""group-title="Test",Sky Sport 1
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+1+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1149435%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2FSKY%2520SPORT%25201.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport2.png"tvg-chno=""group-title="Test",Sky Sport 2
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+2+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1149436%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2FSKY%2520SPORT%25202.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport3.png"tvg-chno=""group-title="Test",Sky Sport 3
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+3+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1149437%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2FSKY%2520SPORT%25203.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport4.png"tvg-chno=""group-title="Test",Sky Sport 4
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+4+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1149438%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2FSKY%2520SPORT%25204.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport5.png"tvg-chno=""group-title="Test",Sky Sport 5
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+5+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1149439%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2FSKY%2520SPORT%25205.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport6.png"tvg-chno=""group-title="Test",Sky Sport 6
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+6+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1149440%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2FSKY%2520SPORT%25206.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport7.png"tvg-chno=""group-title="Test",Sky Sport 7
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+7+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1149441%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2FSKY%2520SPORT%25207.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport8.png"tvg-chno=""group-title="Test",Sky Sport 8
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+8+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1149442%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2FSKY%2520SPORT%25208.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport9.png"tvg-chno=""group-title="Test",Sky Sport 9
+plugin://plugin.video.playlistbee/?name=SKY+SPORT+9+FHD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1149443%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSKY%2520SPORT%2FSKY%2520SPORT%25209.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orfsport.png"tvg-chno=""group-title="Test",ORF Sport+
+plugin://plugin.video.playlistbee/?name=ORF+SPORT%2B+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A0B%3ABE%3A39%26stream%3D2386%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FAUSTRIA%2FORFSPORT.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sport1.png"tvg-chno=""group-title="Test",Sport 1
 plugin://plugin.video.playlistbee/?name=SPORT+1+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15421%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSPORT1HD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Sportdigital.png"tvg-chno="135"group-title="Test",Sportdigital
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Sportdigital.png"tvg-chno=""group-title="Test",Sportdigital
 plugin://plugin.video.playlistbee/?name=SPORT+DIGITAL+FUSSBALL+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15423%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FSPORTDIGITALFUSSBALHD.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Sportdigital%2B.png"tvg-chno="136"group-title="Test",Sportdigital+
-https://bild
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/eurosport1.png"tvg-chno="137"group-title="Test",Eurosport 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Sportdigital%2B.png"tvg-chno=""group-title="Test",Sportdigital+
+plugin://plugin.video.playlistbee/?name=SPORTDIGITAL1%2B+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1280781%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FSPORTDIGITAL1%2B.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/eurosport1.png"tvg-chno=""group-title="Test",Eurosport 1
 plugin://plugin.video.playlistbee/?name=EUROSPORT+1+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15419%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FSPAIN%2FEurosport-logo.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/eurosport2.png"tvg-chno="138"group-title="Test",Eurosport 2
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/eurosport2.png"tvg-chno=""group-title="Test",Eurosport 2
 plugin://plugin.video.playlistbee/?name=EUROSPORT+2+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15420%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FSPAIN%2FEurosport-logo.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/red_bull_tv.png"tvg-chno="139"group-title="Test",Red Bull TV
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/red_bull_tv.png"tvg-chno=""group-title="Test",Red Bull TV
 plugin://plugin.video.playlistbee/?name=RED+BULL+TV+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1280743%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FRED%2520BULL%2520TV%2520MOTORSPORT.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",Red Bull TV Motorsport
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",Red Bull TV Motorsport
 plugin://plugin.video.playlistbee/?name=RED+BULL+TV+MOTORSPORT+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D1280744%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FRED%2520BULL%2520TV%2520MOTORSPORT.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/automotorsport.png"tvg-chno="140"group-title="Test",Auto Motor und Sport
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/automotorsport.png"tvg-chno=""group-title="Test",Auto Motor und Sport
 plugin://plugin.video.playlistbee/?name=AUTO+MOTOR+UND+SPORT+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D1280604%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FDE%2520MAGENTA%2520HD%2FAUTO%2520MOTOR%2520UND%2520SPORT.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Motorvision%2B.png"tvg-chno="141"group-title="Test",Motorvision
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Motorvision%2B.png"tvg-chno=""group-title="Test",Motorvision
 plugin://plugin.video.playlistbee/?name=MOTORVISION+TV+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15424%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FMOTORVISIONTVHD.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",Sportdigital EDGE
 plugin://plugin.video.playlistbee/?name=SPORTDIGITAL+EDGE+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15426%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FEDGESPORTHD.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",E-Sports
 plugin://plugin.video.playlistbee/?name=ESPORTS+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA8%3AB7%3A16%26stream%3D15425%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FESPORTSHD.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",Blue Zoom D
+plugin://plugin.video.playlistbee/?name=BLUE+ZOOM+HD+%28DE%29&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D622664%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FMIX%2FCHBLUEZOOM.png&logos=&epg=&cache=0&uuid=0
