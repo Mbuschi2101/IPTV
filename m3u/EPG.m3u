@@ -1,377 +1,353 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ard.png"tvg-chno="1"group-title="EPG",Das Erste
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ard.png"tvg-chno=""group-title="EPG",Das Erste
 https://1
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdf.png"tvg-chno="2"group-title="EPG",ZDF
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdf.png"tvg-chno=""group-title="EPG",ZDF
 https://2
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl.png"tvg-chno="3"group-title="EPG",RTL
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl.png"tvg-chno=""group-title="EPG",RTL
 https://3
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1.png"tvg-chno="4"group-title="EPG",SAT.1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1.png"tvg-chno=""group-title="EPG",SAT.1
 https://4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl2.png"tvg-chno="5"group-title="EPG",RTL II
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl2.png"tvg-chno=""group-title="EPG",RTL II
 https://5
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7.png"tvg-chno="6"group-title="EPG",Pro Sieben
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7.png"tvg-chno=""group-title="EPG",Pro Sieben
 https://6
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1.png"tvg-chno="7"group-title="EPG",Kabel eins
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1.png"tvg-chno=""group-title="EPG",Kabel eins
 https://7
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1classic.png"tvg-chno="8"group-title="EPG",Kabel eins Classics
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1classic.png"tvg-chno=""group-title="EPG",Kabel eins Classics
 https://8
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/vox.png"tvg-chno="9"group-title="EPG",VOX
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/vox.png"tvg-chno=""group-title="EPG",VOX
 https://9
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nitro.png"tvg-chno="10"group-title="EPG",RTL Nitro
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nitro.png"tvg-chno=""group-title="EPG",RTL Nitro
 https://10
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlpassion.png"tvg-chno="11"group-title="EPG",RTL Passion
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlpassion.png"tvg-chno=""group-title="EPG",RTL Passion
 https://11
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlup.png"tvg-chno="12"group-title="EPG",RTLup
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlup.png"tvg-chno=""group-title="EPG",RTLup
 https://12
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/voxup.png"tvg-chno="13"group-title="EPG",VOXup
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/voxup.png"tvg-chno=""group-title="EPG",VOXup
 https://13
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlcrime.png"tvg-chno="14"group-title="EPG",RTL Crime
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlcrime.png"tvg-chno=""group-title="EPG",RTL Crime
 https://14
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sixx.png"tvg-chno="15"group-title="EPG",SIXX
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sixx.png"tvg-chno=""group-title="EPG",SIXX
 https://15
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tele5.png"tvg-chno="16"group-title="EPG",Tele 5
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tele5.png"tvg-chno=""group-title="EPG",Tele 5
 https://16
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1gold.png"tvg-chno="17"group-title="EPG",SAT.1 Gold
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1gold.png"tvg-chno=""group-title="EPG",SAT.1 Gold
 https://17
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/one.png"tvg-chno="18"group-title="EPG",ONE
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/one.png"tvg-chno=""group-title="EPG",ONE
 https://18
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3%2B.png"tvg-chno="19"group-title="EPG",3+
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3%2B.png"tvg-chno=""group-title="EPG",3+
 https://19
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/4%2B.png"tvg-chno="20"group-title="EPG",4+
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/4%2B.png"tvg-chno=""group-title="EPG",4+
 https://20
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/5%2B.png"tvg-chno="21"group-title="EPG",5+
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/5%2B.png"tvg-chno=""group-title="EPG",5+
 https://21
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/6%2B.png"tvg-chno="22"group-title="EPG",6+
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/6%2B.png"tvg-chno=""group-title="EPG",6+
 https://22
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/atv.png"tvg-chno="23"group-title="EPG",ATV
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/atv.png"tvg-chno=""group-title="EPG",ATV
 https://23
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/atv2.png"tvg-chno="24"group-title="EPG",ATV 2
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/atv2.png"tvg-chno=""group-title="EPG",ATV 2
 https://24
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls4.png"tvg-chno="25"group-title="EPG",Puls 4
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls4.png"tvg-chno=""group-title="EPG",Puls 4
 https://25
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls8.png"tvg-chno="26"group-title="EPG",Puls 8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls8.png"tvg-chno=""group-title="EPG",Puls 8
 https://26
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls24.png"tvg-chno="27"group-title="EPG",Puls 24
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls24.png"tvg-chno=""group-title="EPG",Puls 24
 https://27
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/canal%2Baction.png"tvg-chno="28"group-title="EPG",Canal+ Action
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/canal%2Baction.png"tvg-chno=""group-title="EPG",Canal+ Action
 https://28
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyatlantic.png"tvg-chno="29"group-title="EPG",Sky Atlantic
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyatlantic.png"tvg-chno=""group-title="EPG",Sky Atlantic
 https://29
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyone.png"tvg-chno="30"group-title="EPG",Sky One
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyone.png"tvg-chno=""group-title="EPG",Sky One
 https://30
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skypremiere.png"tvg-chno="31"group-title="EPG",Sky Cinema Premiere
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skypremiere.png"tvg-chno=""group-title="EPG",Sky Cinema Premiere
 https://31
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaction.png"tvg-chno="32"group-title="EPG",Sky Cinema Action
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaction.png"tvg-chno=""group-title="EPG",Sky Cinema Action
 https://32
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyfamily.png"tvg-chno="33"group-title="EPG",Sky Cinema Family
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyfamily.png"tvg-chno=""group-title="EPG",Sky Cinema Family
 https://33
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyhighlights.png"tvg-chno="34"group-title="EPG",Sky Cinema Highlights
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyhighlights.png"tvg-chno=""group-title="EPG",Sky Cinema Highlights
 https://34
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyreplay.png"tvg-chno="35"group-title="EPG",Sky Replay
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyreplay.png"tvg-chno=""group-title="EPG",Sky Replay
 https://35
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyshowcase.png"tvg-chno="36"group-title="EPG",Sky Showcase
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyshowcase.png"tvg-chno=""group-title="EPG",Sky Showcase
 https://36
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skycrime.png"tvg-chno="37"group-title="EPG",Sky Crime
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skycrime.png"tvg-chno=""group-title="EPG",Sky Crime
 https://37
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skykrimi.png"tvg-chno="38"group-title="EPG",Sky Krimi
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skykrimi.png"tvg-chno=""group-title="EPG",Sky Krimi
 https://38
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnercomedy.png"tvg-chno="39"group-title="EPG",Warner TV Comedy
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnercomedy.png"tvg-chno=""group-title="EPG",Warner TV Comedy
 https://39
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerfilm.png"tvg-chno="40"group-title="EPG",Warner TV Film
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerfilm.png"tvg-chno=""group-title="EPG",Warner TV Film
 https://40
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerserie.png"tvg-chno="41"group-title="EPG",Warner TV Serie
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerserie.png"tvg-chno=""group-title="EPG",Warner TV Serie
 https://41
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/syfy.png"tvg-chno="42"group-title="EPG",SyFy
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/syfy.png"tvg-chno=""group-title="EPG",SyFy
 https://42
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/13street.png"tvg-chno="43"group-title="EPG",13th Street
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/13street.png"tvg-chno=""group-title="EPG",13th Street
 https://43
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Kinowelt.png"tvg-chno="44"group-title="EPG",Kinowelt TV
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Kinowelt.png"tvg-chno=""group-title="EPG",Kinowelt TV
 https://44
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/universal.png"tvg-chno="45"group-title="EPG",Universal TV
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/universal.png"tvg-chno=""group-title="EPG",Universal TV
 https://45
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1emotion.png"tvg-chno="46"group-title="EPG",SAT.1 Emotions
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1emotion.png"tvg-chno=""group-title="EPG",SAT.1 Emotions
 https://46
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ProSieben_FUN.png"tvg-chno="47"group-title="EPG",Pro Sieben Fun
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ProSieben_FUN.png"tvg-chno=""group-title="EPG",Pro Sieben Fun
 https://47
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/silverline.png"tvg-chno="48"group-title="EPG",Silverline
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/silverline.png"tvg-chno=""group-title="EPG",Silverline
 https://48
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/axnblack.png"tvg-chno="49"group-title="EPG",AXN Black
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/axnblack.png"tvg-chno=""group-title="EPG",AXN Black
 https://49
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/axnwhite.png"tvg-chno="50"group-title="EPG",AXN White
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/axnwhite.png"tvg-chno=""group-title="EPG",AXN White
 https://50
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfneo.png"tvg-chno="51"group-title="EPG",ZDFneo
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfneo.png"tvg-chno=""group-title="EPG",ZDFneo
 https://51
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfinfo.png"tvg-chno="52"group-title="EPG",ZDFinfo
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfinfo.png"tvg-chno=""group-title="EPG",ZDFinfo
 https://52
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/mdr.png"tvg-chno="53"group-title="EPG",MDR Sachsen
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/mdr.png"tvg-chno=""group-title="EPG",MDR Sachsen
 https://53
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/welt.png"tvg-chno="54"group-title="EPG",Welt
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/welt.png"tvg-chno=""group-title="EPG",Welt
 https://54
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ntv.png"tvg-chno="55"group-title="EPG",N-TV
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ntv.png"tvg-chno=""group-title="EPG",N-TV
 https://55
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png"tvg-chno="56"group-title="EPG",Bild TV
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png"tvg-chno=""group-title="EPG",Bild TV
 https://56
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dmax.png"tvg-chno="57"group-title="EPG",DMAX
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dmax.png"tvg-chno=""group-title="EPG",DMAX
 https://57
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1doku.png"tvg-chno="58"group-title="EPG",Kabel eins Doku
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1doku.png"tvg-chno=""group-title="EPG",Kabel eins Doku
 https://58
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/n24doku.png"tvg-chno="59"group-title="EPG",N24 Doku
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/n24doku.png"tvg-chno=""group-title="EPG",N24 Doku
 https://59
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tlc.png"tvg-chno="60"group-title="EPG",TLC
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tlc.png"tvg-chno=""group-title="EPG",TLC
 https://60
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/curiosity.png"tvg-chno="61"group-title="EPG",Curiosity Channel
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/curiosity.png"tvg-chno=""group-title="EPG",Curiosity Channel
 https://61
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nationalgeo.png"tvg-chno="62"group-title="EPG",National Geographic
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nationalgeo.png"tvg-chno=""group-title="EPG",National Geographic
 https://62
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nationalwild.png"tvg-chno="63"group-title="EPG",National Geographic Wild
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nationalwild.png"tvg-chno=""group-title="EPG",National Geographic Wild
 https://63
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/discovery.png"tvg-chno="64"group-title="EPG",Discovery Channel
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/discovery.png"tvg-chno=""group-title="EPG",Discovery Channel
 https://64
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/spiegelgeschichte.png"tvg-chno="65"group-title="EPG",Spiegel Geschichte
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/spiegelgeschichte.png"tvg-chno=""group-title="EPG",Spiegel Geschichte
 https://65
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/history.png"tvg-chno="66"group-title="EPG",History Channel
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/history.png"tvg-chno=""group-title="EPG",History Channel
 https://66
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skynature.png"tvg-chno="67"group-title="EPG",Sky Nature
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skynature.png"tvg-chno=""group-title="EPG",Sky Nature
 https://67
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/animalplanethd.png"tvg-chno="68"group-title="EPG",Animal Planet
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/animalplanethd.png"tvg-chno=""group-title="EPG",Animal Planet
 https://68
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/GEOHD.png"tvg-chno="69"group-title="EPG",Geo
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/GEOHD.png"tvg-chno=""group-title="EPG",Geo
 https://69
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skydocumentaries.png"tvg-chno="70"group-title="EPG",Sky Documentaries
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skydocumentaries.png"tvg-chno=""group-title="EPG",Sky Documentaries
 https://70
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dokusat.png"tvg-chno="71"group-title="EPG",DokuSat
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dokusat.png"tvg-chno=""group-title="EPG",DokuSat
 https://71
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/www.png"tvg-chno="72"group-title="EPG",Welt der Wunder
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/www.png"tvg-chno=""group-title="EPG",Welt der Wunder
 https://72
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7maxx.png"tvg-chno="73"group-title="EPG",Pro Sieben MAXX
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7maxx.png"tvg-chno=""group-title="EPG",Pro Sieben MAXX
 https://73
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/comedycentral.png"tvg-chno="74"group-title="EPG",Comedy Central
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/comedycentral.png"tvg-chno=""group-title="EPG",Comedy Central
 https://74
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tagesschau.png"tvg-chno="75"group-title="EPG",Tagesschau 24
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tagesschau.png"tvg-chno=""group-title="EPG",Tagesschau 24
 https://75
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ardalpha.png"tvg-chno="76"group-title="EPG",ARD-alpha
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ardalpha.png"tvg-chno=""group-title="EPG",ARD-alpha
 https://76
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3sat.png"tvg-chno="77"group-title="EPG",3 Sat
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3sat.png"tvg-chno=""group-title="EPG",3 Sat
 https://77
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/br.png"tvg-chno="78"group-title="EPG",BR
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/br.png"tvg-chno=""group-title="EPG",BR
 https://78
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swr.png"tvg-chno="79"group-title="EPG",SWR
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swr.png"tvg-chno=""group-title="EPG",SWR
 https://79
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/arte.png"tvg-chno="80"group-title="EPG",Arte
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/arte.png"tvg-chno=""group-title="EPG",Arte
 https://80
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ndr.png"tvg-chno="81"group-title="EPG",NDR
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ndr.png"tvg-chno=""group-title="EPG",NDR
 https://81
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/wdr.png"tvg-chno="82"group-title="EPG",WDR
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/wdr.png"tvg-chno=""group-title="EPG",WDR
 https://82
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/hr.png"tvg-chno="83"group-title="EPG",HR
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/hr.png"tvg-chno=""group-title="EPG",HR
 https://83
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/phoenix.png"tvg-chno="84"group-title="EPG",Phoenix
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/phoenix.png"tvg-chno=""group-title="EPG",Phoenix
 https://84
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rbb.png"tvg-chno="85"group-title="EPG",RBB
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rbb.png"tvg-chno=""group-title="EPG",RBB
 https://85
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Leipzig.png"tvg-chno="86"group-title="EPG",Leipzig Fernsehen
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Leipzig.png"tvg-chno=""group-title="EPG",Leipzig Fernsehen
 https://86
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/s1.png"tvg-chno="87"group-title="EPG",S1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/s1.png"tvg-chno=""group-title="EPG",S1
 https://87
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/srfinfo.png"tvg-chno="88"group-title="EPG",SRF Info
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/srfinfo.png"tvg-chno=""group-title="EPG",SRF Info
 https://88
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/srf1.png"tvg-chno="89"group-title="EPG",SRF 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/srf1.png"tvg-chno=""group-title="EPG",SRF 1
 https://89
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/srf2.png"tvg-chno="90"group-title="EPG",SRF 2
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/srf2.png"tvg-chno=""group-title="EPG",SRF 2
 https://90
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/TV%2024.png"tvg-chno="91"group-title="EPG",TV 24
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/TV%2024.png"tvg-chno=""group-title="EPG",TV 24
 https://91
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/TV25.png"tvg-chno="92"group-title="EPG",TV 25
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/TV25.png"tvg-chno=""group-title="EPG",TV 25
 https://92
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"tvg-chno="93"group-title="EPG",ORF 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"tvg-chno=""group-title="EPG",ORF 1
 https://93
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"tvg-chno="94"group-title="EPG",ORF 2
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"tvg-chno=""group-title="EPG",ORF 2
 https://94
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf3.png"tvg-chno="95"group-title="EPG",ORF 3
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf3.png"tvg-chno=""group-title="EPG",ORF 3
 https://95
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orfsport.png"tvg-chno="96"group-title="EPG",ORF Sport+
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orfsport.png"tvg-chno=""group-title="EPG",ORF Sport+
 https://96
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportnews.png"tvg-chno="97"group-title="EPG",Sky Sport News
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportnews.png"tvg-chno=""group-title="EPG",Sky Sport News
 https://97
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn1.png"tvg-chno="98"group-title="EPG",DAZN 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn1.png"tvg-chno=""group-title="EPG",DAZN 1
 https://98
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn2.png"tvg-chno="99"group-title="EPG",DAZN 2
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn2.png"tvg-chno=""group-title="EPG",DAZN 2
 https://99
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/daznfast.png"tvg-chno="100"group-title="EPG",DAZN Fast+
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/daznfast.png"tvg-chno=""group-title="EPG",DAZN Fast+
 https://100
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/DAZNrise.png"tvg-chno="101"group-title="EPG",DAZN Rise
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/DAZNrise.png"tvg-chno=""group-title="EPG",DAZN Rise
 https://101
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga.png"tvg-chno="102"group-title="EPG",Sky Sport Bundesliga
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga.png"tvg-chno=""group-title="EPG",Sky Sport Bundesliga
 https://102
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga1.png"tvg-chno="103"group-title="EPG",Sky Sport Bundesliga 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga1.png"tvg-chno=""group-title="EPG",Sky Sport Bundesliga 1
 https://103
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga2.png"tvg-chno="104"group-title="EPG",Sky Sport Bundesliga 2
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga2.png"tvg-chno=""group-title="EPG",Sky Sport Bundesliga 2
 https://104
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga3.png"tvg-chno="105"group-title="EPG",Sky Sport Bundesliga 3
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga3.png"tvg-chno=""group-title="EPG",Sky Sport Bundesliga 3
 https://105
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga4.png"tvg-chno="106"group-title="EPG",Sky Sport Bundesliga 4
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga4.png"tvg-chno=""group-title="EPG",Sky Sport Bundesliga 4
 https://106
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga5.png"tvg-chno="107"group-title="EPG",Sky Sport Bundesliga 5
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga5.png"tvg-chno=""group-title="EPG",Sky Sport Bundesliga 5
 https://107
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga6.png"tvg-chno="108"group-title="EPG",Sky Sport Bundesliga 6
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga6.png"tvg-chno=""group-title="EPG",Sky Sport Bundesliga 6
 https://108
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga7.png"tvg-chno="109"group-title="EPG",Sky Sport Bundesliga 7
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga7.png"tvg-chno=""group-title="EPG",Sky Sport Bundesliga 7
 https://109
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga8.png"tvg-chno="110"group-title="EPG",Sky Sport Bundesliga 8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga8.png"tvg-chno=""group-title="EPG",Sky Sport Bundesliga 8
 https://110
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga9.png"tvg-chno="111"group-title="EPG",Sky Sport Bundesliga 9
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga9.png"tvg-chno=""group-title="EPG",Sky Sport Bundesliga 9
 https://111
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria1.png"tvg-chno="112"group-title="EPG",Sky Sport Austria 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria1.png"tvg-chno=""group-title="EPG",Sky Sport Austria 1
 https://112
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria2.png"tvg-chno="113"group-title="EPG",Sky Sport Austria 2
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria2.png"tvg-chno=""group-title="EPG",Sky Sport Austria 2
 https://113
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria3.png"tvg-chno="114"group-title="EPG",Sky Sport Austria 3
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria3.png"tvg-chno=""group-title="EPG",Sky Sport Austria 3
 https://114
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria4.png"tvg-chno="115"group-title="EPG",Sky Sport Austria 4
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria4.png"tvg-chno=""group-title="EPG",Sky Sport Austria 4
 https://115
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria5.png"tvg-chno="116"group-title="EPG",Sky Sport Austria 5
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria5.png"tvg-chno=""group-title="EPG",Sky Sport Austria 5
 https://116
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria6.png"tvg-chno="117"group-title="EPG",Sky Sport Austria 6
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria6.png"tvg-chno=""group-title="EPG",Sky Sport Austria 6
 https://117
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria7.png"tvg-chno="118"group-title="EPG",Sky Sport Austria 7
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria7.png"tvg-chno=""group-title="EPG",Sky Sport Austria 7
 https://118
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportmix.png"tvg-chno="119"group-title="EPG",Sky Sport Mix
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportmix.png"tvg-chno=""group-title="EPG",Sky Sport Mix
 https://119
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysporttopevent.png"tvg-chno="120"group-title="EPG",Sky Sport Top Event
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysporttopevent.png"tvg-chno=""group-title="EPG",Sky Sport Top Event
 https://120
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportpremier.png"tvg-chno="121"group-title="EPG",Sky Sport Premier League
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportpremier.png"tvg-chno=""group-title="EPG",Sky Sport Premier League
 https://121
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportf1.png"tvg-chno="122"group-title="EPG",Sky Sport F1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportf1.png"tvg-chno=""group-title="EPG",Sky Sport F1
 https://122
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno="123"group-title="EPG",Magenta Sport 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",MS Sport
 https://123
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno="124"group-title="EPG",Magenta Sport 2
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 1
 https://124
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno="125"group-title="EPG",Magenta Sport 3
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 2
 https://125
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno="126"group-title="EPG",Magenta Sport 4
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 3
 https://126
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno="127"group-title="EPG",Magenta Sport 5
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 4
 https://127
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno="128"group-title="EPG",Magenta Sport 6
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 5
 https://128
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno="129"group-title="EPG",Magenta Sport 7
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 6
 https://129
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno="130"group-title="EPG",Magenta Sport 8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 7
 https://130
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno="131"group-title="EPG",Magenta Sport 9
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 8
 https://131
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport1.png"tvg-chno="132"group-title="EPG",Sky Sport 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 9
 https://132
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport2.png"tvg-chno="133"group-title="EPG",Sky Sport 2
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 10
 https://133
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport3.png"tvg-chno="134"group-title="EPG",Sky Sport 3
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 11
 https://134
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport4.png"tvg-chno="135"group-title="EPG",Sky Sport 4
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 12
 https://135
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport5.png"tvg-chno="136"group-title="EPG",Sky Sport 5
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 13
 https://136
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport6.png"tvg-chno="137"group-title="EPG",Sky Sport 6
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 14
 https://137
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport7.png"tvg-chno="138"group-title="EPG",Sky Sport 7
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 15
 https://138
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport8.png"tvg-chno="139"group-title="EPG",Sky Sport 8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 16
 https://139
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport9.png"tvg-chno="140"group-title="EPG",Sky Sport 9
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 17
 https://140
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sport1.png"tvg-chno="141"group-title="EPG",Sport 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 18
 https://141
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/eurosport1.png"tvg-chno="142"group-title="EPG",Eurosport 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport1.png"tvg-chno=""group-title="EPG",Sky Sport 1
 https://142
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/eurosport2.png"tvg-chno="143"group-title="EPG",Eurosport 2
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport2.png"tvg-chno=""group-title="EPG",Sky Sport 2
 https://143
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Sportdigital.png"tvg-chno="144"group-title="EPG",Sportdigital
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport3.png"tvg-chno=""group-title="EPG",Sky Sport 3
 https://144
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Sportdigital%2B.png"tvg-chno="145"group-title="EPG",Sportdigital+
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport4.png"tvg-chno=""group-title="EPG",Sky Sport 4
 https://145
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/red_bull_tv.png"tvg-chno="146"group-title="EPG",Red Bull TV
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport5.png"tvg-chno=""group-title="EPG",Sky Sport 5
 https://146
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/servustvmotorsport.png"tvg-chno="147"group-title="EPG",Servus TV Motorsport
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport6.png"tvg-chno=""group-title="EPG",Sky Sport 6
 https://147
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Motorvision%2B.png"tvg-chno="148"group-title="EPG",Motorvision
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport7.png"tvg-chno=""group-title="EPG",Sky Sport 7
 https://148
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/automotorsport.png"tvg-chno="149"group-title="EPG",Auto Motor und Sport
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport8.png"tvg-chno=""group-title="EPG",Sky Sport 8
 https://149
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/FreeComedy.png"tvg-chno="150"group-title="EPG",Free Comedy
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport9.png"tvg-chno=""group-title="EPG",Sky Sport 9
 https://150
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSerien.png"tvg-chno="151"group-title="EPG",Top Serien
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sport1.png"tvg-chno=""group-title="EPG",Sport 1
 https://151
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TOPFILME.png"tvg-chno="152"group-title="EPG",Top Filme
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/eurosport1.png"tvg-chno=""group-title="EPG",Eurosport 1
 https://152
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSciFi.png"tvg-chno="153"group-title="EPG",Top Sci-Fi
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/eurosport2.png"tvg-chno=""group-title="EPG",Eurosport 2
 https://153
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Moviedome.png"tvg-chno="154"group-title="EPG",Moviedome
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Sportdigital.png"tvg-chno=""group-title="EPG",Sportdigital
 https://154
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/MoviedomeFamily.png"tvg-chno="155"group-title="EPG",Moviedome Family
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Sportdigital%2B.png"tvg-chno=""group-title="EPG",Sportdigital+
 https://155
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/wedomovies.png"tvg-chno="156"group-title="EPG",Wedo Movies
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/red_bull_tv.png"tvg-chno=""group-title="EPG",Red Bull TV
 https://156
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Spiegeltvkonflikte.png"tvg-chno="157"group-title="EPG",Spiegel TV Konflikte
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/servustvmotorsport.png"tvg-chno=""group-title="EPG",Servus TV Motorsport
 https://157
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/curiositynow.png"tvg-chno="158"group-title="EPG",Curiosity Now
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Motorvision%2B.png"tvg-chno=""group-title="EPG",Motorvision
 https://158
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Terramater.png"tvg-chno="159"group-title="EPG",Terra Mater Wild
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/automotorsport.png"tvg-chno=""group-title="EPG",Auto Motor und Sport
 https://159
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/oneterra.png"tvg-chno="160"group-title="EPG",One Terra
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/FreeComedy.png"tvg-chno=""group-title="EPG",Free Comedy
 https://160
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/xplore.png"tvg-chno="161"group-title="EPG",XPLORE
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSerien.png"tvg-chno=""group-title="EPG",Top Serien
 https://161
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlsuper.png"tvg-chno="162"group-title="EPG",Super RTL
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TOPFILME.png"tvg-chno=""group-title="EPG",Top Filme
 https://162
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyclassics.png"tvg-chno="163"group-title="EPG",Sky Cinema Classics
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSciFi.png"tvg-chno=""group-title="EPG",Top Sci-Fi
 https://163
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/servustv.png"tvg-chno="164"group-title="EPG",Servus TV
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Moviedome.png"tvg-chno=""group-title="EPG",Moviedome
 https://164
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/begblick.png"tvg-chno="165"group-title="EPG",Bergblick
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/MoviedomeFamily.png"tvg-chno=""group-title="EPG",Moviedome Family
 https://165
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/wedomovies.png"tvg-chno=""group-title="EPG",Wedo Movies
+https://166
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Spiegeltvkonflikte.png"tvg-chno=""group-title="EPG",Spiegel TV Konflikte
+https://167
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/curiositynow.png"tvg-chno=""group-title="EPG",Curiosity Now
+https://168
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Terramater.png"tvg-chno=""group-title="EPG",Terra Mater Wild
+https://169
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/oneterra.png"tvg-chno=""group-title="EPG",One Terra
+https://170
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/xplore.png"tvg-chno=""group-title="EPG",XPLORE
+https://171
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlsuper.png"tvg-chno=""group-title="EPG",Super RTL
+https://172
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyclassics.png"tvg-chno=""group-title="EPG",Sky Cinema Classics
+https://173
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/servustv.png"tvg-chno=""group-title="EPG",Servus TV
+https://174
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/begblick.png"tvg-chno=""group-title="EPG",Bergblick
+https://175
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sportdigitaledge.png"tvg-chno=""group-title="EPG",Sportdigital Edge
+https://176
