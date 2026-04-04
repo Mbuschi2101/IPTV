@@ -106,7 +106,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=zdf-info&level=hd&drm=False
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/mdr.png"tvg-chno=""group-title="Sky(Bee, DE VPN)",MDR Sachsen
 plugin://plugin.video.zattoo_com/?mode=watch&id=mdr-sachsen&level=hd&drm=False
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/welt.png"tvg-chno=""group-title="Sky(Bee, DE VPN)",Welt
-plugin://plugin.video.playlistbee/?name=WELT+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15379%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FWELTHD.png&logos=&epg=&cache=0&uuid=0
+plugin://plugin.video.zattoo_com/?mode=watch&id=n24&level=sd&drm=False
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ntv.png"tvg-chno=""group-title="Sky(Bee, DE VPN)",N-TV
 plugin://plugin.video.playlistbee/?name=NTV+4K&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AAD%3A17%3A0E%26stream%3D15365%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FNTVHD.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png"tvg-chno=""group-title="Sky(Bee, DE VPN)",Bild TV
