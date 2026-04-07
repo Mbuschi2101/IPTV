@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml, https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml" refresh="3600"
+#EXTM3U url-tvg="http://m3u4u.com/xml/782dyqk51rt1mxw8y4zp, https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml" refresh="3600"
 
 #EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ard.png", Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
