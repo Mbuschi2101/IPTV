@@ -33,9 +33,6 @@ https://dokusat.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/www.png", Welt der Wunder
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 
-#EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dokusat.png", DokuSat
-https://dokusat.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-
 #EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tagesschau.png", Tagesschau 24
 https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
 
@@ -50,6 +47,9 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
 #EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swr.png", SWR
 https://mcdn.swr.de/swr/swrbwd/master.m3u8
+
+#EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/arte.png", Arte
+https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 
 #EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ndr.png", NDR
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
