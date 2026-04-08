@@ -60,7 +60,6 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
 
 #EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/hr.png", HR
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=1003200,AVERAGE-BANDWIDTH=660000,CODECS="avc1.4d401f",RESOLUTION=640x360,URI="master360p1200_I-Frame.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=8500800,AVERAGE-BANDWIDTH=5640800,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50.000,AUDIO="program_audio",SUBTITLES="subs"
 http://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
 
