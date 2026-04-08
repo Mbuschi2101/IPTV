@@ -19,7 +19,7 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 https://mdr-live.ard-mcdn.de/mdr/live/hls/de/master.m3u8
 
 #EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/welt.png", Welt
-https://broadcast.welt.personalstream.tv/v1/manifest/bed31ae6b23b93b0843b9825ea57f506cf4da916/welt-tv-prod/f7bb476d-cc57-47fe-a373-c865984cb0a5/hdntl=exp=1775713570~acl=%2f*~data=hdntl~hmac=6889499bae0ae8d081370d00166fa682adfddc1c55ab86dd9e49c5ece6158d97/6.m3u8?platform=web
+https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
 
 #EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png", Bild TV
 https://bild.personalstream.tv/v1/master.m3u8
