@@ -62,6 +62,7 @@ https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
 #EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/hr.png", HR
 #EXT-X-STREAM-INF:BANDWIDTH=2147200,AVERAGE-BANDWIDTH=1460800,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=50.000,AUDIO="program_audio",SUBTITLES="subs"
 master360p1200.m3u8
+http://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
 
 #EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/phoenix.png", Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
