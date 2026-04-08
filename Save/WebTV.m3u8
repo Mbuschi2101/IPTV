@@ -6,10 +6,6 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1  tvg-id="76627" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdf.png", ZDF
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 
-#EXTINF:-1  tvg-id="76627" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdf.png", RTL Test
-#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1090000,BANDWIDTH=1340000,RESOLUTION=1280x720,FRAME-RATE=50.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://helpfullive.info/rtl/index.m3u8?token=8b36daa740091c7b4447c8d456a836f355c93929-3f11c95b40c6fdc0580ee6309d890e4a-1775646245-1775635445
-
 #EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/one.png", ONE
 https://mcdn-one.ard.de/ardone/hls/master.m3u8
 
