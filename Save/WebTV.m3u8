@@ -60,7 +60,7 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
 
 #EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/hr.png", HR
-https://fr5-5-dash-live.zahs.tv/HD_hr/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCBGQ2TCRBXGFBDKOBZII3DOLKCIJDEMRRTHFCECNJXHE4TINJGNVQXQ4TBORST2NJQGAZCM3LJNZZGC5DFHU3DAMBGOBZGKZTFOJZGKZC7NRQW4Z3VMFTWKPLEMUTHG2LHHU3V6MZUGYYGKNBSHEYTOZJXGIYTMYRYMFTDSZJXHFRDIZDCMEYWIMZREZZXKYTUNF2GYZLTHVUGSZDEMVXC243ENATHI2LNMVZWQ2LGOQ6TQMBGOVZWK4S7NFSD2MZTHE3TGMBUGQTHMPJQ
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
 
 #EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/phoenix.png", Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
@@ -74,5 +74,4 @@ https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist
 #EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png", ORF 1
 https://test04.mdn.ors.at/orf/orf1/qxb/manifest.m3u8
 
-#EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png", ORF 2
-https://orf2w-247.mdn.ors.at/orf/orf2w/drmqxa-247/manifest.mpd?offset=5&begin=20260408T073318
+
