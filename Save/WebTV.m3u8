@@ -74,4 +74,5 @@ https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist
 #EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png", ORF 1
 https://test04.mdn.ors.at/orf/orf1/qxb/manifest.m3u8
 
-
+#EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png", ORF 2
+https://orf2w-247.mdn.ors.at/orf/orf2w/drmqxa-247/manifest.mpd?offset=5&begin=20260408T073318
