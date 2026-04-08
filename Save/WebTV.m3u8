@@ -26,7 +26,8 @@ https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
 https://stream.bild.personalstream.tv/v1/manifest/bed31ae6b23b93b0843b9825ea57f506cf4da916/bild-prod/8f19dbab-9010-4516-b2b4-18d510837bf9/hdntl=exp=1775717018~acl=%2f*~data=hdntl~hmac=13354368bacea0e9887ff49ea41ebae492e9d41fa66b4e648ac02974951e84ad/1.m3u8?pub=bildde
 
 #EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/n24doku.png", N24 Doku
-https://n24-doku.personalstream.tv/v1/weltde/master.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=4691995,RESOLUTION=1920x1080,FRAME-RATE=25.000
+https://broadcast.n24-doku.personalstream.tv/v1/manifest/bed31ae6b23b93b0843b9825ea57f506cf4da916/n24-doku-prod/34aa5aee-d3fd-41e2-bf68-0a7ae56ffce6/hdntl=exp=1775717481~acl=%2f*~data=hdntl~hmac=ce0db5d96ef83aa10f8090fd84dcc6b5bcf30ca2680a45020fc78217db869028/7.m3u8
 
 #EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dokusat.png", DokuSat
 https://dokusat.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
