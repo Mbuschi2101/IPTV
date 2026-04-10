@@ -22,7 +22,6 @@ https://mdr-live.ard-mcdn.de/mdr/live/hls/de/master.m3u8
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
 
 #EXTINF:-1  tvg-id="532" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png", Bild TV
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=1364798,AVERAGE-BANDWIDTH=1196512,CODECS="avc1.4D401F,mp4a.40.2",RESOLUTION=768x432,FRAME-RATE=25.000
 #https://stream.bild.personalstream.tv/v1/manifest/bed31ae6b23b93b0843b9825ea57f506cf4da916/bild-prod/8f19dbab-9010-4516-b2b4-18d510837bf9/hdntl=exp=1775717018~acl=%2f*~data=hdntl~hmac=13354368bacea0e9887ff49ea41ebae492e9d41fa66b4e648ac02974951e84ad/1.m3u8?pub=bildde
 https://bild.personalstream.tv/v1/master.m3u8
 
