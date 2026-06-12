@@ -351,3 +351,7 @@ https://174
 https://175
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sportdigitaledge.png"tvg-chno=""group-title="EPG",Sportdigital Edge
 https://176
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Sky(Bee, DE VPN)",RTL Comedy
+https://177
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skydocumentaries.png"tvg-chno=""group-title="Sky(Bee, DE VPN)",Sky Documentaries
+https://178
