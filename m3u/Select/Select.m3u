@@ -1,0 +1,37 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Select TV",Netflix Premiere Programm
+plugin://plugin.video.playlistbee/?name=NETFLIX+PREMIERE+INFO+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A0B%3ABE%3A39%26stream%3D796093%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FNETFLIX%2FNETFLIX.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Select TV",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Select TV",Netflix Premiere 1
+plugin://plugin.video.playlistbee/?name=NETFLIX+PREMIERE+1+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A0B%3ABE%3A39%26stream%3D796092%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FNETFLIX%2FNETFLIX.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Select TV",Netflix Premiere 2
+plugin://plugin.video.playlistbee/?name=NETFLIX+PREMIERE+2+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A0B%3ABE%3A39%26stream%3D796091%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FNETFLIX%2FNETFLIX.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Select TV",Netflix Premiere 3
+plugin://plugin.video.playlistbee/?name=NETFLIX+PREMIERE+3+HD&url=http%3A%2F%2Fline.watchtivo-8k.com%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A0B%3ABE%3A39%26stream%3D796090%26extension%3Dts&mode=3&iconimage=http%3A%2F%2Fpicon.tivi-ott.net%3A25461%2Fpicon%2FGERMANY%2FNETFLIX%2FNETFLIX.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Select TV",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Select TV",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Select TV",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Select TV",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Select TV",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Select TV",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Select TV",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Select TV",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Select TV",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Select TV",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Select TV",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Select TV",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Select TV",
+
