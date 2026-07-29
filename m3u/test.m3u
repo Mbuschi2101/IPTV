@@ -1,8 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ard.png"tvg-chno=""group-title="Test",Das Erste
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdf.png"tvg-chno=""group-title="Test",ZDF
-
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl.png"tvg-chno=""group-title="Test",RTL
 https://s6.hopslan.com/rtlt/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1.png"tvg-chno=""group-title="Test",SAT.1
@@ -13,329 +9,31 @@ https://s6.hopslan.com/rtl2q/tracks-v1a1/mono.ts.m3u8
 https://s6.hopslan.com/pro7z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1.png"tvg-chno=""group-title="Test",Kabel eins
 https://s6.hopslan.com/kabel1z/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1classic.png"tvg-chno=""group-title="Test",Kabel eins Classics
-
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/vox.png"tvg-chno=""group-title="Test",VOX
 https://s6.hopslan.com/voxz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tele5.png"tvg-chno=""group-title="Test",Tele 5
 https://s6.hopslan.com/tele5X/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sixx.png"tvg-chno=""group-title="Test",SIXX
 https://s6.hopslan.com/sixX/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/one.png"tvg-chno=""group-title="Test",ONE
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfneo.png"tvg-chno=""group-title="Test",ZDFneo
-
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlsuper.png"tvg-chno=""group-title="Test",Super RTL
 https://s6.hopslan.com/superX/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nitro.png"tvg-chno=""group-title="Test",RTL Nitro
 https://s6.hopslan.com/nitro1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlpassion.png"tvg-chno=""group-title="Test",RTL Passion
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1emotion.png"tvg-chno=""group-title="Test",SAT.1 Emotions
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/voxup.png"tvg-chno=""group-title="Test",VOXup
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlup.png"tvg-chno=""group-title="Test",RTLup
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlcrime.png"tvg-chno=""group-title="Test",RTL Crime
-
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl.png"tvg-chno=""group-title="Test",RTL
+https://ma.anixa.tv/clips/stream/rtl/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1.png"tvg-chno=""group-title="Test",SAT.1
+https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl2.png"tvg-chno=""group-title="Test",RTL II
+https://dash2.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7.png"tvg-chno=""group-title="Test",Pro Sieben
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1.png"tvg-chno=""group-title="Test",Kabel eins
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/vox.png"tvg-chno=""group-title="Test",VOX
+https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nitro.png"tvg-chno=""group-title="Test",RTL Nitro
+https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sixx.png"tvg-chno=""group-title="Test",SIXX
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1gold.png"tvg-chno=""group-title="Test",SAT.1 Gold
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",3+
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",4+
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",5+
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",6+
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",ATV
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",ATV 2
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls4.png"tvg-chno=""group-title="Test",Puls 4
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",Puls 24
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"tvg-chno=""group-title="Test",ORF 1
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"tvg-chno=""group-title="Test",ORF 2
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",ORF 3
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skypremiere.png"tvg-chno=""group-title="Test",Sky Cinema Premiere
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaction.png"tvg-chno=""group-title="Test",Sky Cinema Action
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyhighlights.png"tvg-chno=""group-title="Test",Sky Cinema Highlights
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyfamily.png"tvg-chno=""group-title="Test",Sky Cinema Family
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyclassics.png"tvg-chno=""group-title="Test",Sky Cinema Classics
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnercomedy.png"tvg-chno=""group-title="Test",Warner TV Comedy
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerfilm.png"tvg-chno=""group-title="Test",Warner TV Film
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerserie.png"tvg-chno=""group-title="Test",Warner TV Serie
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skycrime.png"tvg-chno=""group-title="Test",Sky Crime
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skykrimi.png"tvg-chno=""group-title="Test",Sky Krimi
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/crimeinvestigation.png"tvg-chno=""group-title="Test",Sky Crime Investigation
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyatlantic.png"tvg-chno=""group-title="Test",Sky Atlantic
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyone.png"tvg-chno=""group-title="Test",Sky One
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyreplay.png"tvg-chno=""group-title="Test",Sky Replay
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyshowcase.png"tvg-chno=""group-title="Test",Sky Showcase
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/13street.png"tvg-chno=""group-title="Test",13TH Street
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/axnwhite.png"tvg-chno=""group-title="Test",AXN White
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/axnblack.png"tvg-chno=""group-title="Test",AXN Black
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/silverline.png"tvg-chno=""group-title="Test",Silverline
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ProSieben_FUN.png"tvg-chno=""group-title="Test",Pro Sieben Fun
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/universal.png"tvg-chno=""group-title="Test",Universal TV
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Kinowelt.png"tvg-chno=""group-title="Test",Kinowelt
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/syfy.png"tvg-chno=""group-title="Test",SyFy
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skydocumentaries.png"tvg-chno=""group-title="Test",Sky Documentaries
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfinfo.png"tvg-chno=""group-title="Test",ZDFinfo
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png"tvg-chno=""group-title="Test",Bild TV
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1doku.png"tvg-chno=""group-title="Test",Kabel eins Doku
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ntv.png"tvg-chno=""group-title="Test",N-TV
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/welt.png"tvg-chno=""group-title="Test",Welt
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/n24doku.png"tvg-chno=""group-title="Test",N24 Doku
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dmax.png"tvg-chno=""group-title="Test",DMAX
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tlc.png"tvg-chno=""group-title="Test",TLC
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/www.png"tvg-chno=""group-title="Test",Welt der Wunder
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skynature.png"tvg-chno=""group-title="Test",Sky Nature
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/discovery.png"tvg-chno=""group-title="Test",Discovery Channel
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/history.png"tvg-chno=""group-title="Test",History Channel
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nationalwild.png"tvg-chno=""group-title="Test",National Geographic Wild
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nationalgeo.png"tvg-chno=""group-title="Test",National Geographic
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/spiegelgeschichte.png"tvg-chno=""group-title="Test",Spiegel Geschichte
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/curiosity.png"tvg-chno=""group-title="Test",Curiosity Channel
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/animalplanethd.png"tvg-chno=""group-title="Test",Animal Planet
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/GEOHD.png"tvg-chno=""group-title="Test",Geo
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/comedycentral.png"tvg-chno=""group-title="Test",Comedy Central
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7maxx.png"tvg-chno=""group-title="Test",Pro Sieben MAXX
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/servustv.png"tvg-chno=""group-title="Test",Servus TV
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/begblick.png"tvg-chno=""group-title="Test",Bergblick
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3sat.png"tvg-chno=""group-title="Test",3 Sat
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ardalpha.png"tvg-chno=""group-title="Test",ARD-alpha
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/arte.png"tvg-chno=""group-title="Test",Arte
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/hr.png"tvg-chno=""group-title="Test",HR
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/br.png"tvg-chno=""group-title="Test",BR
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/mdr.png"tvg-chno=""group-title="Test",MDR Sachsen
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ndr.png"tvg-chno=""group-title="Test",NDR
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/phoenix.png"tvg-chno=""group-title="Test",Phoenix
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rbb.png"tvg-chno=""group-title="Test",RBB
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swr.png"tvg-chno=""group-title="Test",SWR
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tagesschau.png"tvg-chno=""group-title="Test",Tagesschau 24
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/wdr.png"tvg-chno=""group-title="Test",WDR
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Leipzig.png"tvg-chno=""group-title="Test",Leipzig Fernsehen
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",SRF Info
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",SRF 1
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",SRF 2
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportnews.png"tvg-chno=""group-title="Test",Sky Sport News
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn1.png"tvg-chno=""group-title="Test",DAZN 1
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn2.png"tvg-chno=""group-title="Test",DAZN 2
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",DAZN Rise
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",DAZN Fast+
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga1.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga 1
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga2.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga 2
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga3.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga 3
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga4.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga 4
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga5.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga 5
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga6.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga 6
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga7.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga 7
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga8.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga 8
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga9.png"tvg-chno=""group-title="Test",Sky Sport Bundesliga 9
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria1.png"tvg-chno=""group-title="Test",Sky Sport Austria 1
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria2.png"tvg-chno=""group-title="Test",Sky Sport Austria 2
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria3.png"tvg-chno=""group-title="Test",Sky Sport Austria 3
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria4.png"tvg-chno=""group-title="Test",Sky Sport Austria 4
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria5.png"tvg-chno=""group-title="Test",Sky Sport Austria 5
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",Sky Sport Austria 6
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",Sky Sport Austria 7
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportpremier.png"tvg-chno=""group-title="Test",Sky Sport Premier League
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysporttopevent.png"tvg-chno=""group-title="Test",Sky Sport Top Event
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportmix.png"tvg-chno=""group-title="Test",Sky Sport Mix
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportf1.png"tvg-chno=""group-title="Test",Sky Sport F1
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno=""group-title="Test",RTL+ Sport Event 1
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno=""group-title="Test",RTL+ Sport Event 2
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno=""group-title="Test",RTL+ Sport Event 3
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno=""group-title="Test",RTL+ Sport Event 4
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno=""group-title="Test",RTL+ Sport Event 5
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno=""group-title="Test",RTL+ Sport Event 6
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno=""group-title="Test",RTL+ Sport Event 7
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno=""group-title="Test",RTL+ Sport Event 8
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/RTLplus.png"tvg-chno=""group-title="Test",RTL+ Sport Event 9
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",MS Sport
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 1
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 2
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 3
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 4
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 5
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 6
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 7
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 8
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 9
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 10
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 11
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 12
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 13
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 14
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 15
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 16
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 17
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Test",Magenta Sport 18
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport1.png"tvg-chno=""group-title="Test",Sky Sport 1
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport2.png"tvg-chno=""group-title="Test",Sky Sport 2
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport3.png"tvg-chno=""group-title="Test",Sky Sport 3
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport4.png"tvg-chno=""group-title="Test",Sky Sport 4
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport5.png"tvg-chno=""group-title="Test",Sky Sport 5
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport6.png"tvg-chno=""group-title="Test",Sky Sport 6
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport7.png"tvg-chno=""group-title="Test",Sky Sport 7
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport8.png"tvg-chno=""group-title="Test",Sky Sport 8
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport9.png"tvg-chno=""group-title="Test",Sky Sport 9
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orfsport.png"tvg-chno=""group-title="Test",ORF Sport+
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sport1.png"tvg-chno=""group-title="Test",Sport 1
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Sportdigital.png"tvg-chno=""group-title="Test",Sportdigital
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Sportdigital%2B.png"tvg-chno=""group-title="Test",Sportdigital+
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/eurosport1.png"tvg-chno=""group-title="Test",Eurosport 1
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/eurosport2.png"tvg-chno=""group-title="Test",Eurosport 2
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/red_bull_tv.png"tvg-chno=""group-title="Test",Red Bull TV
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",Red Bull TV Motorsport
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/automotorsport.png"tvg-chno=""group-title="Test",Auto Motor und Sport
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Motorvision%2B.png"tvg-chno=""group-title="Test",Motorvision
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",Sportdigital EDGE
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",E-Sports
-
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Test",Blue Zoom D
-
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
