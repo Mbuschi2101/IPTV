@@ -60,23 +60,23 @@ plugin://plugin.video.vavootv/?name=SKY+SHOWCASE&urls=%5B%22https%3A%2F%2Fvavoo.
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skycrime.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Sky Crime
 plugin://plugin.video.vavootv/?name=SKY+CRIME+HD+RAW&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F18819092387aa529cd9a1b%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skykrimi.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Sky Krimi
-plugin://plugin.video.vavootv/?name=SKY+KRIMI+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1869613335ed67cf26349b%22%5D
+plugin://plugin.video.vavootv/?name=SKY+KRIMI&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F238904688782141a1ea27b%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnercomedy.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Warner TV Comedy
-plugin://plugin.video.vavootv/?name=WARNER+COMEDY&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F40066388850b473e235a0%22%5D
+2026-08-08 05:56:25.665 T:23844    info <general>: Deleting settings information for files plugin://plugin.video.vavootv/?name=SKY+CINEMA+FAMILY+HEVC&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4279471443ec5da7eed5e1%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerfilm.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Warner TV Film
 plugin://plugin.video.vavootv/?name=TNT+FILM+HD%2B&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4177014626d97e25d8a94c%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerserie.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Warner TV Serie
 plugin://plugin.video.vavootv/?name=TNT+SERIE+HD%2B&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1657612547b6da3cf3e3a6%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/syfy.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",SyFy
-plugin://plugin.video.vavootv/?name=SYFY+HD%2B&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3160192054d41c843c461e%22%5D
+plugin://plugin.video.vavootv/?name=SYFY+RAW&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F320728011da29568448a3%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/13street.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",13TH Street
-plugin://plugin.video.vavootv/?name=13TH+STREET+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3854738303acabe63483d0%22%5D
+plugin://plugin.video.vavootv/?name=13TH+STREET+RAW&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3693518666cd60eb68e983%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Kinowelt.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Kinowelt TV
-plugin://plugin.video.vavootv/?name=KINOWELT+TV&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4975857175aa8c3513948%22%2C+%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3932731827b8490f505e3d%22%2C+%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1488417945edaa47581d98%22%5D
+plugin://plugin.video.vavootv/?name=KINOWELTTV+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F15576435473e30a68458c4%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/universal.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Universal TV
-plugin://plugin.video.vavootv/?name=UNIVERSAL+TV+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F26926031318884a572f28%22%5D
+plugin://plugin.video.vavootv/?name=UNIVERSAL+TV+RAW&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F20134351545a934f0e8480%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1emotion.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",SAT.1 Emotions
-plugin://plugin.video.vavootv/?name=SAT+1+EMOTIONS+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2454124205d6e97c1fe252%22%5D
+plugin://plugin.video.vavootv/?name=SAT+1+EMOTIONS&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F15866913763ba3738bf5cf%22%2C+%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F12945128065e6030487779%22%2C+%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F88401909337a069c86fc1%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ProSieben_FUN.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Pro Sieben Fun
 plugin://plugin.video.vavootv/?name=PRO+7+FUN&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F30756560475476f73a79dd%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/silverline.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Silverline
