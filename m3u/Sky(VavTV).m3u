@@ -10,7 +10,7 @@ plugin://plugin.video.vavootv/?name=SAT+1+HD%2B&urls=%5B%22https%3A%2F%2Fvavoo.t
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl2.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",RTL II
 plugin://plugin.video.vavootv/?name=RTL+2+HD%2B&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F17583675311eae047c89de%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Pro Sieben
-plugin://plugin.video.vavootv/?name=PRO+7+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F39333164971f24d0796177%22%5D
+plugin://plugin.video.vavootv/?name=PRO+7+HD%2B&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F886750414e5be37d8c0fd%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Kabel eins
 plugin://plugin.video.vavootv/?name=KABEL+EINS&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11763903621d4dd073b1e8%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1classic.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Kabel eins Classics
@@ -44,13 +44,13 @@ plugin://plugin2
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/canal%2Baction.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Canal+ Action
 plugin://plugin.video.vavootv/?name=CANAL%2B+ACTION&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3477497568ab5197d72f52%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyone.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Sky One
-plugin://plugin.video.vavootv/?name=SKY+1&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F94808283ed2fa967bbd6%22%2C+%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1751787800584af96e864c%22%5D
+plugin://plugin.video.vavootv/?name=SKY+ONE&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2869771674c3bea91a978b%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyatlantic.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Sky Atlantic
-plugin://plugin.video.vavootv/?name=SKY+ATLANTIC+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3714049053c3b64d17ddcf%22%5D
+plugin://plugin.video.vavootv/?name=SKY+ATLANTIC&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2340670204ff621ff5a503%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skypremiere.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Sky Cinema Premiere
-plugin://plugin.video.vavootv/?name=SKY+CINEMA+PREMIEREN&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4117277461bb80bd4382ae%22%2C+%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3507019421158db3217f80%22%5D
+plugin://plugin.video.vavootv/?name=SKY+CINEMA+PREMIEREN+RAW&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F13593128451fe361fe0fd4%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaction.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Sky Cinema Action
-plugin://plugin.video.vavootv/?name=SKY+ACTION+HD%2B&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F107495076506aa9f846828%22%5D
+plugin://plugin.video.vavootv/?name=SKY+CINEMA+ACTION+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F41403985348c9b135459db%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/SkycinemaFeelgood.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Sky Cinema Feelgood
 plugin://plugin.video.vavootv/?name=SKY+CINEMA+FAMILY&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3276536706f112350626f9%22%2C+%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F26152459164daf8d303e46%22%2C+%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F10915522642f277fd9ba45%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Skycinemablockbuster.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Sky Cinema Blockbuster
