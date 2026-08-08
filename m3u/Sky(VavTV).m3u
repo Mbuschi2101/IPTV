@@ -30,7 +30,7 @@ plugin://plugin.video.vavootv/?name=RTL+CRIME+HD&urls=%5B%22https%3A%2F%2Fvavoo.
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sixx.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",SIXX
 plugin://plugin.video.vavootv/?name=SIXX+HD%2B&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1018615269527a186c7ec8%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tele5.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Tele 5
-plugin://plugin.video.vavootv/?name=TELE+5&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F9502165007e1f7bfd9e2f%22%2C+%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5784298976b8ee7adb7bd%22%5D
+plugin://plugin.video.vavootv/?name=TELE+5+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F18116033232535451624e%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1gold.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",SAT.1 Gold
 plugin://plugin.video.vavootv/?name=SAT.1+GOLD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F12946145027a981f3ecdd5%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/one.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",ONE
