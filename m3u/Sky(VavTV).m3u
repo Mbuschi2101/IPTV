@@ -52,9 +52,9 @@ plugin://plugin.video.vavootv/?name=SKY+CINEMA+PREMIEREN+RAW&urls=%5B%22https%3A
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaction.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Sky Cinema Action
 plugin://plugin.video.vavootv/?name=SKY+CINEMA+ACTION+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F41403985348c9b135459db%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/SkycinemaFeelgood.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Sky Cinema Feelgood
-plugin://plugin.video.vavootv/?name=SKY+CINEMA+FAMILY&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3276536706f112350626f9%22%2C+%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F26152459164daf8d303e46%22%2C+%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F10915522642f277fd9ba45%22%5D
+plugin://plugin.video.vavootv/?name=SKY+CINEMA+FAMILY+HEVC&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4279471443ec5da7eed5e1%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Skycinemablockbuster.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Sky Cinema Blockbuster
-plugin://plugin.video.vavootv/?name=SKY+CINEMA+BEST+OF+HD&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4183661289bea5151c6e22%22%5D
+plugin://plugin3
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyshowcase.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Sky Showcase
 plugin://plugin.video.vavootv/?name=SKY+SHOWCASE&urls=%5B%22https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F314778032359ea2d858517%22%5D
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skycrime.png"tvg-chno=""group-title="Sky(VavTV, DE VPN)",Sky Crime
