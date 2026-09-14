@@ -67,8 +67,6 @@ https://32
 https://33
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Skycinemablockbuster.png"tvg-chno=""group-title="EPG",Sky Cinema Blockbuster
 https://34
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyreplay.png"tvg-chno=""group-title="EPG",Sky Replay
-https://35
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyshowcase.png"tvg-chno=""group-title="EPG",Sky Showcase
 https://36
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skycrime.png"tvg-chno=""group-title="EPG",Sky Crime
@@ -171,18 +169,8 @@ https://84
 https://85
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Leipzig.png"tvg-chno=""group-title="EPG",Leipzig Fernsehen
 https://86
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/s1.png"tvg-chno=""group-title="EPG",S1
-https://87
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/srfinfo.png"tvg-chno=""group-title="EPG",SRF Info
 https://88
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/srf1.png"tvg-chno=""group-title="EPG",SRF 1
-https://89
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/srf2.png"tvg-chno=""group-title="EPG",SRF 2
-https://90
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/TV%2024.png"tvg-chno=""group-title="EPG",TV 24
-https://91
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/TV25.png"tvg-chno=""group-title="EPG",TV 25
-https://92
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"tvg-chno=""group-title="EPG",ORF 1
 https://93
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"tvg-chno=""group-title="EPG",ORF 2
@@ -263,24 +251,6 @@ https://130
 https://131
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 9
 https://132
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 10
-https://133
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 11
-https://134
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 12
-https://135
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 13
-https://136
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 14
-https://137
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 15
-https://138
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 16
-https://139
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 17
-https://140
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="EPG",Magenta Sport 18
-https://141
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport1.png"tvg-chno=""group-title="EPG",Sky Sport 1
 https://142
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport2.png"tvg-chno=""group-title="EPG",Sky Sport 2
@@ -363,11 +333,9 @@ https://180
 https://181
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/crimeinvestigation.png"tvg-chno=""group-title="EPG",Spiegel TV
 https://182
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/crimeinvestigation.png"tvg-chno=""group-title="EPG",Spiegel TV action+crime 
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/crimeinvestigation.png"tvg-chno=""group-title="EPG",Spiegel TV action+crime
 https://183
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/crimeinvestigation.png"tvg-chno=""group-title="EPG",More Than Sports
 https://184
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/crimeinvestigation.png"tvg-chno=""group-title="EPG",Wedo TV Movies
 https://185
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/crimeinvestigation.png"tvg-chno=""group-title="EPG",ORF Kids
-https://186
