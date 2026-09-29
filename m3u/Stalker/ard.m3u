@@ -1,1 +1,4 @@
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+#EXTM3U
+#EXTINF:-1,┃AT┃ ATV HD
+#EXTVLCOPT:category=Live TV
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=2385&extension=ts&play_token=bgupsbM76Z
