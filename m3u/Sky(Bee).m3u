@@ -1,0 +1,243 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ard.png"tvg-chno=""group-title="Stalker",Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdf.png"tvg-chno=""group-title="Stalker",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl.png"tvg-chno=""group-title="Stalker",RTL
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025125&extension=ts&play_token=Noh0u5c1EY
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1.png"tvg-chno=""group-title="Stalker",SAT.1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025126&extension=ts&play_token=OxUKvlu5VU
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtl2.png"tvg-chno=""group-title="Stalker",RTL II
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=425&extension=ts&play_token=gUo874UqgT
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7.png"tvg-chno=""group-title="Stalker",Pro Sieben
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025127&extension=ts&play_token=c0z5kW8nkN
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1.png"tvg-chno=""group-title="Stalker",Kabel eins
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025129&extension=ts&play_token=M40Mn9QlUA
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1classic.png"tvg-chno=""group-title="Stalker",Kabel eins Classics
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025155&extension=ts&play_token=jPF3O5a2Zc
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/vox.png"tvg-chno=""group-title="Stalker",VOX
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=437&extension=ts&play_token=aFAmhEOwRb
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/voxup.png"tvg-chno=""group-title="Stalker",VOXup
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025148&extension=ts&play_token=9nuf8qQ0e1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nitro.png"tvg-chno=""group-title="Stalker",RTL Nitro
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025143&extension=ts&play_token=8Snk4KGabL
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlpassion.png"tvg-chno=""group-title="Stalker",RTL Passion
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025157&extension=ts&play_token=23YxYuO22d
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlup.png"tvg-chno=""group-title="Stalker",RTLup
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025144&extension=ts&play_token=KKLdbKJh8Y
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlsuper.png"tvg-chno=""group-title="Stalker",RTL Super
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=390&extension=ts&play_token=Iom5krNjx9
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/rtlcrime.png"tvg-chno=""group-title="Stalker",RTL Crime
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025142&extension=ts&play_token=SlJBMiiDMl
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sixx.png"tvg-chno=""group-title="Stalker",SIXX
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025147&extension=ts&play_token=pb8m2KmTng
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tele5.png"tvg-chno=""group-title="Stalker",Tele 5
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025135&extension=ts&play_token=EuqSghZFEJ
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1gold.png"tvg-chno=""group-title="Stalker",SAT.1 Gold
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025145&extension=ts&play_token=JlcuSozWHA
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/one.png"tvg-chno=""group-title="Stalker",ONE
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfneo.png"tvg-chno=""group-title="Stalker",ZDFneo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Disneychannel.png"tvg-chno=""group-title="Stalker",Disney Channel
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=398&extension=ts&play_token=HFHLrVe04e
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ProSieben_FUN.png"tvg-chno=""group-title="Stalker",Pro Sieben Fun
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025156&extension=ts&play_token=JJ2D6ZwF0p
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3%2B.png"tvg-chno=""group-title="Stalker",3+
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=2439&extension=ts&play_token=pk02ZyRq6y
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/4%2B.png"tvg-chno=""group-title="Stalker",4+
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=2438&extension=ts&play_token=NJumF7sI93
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/5%2B.png"tvg-chno=""group-title="Stalker",5+
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=2437&extension=ts&play_token=dx8bBj32WG
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/6%2B.png"tvg-chno=""group-title="Stalker",6+
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=36318&extension=ts&play_token=ZF9NvuE1wi
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/atv.png"tvg-chno=""group-title="Stalker",ATV
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=2385&extension=ts&play_token=bgupsbM76Z
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/atv2.png"tvg-chno=""group-title="Stalker",ATV 2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=2384&extension=ts&play_token=KQh0BRa1UX
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls4.png"tvg-chno=""group-title="Stalker",Puls 4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=2381&extension=ts&play_token=ox5JS6pwZR
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/puls24.png"tvg-chno=""group-title="Stalker",Puls 24
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=2380&extension=ts&play_token=r5Fgl2byns
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyatlantic.png"tvg-chno=""group-title="Stalker",Sky Atlantic
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=376&extension=ts&play_token=Mqw2PI17hz
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyone.png"tvg-chno=""group-title="Stalker",Sky One
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=386&extension=ts&play_token=gSG9Azh0gz
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skypremiere.png"tvg-chno=""group-title="Stalker",Sky Cinema Premiere
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=385&extension=ts&play_token=dUgDrjTkKo
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaction.png"tvg-chno=""group-title="Stalker",Sky Cinema Action
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=3385&extension=ts&play_token=7tZnNJtRIi
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/SkycinemaFeelgood.png"tvg-chno=""group-title="Stalker",Sky Cinema Feelgood
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=378&extension=ts&play_token=WgoIEFn2qb
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Skycinemablockbuster.png"tvg-chno=""group-title="Stalker",Sky Cinema Blockbuster
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=380&extension=ts&play_token=nnBXJEwSZP
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyclassics.png"tvg-chno=""group-title="Stalker",Sky Cinema Classics
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=379&extension=ts&play_token=a6vZ2u5qoO
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/crimeinvestigation.png"tvg-chno=""group-title="Stalker",Crime+Investigation
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=354&extension=ts&play_token=3jZa7hOcln
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skykrimi.png"tvg-chno=""group-title="Stalker",Sky Krimi
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=374&extension=ts&play_token=trr1R1FIfm
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnercomedy.png"tvg-chno=""group-title="Stalker",Warner TV Comedy
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=415&extension=ts&play_token=dacNemwB2u
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerfilm.png"tvg-chno=""group-title="Stalker",Warner TV Film
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=416&extension=ts&play_token=huswozqk6b
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerserie.png"tvg-chno=""group-title="Stalker",Warner TV Serie
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=417&extension=ts&play_token=cAFNGCVZe2
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/syfy.png"tvg-chno=""group-title="Stalker",SyFy
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=412&extension=ts&play_token=AK87NOzCxK
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/13street.png"tvg-chno=""group-title="Stalker",13th Street
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=410&extension=ts&play_token=zPxf27vQql
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Kinowelt.png"tvg-chno=""group-title="Stalker",Kinowelt TV
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=411&extension=ts&play_token=mXN49e545l
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/universal.png"tvg-chno=""group-title="Stalker",Universal TV
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=409&extension=ts&play_token=GvH13MRqDp
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/sat1emotion.png"tvg-chno=""group-title="Stalker",SAT.1 Emotions
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025159&extension=ts&play_token=3ypEv5kUVU
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/zdfinfo.png"tvg-chno=""group-title="Stalker",ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/mdr.png"tvg-chno=""group-title="Stalker",MDR Sachsen
+https://mdr-live.ard-mcdn.de/mdr/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/welt.png"tvg-chno=""group-title="Stalker",Welt
+https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ntv.png"tvg-chno=""group-title="Stalker",N-TV
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025133&extension=ts&play_token=wGau8haxGu
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Bild.png"tvg-chno=""group-title="Stalker",Bild TV
+https://bild.personalstream.tv/v1/master.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dmax.png"tvg-chno=""group-title="Stalker",DMAX
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=435&extension=ts&play_token=SpicDdxR9X
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/kabel1doku.png"tvg-chno=""group-title="Stalker",Kabel eins Doku
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025151&extension=ts&play_token=iHJqmcVeC5
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/n24doku.png"tvg-chno=""group-title="Stalker",N24 Doku
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025152&extension=ts&play_token=kjHKF7yUuT
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tlc.png"tvg-chno=""group-title="Stalker",TLC
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=403&extension=ts&play_token=kkQ9MzjIEz
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/curiosity.png"tvg-chno=""group-title="Stalker",Curiosity Channel
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025262&extension=ts&play_token=f1Bs853DA7
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nationalgeo.png"tvg-chno=""group-title="Stalker",National Geographic
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=357&extension=ts&play_token=pDzYEyb4HA
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/nationalwild.png"tvg-chno=""group-title="Stalker",National Geographic Wild
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=356&extension=ts&play_token=qJgcCO29Ml
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/discovery.png"tvg-chno=""group-title="Stalker",Discovery Channel
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=355&extension=ts&play_token=26ex2bSa8Y
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/spiegelgeschichte.png"tvg-chno=""group-title="Stalker",Spiegel Geschichte
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025259&extension=ts&play_token=5NteknRpQu
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/history.png"tvg-chno=""group-title="Stalker",History Channel
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=353&extension=ts&play_token=F4omkKkpNl
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/animalplanethd.png"tvg-chno=""group-title="Stalker",Animal Planet
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=352&extension=ts&play_token=jJ3W22QMtj
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skydocumentaries.png"tvg-chno=""group-title="Stalker",Sky Documentaries
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025248&extension=ts&play_token=ZRRzSrYWVC
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/GEOHD.png"tvg-chno=""group-title="Stalker",Geo
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=351&extension=ts&play_token=6xoOC8SF21
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/www.png"tvg-chno=""group-title="Stalker",Welt der Wunder
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/pro7maxx.png"tvg-chno=""group-title="Stalker",Pro Sieben MAXX
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1025141&extension=ts&play_token=Hi4ESxBRuJ
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/comedycentral.png"tvg-chno=""group-title="Stalker",Comedy Central
+plugin://plugin.video.zattoo_com/?mode=watch&id=comedycentral_de&level=sd&drm=True
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/tagesschau.png"tvg-chno=""group-title="Stalker",Tagesschau 24
+https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ardalpha.png"tvg-chno=""group-title="Stalker",ARD-alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/3sat.png"tvg-chno=""group-title="Stalker",3 Sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/br.png"tvg-chno=""group-title="Stalker",BR
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/swr.png"tvg-chno=""group-title="Stalker",SWR
+https://mcdn.swr.de/swr/swrbwd/master.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/arte.png"tvg-chno=""group-title="Stalker",Arte
+https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/ndr.png"tvg-chno=""group-title="Stalker",NDR
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/wdr.png"tvg-chno=""group-title="Stalker",WDR
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/phoenix.png"tvg-chno=""group-title="Stalker",Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"tvg-chno=""group-title="Stalker",ORF 1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=2395&extension=ts&play_token=kXXSYEb2vT
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"tvg-chno=""group-title="Stalker",ORF 2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=2394&extension=ts&play_token=SmuUITXnX4
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf3.png"tvg-chno=""group-title="Stalker",ORF 3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=2387&extension=ts&play_token=yuvk5qDWeV
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orfsport.png"tvg-chno=""group-title="Stalker",ORF Sport+
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=2386&extension=ts&play_token=nyQpsmGVPw
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportnews.png"tvg-chno=""group-title="Stalker",Sky Sport News
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149457&extension=ts&play_token=40YfVsPopQ
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn1.png"tvg-chno=""group-title="Stalker",DAZN 1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149331&extension=ts&play_token=3TktpghegE
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/dazn2.png"tvg-chno=""group-title="Stalker",DAZN 2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149333&extension=ts&play_token=Z4r8Z6CFn9
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga.png"tvg-chno=""group-title="Stalker",Sky Sport Bundesliga
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=760846&extension=ts&play_token=XVnlj0gRYu
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga1.png"tvg-chno=""group-title="Stalker",Sky Sport Bundesliga 1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=760845&extension=ts&play_token=WfAE1pXoG0
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga2.png"tvg-chno=""group-title="Stalker",Sky Sport Bundesliga 2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=760844&extension=ts&play_token=tIO98hRIht
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga3.png"tvg-chno=""group-title="Stalker",Sky Sport Bundesliga 3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=760843&extension=ts&play_token=OB1FsSVWzm
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga4.png"tvg-chno=""group-title="Stalker",Sky Sport Bundesliga 4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=760842&extension=ts&play_token=O33KPP856A
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga5.png"tvg-chno=""group-title="Stalker",Sky Sport Bundesliga 5
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=760841&extension=ts&play_token=teRSeDiohl
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga6.png"tvg-chno=""group-title="Stalker",Sky Sport Bundesliga 6
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=760840&extension=ts&play_token=shX7lYUza6
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga7.png"tvg-chno=""group-title="Stalker",Sky Sport Bundesliga 7
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=760839&extension=ts&play_token=ckfp2p2URO
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga8.png"tvg-chno=""group-title="Stalker",Sky Sport Bundesliga 8
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=760838&extension=ts&play_token=poPtI6kxNI
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/bundesliga9.png"tvg-chno=""group-title="Stalker",Sky Sport Bundesliga 9
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=760837&extension=ts&play_token=nbO4Hj1s07
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria1.png"tvg-chno=""group-title="Stalker",Sky Sport Austria 1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=36062&extension=ts&play_token=naIFD3Zz1F
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria2.png"tvg-chno=""group-title="Stalker",Sky Sport Austria 2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=36063&extension=ts&play_token=DXzl4mUCsr
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria3.png"tvg-chno=""group-title="Stalker",Sky Sport Austria 3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=36064&extension=ts&play_token=26GCXNaacC
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria4.png"tvg-chno=""group-title="Stalker",Sky Sport Austria 4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=36065&extension=ts&play_token=17ZfAQWfKU
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria5.png"tvg-chno=""group-title="Stalker",Sky Sport Austria 5
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=36066&extension=ts&play_token=VKEMpqYZRK
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria6.png"tvg-chno=""group-title="Stalker",Sky Sport Austria 6
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=36067&extension=ts&play_token=Vkp6VUaCWM
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skyaustria7.png"tvg-chno=""group-title="Stalker",Sky Sport Austria 7
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=36068&extension=ts&play_token=r6uwUC1nOP
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportmix.png"tvg-chno=""group-title="Stalker",Sky Sport Mix
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149456&extension=ts&play_token=fHqvmCkOlr
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysporttopevent.png"tvg-chno=""group-title="Stalker",Sky Sport Top Event
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149460&extension=ts&play_token=ZeMbTJUWEe
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportpremier.png"tvg-chno=""group-title="Stalker",Sky Sport Premier League
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149458&extension=ts&play_token=sRaUBZikgm
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysportf1.png"tvg-chno=""group-title="Stalker",Sky Sport F1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149474&extension=ts&play_token=LUezUitOMQ
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Stalker",Magenta Sport 1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149481&extension=ts&play_token=F5FgZHl409
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Stalker",Magenta Sport 2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149482&extension=ts&play_token=3Ok0L9Wya1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Stalker",Magenta Sport 3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149483&extension=ts&play_token=YXyB5TmWk4
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Stalker",Magenta Sport 4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149484&extension=ts&play_token=me2VJ5rOjt
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Stalker",Magenta Sport 5
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149485&extension=ts&play_token=qN2nogyGRE
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Stalker",Magenta Sport 6
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149486&extension=ts&play_token=vuViEakNWo
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Stalker",Magenta Sport 7
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149487&extension=ts&play_token=HdX0cTpBMD
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Stalker",Magenta Sport 8
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149488&extension=ts&play_token=urtehgWcsz
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Magenta.png"tvg-chno=""group-title="Stalker",Magenta Sport 9
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149489&extension=ts&play_token=TZxOHmevWJ
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport1.png"tvg-chno=""group-title="Stalker",Sky Sport 1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149461&extension=ts&play_token=8yGjm0RHN2
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport2.png"tvg-chno=""group-title="Stalker",Sky Sport 2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149462&extension=ts&play_token=H0UCwkykAv
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport3.png"tvg-chno=""group-title="Stalker",Sky Sport 3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149463&extension=ts&play_token=H0ln2VZsRn
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport4.png"tvg-chno=""group-title="Stalker",Sky Sport 4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149464&extension=ts&play_token=CQejRgEg72
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport5.png"tvg-chno=""group-title="Stalker",Sky Sport 5
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149465&extension=ts&play_token=xXdo0aIfVZ
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport6.png"tvg-chno=""group-title="Stalker",Sky Sport 6
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149466&extension=ts&play_token=FSFhi7kCLK
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skysport7.png"tvg-chno=""group-title="Stalker",Sky Sport 7
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:AB:D1:0A&stream=1149467&extension=ts&play_token=m2rfCCt2BD
