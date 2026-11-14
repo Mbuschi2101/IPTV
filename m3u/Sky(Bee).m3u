@@ -166,7 +166,7 @@ http://nexusconnects.org:80/play/live.php?mac=00:1B:79:3F:42:97&stream=351&exten
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/Leipzig.png"tvg-chno=""group-title="Stalker",Leipzig Fernsehen
 #plugin://plugin.video.zattoo_com/?mode=watch&id=sachsen_fernsehen_leipzig_de&level=hd&drm=False
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf1.png"tvg-chno=""group-title="Stalker",ORF 1
-#http://nexusconnects.org:80/play/live.php?mac=00:1B:79:3F:42:97&stream=2395&extension=ts&play_token=XndLLKh57b
+http://nexusconnects.org:80/play/live.php?mac=00:1B:79:3F:42:97&stream=2395&extension=ts&play_token=XndLLKh57b
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf2.png"tvg-chno=""group-title="Stalker",ORF 2
 #http://nexusconnects.org:80/play/live.php?mac=00:1B:79:3F:42:97&stream=2394&extension=ts&play_token=G1FbKsVTTS
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/orf3.png"tvg-chno=""group-title="Stalker",ORF 3
