@@ -78,7 +78,7 @@ http://nexusconnects.org:80/play/live.php?mac=00:1B:79:3F:42:97&stream=1025216&e
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/crimeinvestigation.png"tvg-chno=""group-title="Stalker",Crime+Investigation
 #http://nexusconnects.org:80/play/live.php?mac=00:1B:79:3F:42:97&stream=354&extension=ts&play_token=FIVe0L8t7N
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/skykrimi.png"tvg-chno=""group-title="Stalker",Sky Krimi
-#http://nexusconnects.org:80/play/live.php?mac=00:1B:79:3F:42:97&stream=374&extension=ts&play_token=XgcjM2MgcU
+http://nexusconnects.org:80/play/live.php?mac=00:1B:79:3F:42:97&stream=374&extension=ts&play_token=XgcjM2MgcU
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnercomedy.png"tvg-chno=""group-title="Stalker",Warner TV Comedy
 http://nexusconnects.org:80/play/live.php?mac=00:1B:79:3F:42:97&stream=415&extension=ts&play_token=J7ylLQsLhu
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/IPTV/refs/heads/main/Picon/warnerfilm.png"tvg-chno=""group-title="Stalker",Warner TV Film
